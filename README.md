@@ -1,1 +1,1 @@
-Backend for StudyBuddy
+Backend for StudyBuddy-cs196
