@@ -48,3 +48,6 @@ def user_route():
     cursor.execute('''SELECT * FROM Users''')
     rv = cursor.fetchall()
     return str(rv)
+
+if __name__ == '__main__':
+    app.run(debug=True)
