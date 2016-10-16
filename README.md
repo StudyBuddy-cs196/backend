@@ -1,1 +1,2 @@
-Backend for StudyBuddy-cs196
+# StudyBuddy Backend Repository
+API Spec to come
