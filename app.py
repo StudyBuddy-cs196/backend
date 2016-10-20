@@ -19,7 +19,7 @@ def hello_world():
 
 @app.route('/api/register', methods=['POST'])
 def register_route():
-    """Docstring"""
+    """Register user into database"""
     email = request.form['email']
     cursor = mysql.connection.cursor()
     cursor.execute('''INSERT INTO Users (Email) VALUES (%s)''', (email,))
@@ -28,7 +28,7 @@ def register_route():
 
 @app.route('/location', methods=['POST'])
 def location(): 
-    """Docstring"""
+    """Update location (latitude/longitude) of given user"""
     email = request.form['email']
     latitude = request.form['latitude']
     longitude = request.form['longitude']
@@ -42,7 +42,7 @@ def location():
 
 @app.route('/discoverable', methods=['POST'])
 def discoverable(): 
-    """Docstring"""
+    """Update "discoverable" boolean"""
     email = request.form['email']
     nsert = request.form['status']
 
@@ -58,7 +58,7 @@ def discoverable():
 
 @app.route('/api/user')
 def user_route():
-    """Docstring"""
+    """Fetches all users"""
     cursor = mysql.connection.cursor()
     cursor.execute('''SELECT * FROM Users''')
     rv = cursor.fetchall()
