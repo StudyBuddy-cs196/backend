@@ -19,31 +19,46 @@ def hello_world():
 
 @app.route('/api/register', methods=['POST'])
 def register_route():
+    """Docstring"""
     email = request.form['email']
     cursor = mysql.connection.cursor()
     cursor.execute('''INSERT INTO Users (Email) VALUES (%s)''', (email,))
     mysql.connection.commit()
     return "Done"
 
+@app.route('/location', methods=['POST'])
+def location(): 
+    """Docstring"""
+    email = request.form['email']
+    latitude = request.form['latitude']
+    longitude = request.form['longitude']
+    cur = mysql.connection.cursor()
+    
+    cur.execute('''UPDATE Users SET Latitude = %s WHERE email = (%s)''', (latitude,email,))
+    cur.execute('''UPDATE Users SET Longitude = %s WHERE email = (%s)''', (longitude,email,))
+
+    mysql.connection.commit()
+    return "Done"
+
 @app.route('/discoverable', methods=['POST'])
-def discoverable(): #WHICH EMAIL
-	email = request.form['email']
-	insert = request.form['status']
+def discoverable(): 
+    """Docstring"""
+    email = request.form['email']
+    nsert = request.form['status']
 
-	cur = mysql.connection.cursor()
-	cur.execute('''SELECT Discoverable FROM Users''')
+    cur = mysql.connection.cursor()
 
-	if insert == 'on':
-		cur.execute('''UPDATE Users SET Discoverable = True WHERE email = (%s)''', (email,))
-	elif insert == 'off':
-		cur.execute('''UPDATE Users SET Discoverable = False WHERE email = (%s)''', (email,))
-    	#ADD HERE
+    if insert == 'on':
+        cur.execute('''UPDATE Users SET Discoverable = True WHERE email = (%s)''', (email,))
+    elif insert == 'off':
+        cur.execute('''UPDATE Users SET Discoverable = False WHERE email = (%s)''', (email,))
 
-	mysql.connection.commit()
-	return "Done"
+    mysql.connection.commit()
+    return "Done"
 
 @app.route('/api/user')
 def user_route():
+    """Docstring"""
     cursor = mysql.connection.cursor()
     cursor.execute('''SELECT * FROM Users''')
     rv = cursor.fetchall()
