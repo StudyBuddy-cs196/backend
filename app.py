@@ -36,12 +36,13 @@ def courses():
         course = request.form['course']
         cur = mysql.connection.cursor()
 
-        if add == True: #add a course
-            cur.execute('''INSERT INTO UsersAndCourses (Email) VALUES (%s)''', (email,))
-            cur.execute('''UPDATE UsersAndCourses SET CourseCode = %s WHERE email = (%s)''', (course,email,))
-        else: #drop a course
-            cur.execute('''DELETE FROM UsersAndCourses WHERE email = (%s) AND coursecode = %s''', (email,course,))
+        if add == "True": #add a course
+            cur.execute('''INSERT INTO UsersAndCourses (Email, CourseCode) VALUES (%s, %s)''', (email,course))
+        elif add == "False": #drop a course
+            cur.execute('''DELETE FROM UsersAndCourses WHERE Email = (%s) AND CourseCode = (%s)''', (email,course))
 
+    mysql.connection.commit()
+    return "Done"
 
 @app.route('/location', methods=['POST'])
 def location(): 
@@ -51,8 +52,8 @@ def location():
     longitude = request.form['longitude']
     cur = mysql.connection.cursor()
     
-    cur.execute('''UPDATE Users SET Latitude = %s WHERE email = (%s)''', (latitude,email,))
-    cur.execute('''UPDATE Users SET Longitude = %s WHERE email = (%s)''', (longitude,email,))
+    cur.execute('''UPDATE Users SET Latitude = %s WHERE Email = (%s)''', (latitude,email,))
+    cur.execute('''UPDATE Users SET Longitude = %s WHERE Email = (%s)''', (longitude,email,))
 
     mysql.connection.commit()
     return "Done"
@@ -66,9 +67,9 @@ def discoverable():
     cur = mysql.connection.cursor()
 
     if insert == 'on':
-        cur.execute('''UPDATE Users SET Discoverable = True WHERE email = (%s)''', (email,))
+        cur.execute('''UPDATE Users SET Discoverable = True WHERE Email = (%s)''', (email,))
     elif insert == 'off':
-        cur.execute('''UPDATE Users SET Discoverable = False WHERE email = (%s)''', (email,))
+        cur.execute('''UPDATE Users SET Discoverable = False WHERE Email = (%s)''', (email,))
 
     mysql.connection.commit()
     return "Done"
