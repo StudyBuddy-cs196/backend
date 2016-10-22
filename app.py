@@ -69,10 +69,10 @@ def matches():
     email = request.args.get('email')
     cur = mysql.connection.cursor()
     
-    cur.execute('''SELECT Latitude AND Longitude FROM Users WHERE Email = (%s)''', (email,))
+    cur.execute('''SELECT Latitude, Longitude FROM Users WHERE Email = (%s)''', (email,))
     userLoc = cur.fetchone()
-
     #finds people who are studying same course
+    
     cur.execute('''SELECT Email FROM UsersAndCourses WHERE CourseCode = (%s)''', (course,))
     courseMatches = cur.fetchall()
 
@@ -80,19 +80,22 @@ def matches():
 
     for match in courseMatches:#finds people in database who are discoverable
         tempEmail = match[0]
+        print tempEmail
         if tempEmail != email: #make sure email is not email of user
             cur.execute('''SELECT Discoverable FROM Users WHERE Email = (%s)''', (tempEmail,))
             discoverable = cur.fetchone()
-            if discoverable:
-                finalMatches.append(email)
+            if discoverable[0] == 1:
+                finalMatches.append(tempEmail)
 
     locationMatches = {}
 
     for matchedEmail in finalMatches: #fill dictionary with user email and distance
-        cur.execute('''SELECT Latitude AND Longitude FROM Users WHERE Email = (%s)''', (matchedEmail,))
+        print matchedEmail
+        cur.execute('''SELECT Latitude, Longitude FROM Users WHERE Email = (%s)''', (matchedEmail,))
         tempLoc = cur.fetchone()
-        locationMatches[matchedEmail] = getDistance(tempLoc, userLoc)
 
+        locationMatches[matchedEmail] = getDistance(tempLoc, userLoc)
+    print locationMatches
     #return array of people as JSON file
     return "Done"
 
