@@ -19,7 +19,7 @@ mysql = MySQL(app)
 def hello_world():
     return 'Hello, World!'
 
-@app.route('/api/register', methods=['POST'])
+@app.route('/register', methods=['POST'])
 def register_route():
     """Register user into database"""
     email = request.form['email']
@@ -47,6 +47,7 @@ def courses():
         # build a return a json representation of all 'email' courses
         course_json = {"courses": course_tup}
         return json.dumps(course_json)
+
     elif (request.method == 'POST'):
         email = request.form['email']
         add = request.form['status']
@@ -67,7 +68,9 @@ def matches():
     course = request.args.get('course')
     email = request.args.get('email')
     cur = mysql.connection.cursor()
-    #add user location point
+    
+    cur.execute('''SELECT Latitude AND Longitude FROM Users WHERE Email = (%s)''', (email,))
+    userLoc = cur.fetchone()
 
     #finds people who are studying same course
     cur.execute('''SELECT Email FROM UsersAndCourses WHERE CourseCode = (%s)''', (course,))
@@ -84,8 +87,11 @@ def matches():
                 finalMatches.append(email)
 
     locationMatches = {}
-    for email in finalMatches: #rank people based on location
-        cur.execute('''SELECT Latitude AND Longitude FROM Users WHERE Email = (%s)''', (email,))
+
+    for matchedEmail in finalMatches: #fill dictionary with user email and distance
+        cur.execute('''SELECT Latitude AND Longitude FROM Users WHERE Email = (%s)''', (matchedEmail,))
+        tempLoc = cur.fetchone()
+        locationMatches[matchedEmail] = getDistance(tempLoc, userLoc)
 
     #return array of people as JSON file
     return "Done"
@@ -126,7 +132,7 @@ def discoverable():
     mysql.connection.commit()
     return "Done"
 
-@app.route('/api/user')
+@app.route('/user')
 def user_route():
     """Fetches all users"""
     cursor = mysql.connection.cursor()
