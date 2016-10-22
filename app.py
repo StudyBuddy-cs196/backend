@@ -1,5 +1,6 @@
 from flask import Flask, request
 from flask_mysqldb import MySQL
+import webscraper
 
 # set up flask app
 app = Flask(__name__)
@@ -27,9 +28,9 @@ def register_route():
     return "Done"
 
 @app.route('/courses', methods=['GET', 'POST'])
-def courses(): 
+def courses():
     if (request.method == 'GET'):
-
+        pass
     elif (request.method == 'POST'):
         email = request.form['email']
         add = request.form['status']
@@ -45,13 +46,13 @@ def courses():
     return "Done"
 
 @app.route('/location', methods=['POST'])
-def location(): 
+def location():
     """Update location (latitude/longitude) of given user"""
     email = request.form['email']
     latitude = request.form['latitude']
     longitude = request.form['longitude']
     cur = mysql.connection.cursor()
-    
+
     cur.execute('''UPDATE Users SET Latitude = %s WHERE Email = (%s)''', (latitude,email,))
     cur.execute('''UPDATE Users SET Longitude = %s WHERE Email = (%s)''', (longitude,email,))
 
@@ -59,7 +60,7 @@ def location():
     return "Done"
 
 @app.route('/discoverable', methods=['POST'])
-def discoverable(): 
+def discoverable():
     """Update "discoverable" boolean"""
     email = request.form['email']
     insert = request.form['status']
@@ -81,6 +82,14 @@ def user_route():
     cursor.execute('''SELECT * FROM Users''')
     rv = cursor.fetchall()
     return str(rv)
+
+def course_scrape():
+    cur = mysql.connection.cursor()
+    course_arr = webscraper.scrape_course()
+    for course in course_arr:
+        cur.execute('''INSERT INTO Courses (CourseCode, CourseName) VALUES (%s,%s)''', (course[0], course[1]))
+    mysql.connection.commit()
+    return "Scrape Succesful DB Updated"
 
 if __name__ == '__main__':
     app.run(debug=True)
