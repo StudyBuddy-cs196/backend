@@ -31,14 +31,20 @@ def register_route():
 @app.route('/courses', methods=['GET', 'POST'])
 def courses():
     if (request.method == 'GET'):
+        # get email from request args
         email = request.args.get('email')
+
+        # connect to mysql and execute a search based on given user email
         cur = mysql.connection.cursor()
         cur.execute('''SELECT CourseCode FROM UsersAndCourses WHERE Email = (%s)''', (email,))
         courses = cur.fetchall()
-        # print courses
+
+        # iterate through the returned courses and make a final array
         course_tup = ()
         for course in courses:
             course_tup += (course[0],)
+            
+        # build a return a json representation of all 'email' courses
         course_json = {"courses": course_tup}
         return json.dumps(course_json)
     elif (request.method == 'POST'):
@@ -56,7 +62,7 @@ def courses():
     return "Done"
 
 @app.route('/matches', methods=['GET'])
-def matches(): 
+def matches():
     """Return matches for user based on course parameter"""
     course = request.args.get('course')
     email = request.args.get('email')
@@ -66,25 +72,25 @@ def matches():
     #finds people who are studying same course
     cur.execute('''SELECT Email FROM UsersAndCourses WHERE CourseCode = (%s)''', (course,))
     courseMatches = cur.fetchall()
-    
+
     finalMatches = []
-    
+
     for match in courseMatches:#finds people in database who are discoverable
         tempEmail = match[0]
         if tempEmail != email: #make sure email is not email of user
             cur.execute('''SELECT Discoverable FROM Users WHERE Email = (%s)''', (tempEmail,))
             discoverable = cur.fetchone()
-            if discoverable: 
+            if discoverable:
                 finalMatches.append(email)
 
     locationMatches = {}
-    for email in finalMatches: #rank people based on location 
+    for email in finalMatches: #rank people based on location
         cur.execute('''SELECT Latitude AND Longitude FROM Users WHERE Email = (%s)''', (email,))
 
     #return array of people as JSON file
     return "Done"
 
-def getDistance(point1, point2)
+def getDistance(point1, point2):
     """Return the distance between two given points"""
     xdiff = point1[0] - point2[0]
     ydiff = point1[1] - point2[1]
