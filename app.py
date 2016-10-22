@@ -26,6 +26,12 @@ def register_route():
     mysql.connection.commit()
     return "Done"
 
+@app.route('/courses', methods=['GET', 'POST'])
+def courses(): 
+    if (request.method == 'GET'):
+        
+    elif (request.method == 'POST'):
+
 @app.route('/location', methods=['POST'])
 def location(): 
     """Update location (latitude/longitude) of given user"""
