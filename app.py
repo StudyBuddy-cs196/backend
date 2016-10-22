@@ -1,5 +1,6 @@
 from flask import Flask, request
 from flask_mysqldb import MySQL
+import json
 import webscraper
 
 # set up flask app
@@ -30,7 +31,16 @@ def register_route():
 @app.route('/courses', methods=['GET', 'POST'])
 def courses():
     if (request.method == 'GET'):
-        pass
+        email = request.args.get('email')
+        cur = mysql.connection.cursor()
+        cur.execute('''SELECT CourseCode FROM UsersAndCourses WHERE Email = (%s)''', (email,))
+        courses = cur.fetchall()
+        # print courses
+        course_tup = ()
+        for course in courses:
+            course_tup += (course[0],)
+        course_json = {"courses": course_tup}
+        return json.dumps(course_json)
     elif (request.method == 'POST'):
         email = request.form['email']
         add = request.form['status']
@@ -46,7 +56,7 @@ def courses():
     return "Done"
 
 @app.route('/matches', methods=['GET'])
-def matches(): 
+def matches():
     #include parameter for course search
     course = request.args.get('course')
 
@@ -56,9 +66,9 @@ def matches():
     cur = mysql.connection.cursor()
     cur.execute('''SELECT Email FROM Users WHERE Discoverable = True''')
     people = cur.fetchall()
-    
-    #rank people based on location 
-    
+
+    #rank people based on location
+
     #return array of people as JSON file
 
 @app.route('/location', methods=['POST'])
@@ -100,6 +110,7 @@ def user_route():
     return str(rv)
 
 def course_scrape():
+    """Scrapes all courses using the module 'webscraper.py'"""
     cur = mysql.connection.cursor()
     course_arr = webscraper.scrape_course()
     for course in course_arr:
