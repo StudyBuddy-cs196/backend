@@ -95,9 +95,8 @@ def matches():
         tempLoc = cur.fetchone()
 
         locationMatches[matchedEmail] = getDistance(tempLoc, userLoc)
-    print locationMatches
-    #return array of people as JSON file
-    return "Done"
+    
+    return json.dumps(locationMatches) #return array of matches as JSON file
 
 def getDistance(point1, point2):
     """Return the distance between two given points"""
