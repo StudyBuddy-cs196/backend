@@ -45,6 +45,22 @@ def courses():
     mysql.connection.commit()
     return "Done"
 
+@app.route('/matches', methods=['GET'])
+def matches(): 
+    #include parameter for course search
+    course = request.args.get('course')
+
+    #find people who are studying same course (can't return same person)
+
+    #find people in database who are discoverable
+    cur = mysql.connection.cursor()
+    cur.execute('''SELECT Email FROM Users WHERE Discoverable = True''')
+    people = cur.fetchall()
+    
+    #rank people based on location 
+    
+    #return array of people as JSON file
+
 @app.route('/location', methods=['POST'])
 def location():
     """Update location (latitude/longitude) of given user"""
