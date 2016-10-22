@@ -56,20 +56,39 @@ def courses():
     return "Done"
 
 @app.route('/matches', methods=['GET'])
-def matches():
-    #include parameter for course search
+def matches(): 
+    """Return matches for user based on course parameter"""
     course = request.args.get('course')
-
-    #find people who are studying same course (can't return same person)
-
-    #find people in database who are discoverable
+    email = request.args.get('email')
     cur = mysql.connection.cursor()
-    cur.execute('''SELECT Email FROM Users WHERE Discoverable = True''')
-    people = cur.fetchall()
+    #add user location point
 
-    #rank people based on location
+    #finds people who are studying same course
+    cur.execute('''SELECT Email FROM UsersAndCourses WHERE CourseCode = (%s)''', (course,))
+    courseMatches = cur.fetchall()
+    
+    finalMatches = []
+    
+    for match in courseMatches:#finds people in database who are discoverable
+        tempEmail = match[0]
+        if tempEmail != email: #make sure email is not email of user
+            cur.execute('''SELECT Discoverable FROM Users WHERE Email = (%s)''', (tempEmail,))
+            discoverable = cur.fetchone()
+            if discoverable: 
+                finalMatches.append(email)
+
+    locationMatches = {}
+    for email in finalMatches: #rank people based on location 
+        cur.execute('''SELECT Latitude AND Longitude FROM Users WHERE Email = (%s)''', (email,))
 
     #return array of people as JSON file
+    return "Done"
+
+def getDistance(point1, point2)
+    """Return the distance between two given points"""
+    xdiff = point1[0] - point2[0]
+    ydiff = point1[1] - point2[1]
+    return (xdiff**2 + ydiff**2)**0.5
 
 @app.route('/location', methods=['POST'])
 def location():
