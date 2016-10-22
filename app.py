@@ -1,5 +1,6 @@
 from flask import Flask, request
 from flask_mysqldb import MySQL
+from geopy.distance import vincenty
 import json
 import webscraper
 
@@ -43,7 +44,7 @@ def courses():
         course_tup = ()
         for course in courses:
             course_tup += (course[0],)
-            
+
         # build a return a json representation of all 'email' courses
         course_json = {"courses": course_tup}
         return json.dumps(course_json)
@@ -68,11 +69,11 @@ def matches():
     course = request.args.get('course')
     email = request.args.get('email')
     cur = mysql.connection.cursor()
-    
+
     cur.execute('''SELECT Latitude, Longitude FROM Users WHERE Email = (%s)''', (email,))
     userLoc = cur.fetchone()
     #finds people who are studying same course
-    
+
     cur.execute('''SELECT Email FROM UsersAndCourses WHERE CourseCode = (%s)''', (course,))
     courseMatches = cur.fetchall()
 
@@ -95,14 +96,12 @@ def matches():
         tempLoc = cur.fetchone()
 
         locationMatches[matchedEmail] = getDistance(tempLoc, userLoc)
-    
+
     return json.dumps(locationMatches) #return array of matches as JSON file
 
 def getDistance(point1, point2):
     """Return the distance between two given points"""
-    xdiff = point1[0] - point2[0]
-    ydiff = point1[1] - point2[1]
-    return (xdiff**2 + ydiff**2)**0.5
+    return vincenty(point1, point2).miles
 
 @app.route('/location', methods=['POST'])
 def location():
