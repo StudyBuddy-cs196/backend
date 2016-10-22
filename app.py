@@ -29,8 +29,19 @@ def register_route():
 @app.route('/courses', methods=['GET', 'POST'])
 def courses(): 
     if (request.method == 'GET'):
-        
+
     elif (request.method == 'POST'):
+        email = request.form['email']
+        add = request.form['status']
+        course = request.form['course']
+        cur = mysql.connection.cursor()
+
+        if add == True: #add a course
+            cur.execute('''INSERT INTO UsersAndCourses (Email) VALUES (%s)''', (email,))
+            cur.execute('''UPDATE UsersAndCourses SET CourseCode = %s WHERE email = (%s)''', (course,email,))
+        else: #drop a course
+            cur.execute('''DELETE FROM UsersAndCourses WHERE email = (%s) AND coursecode = %s''', (email,course,))
+
 
 @app.route('/location', methods=['POST'])
 def location(): 
@@ -50,7 +61,7 @@ def location():
 def discoverable(): 
     """Update "discoverable" boolean"""
     email = request.form['email']
-    nsert = request.form['status']
+    insert = request.form['status']
 
     cur = mysql.connection.cursor()
 
