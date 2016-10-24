@@ -157,7 +157,6 @@ def all_courses():
         json_course.append({
             course_tup[0]: course_tup[1]
         })
-    print json_course
     return json.dumps(json_course)
     # return str(rv)
 
