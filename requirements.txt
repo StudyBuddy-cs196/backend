@@ -24,7 +24,6 @@ pylint==1.6.4
 PyMySQL==0.7.9
 requests==2.11.1
 requests-oauthlib==0.7.0
-SimpleWebSocketServer==0.1.0
 six==1.10.0
 tensorflow==0.10.0
 tweepy==3.5.0
