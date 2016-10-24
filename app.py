@@ -88,14 +88,18 @@ def matches():
             if discoverable[0] == 1:
                 finalMatches.append(tempEmail)
 
-    locationMatches = {}
+    locationMatches = {'matches':[]}
 
     for matchedEmail in finalMatches: #fill dictionary with user email and distance
         print matchedEmail
         cur.execute('''SELECT Latitude, Longitude FROM Users WHERE Email = (%s)''', (matchedEmail,))
         tempLoc = cur.fetchone()
-
-        locationMatches[matchedEmail] = getDistance(tempLoc, userLoc)
+        locationMatches['matches'].append({
+            'email': matchedEmail,
+            'lat': tempLoc[0],
+            'lng': tempLoc[1],
+            'dist': getDistance(tempLoc, userLoc)
+        })
 
     return json.dumps(locationMatches) #return array of matches as JSON file
 
