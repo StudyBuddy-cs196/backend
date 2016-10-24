@@ -141,6 +141,22 @@ def user_route():
     rv = cursor.fetchall()
     return str(rv)
 
+@app.route('/all_courses')
+def all_courses():
+    """Fetches all courses"""
+    cursor = mysql.connection.cursor()
+    cursor.execute('''SELECT * FROM Courses''')
+    rv = cursor.fetchall()
+    # print dict(rv)
+    json_course = []
+    for course_tup  in rv:
+        json_course.append({
+            course_tup[0]: course_tup[1]
+        })
+    print json_course
+    return json.dumps(json_course)
+    # return str(rv)
+
 def course_scrape():
     """Scrapes all courses using the module 'webscraper.py'"""
     cur = mysql.connection.cursor()
