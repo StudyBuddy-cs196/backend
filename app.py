@@ -57,10 +57,16 @@ def courses():
         course = request.form['course']
         cur = mysql.connection.cursor()
 
-        if add == "True": #add a course
-            cur.execute('''INSERT INTO UsersAndCourses (Email, CourseCode) VALUES (%s, %s)''', (email,course))
-        elif add == "False": #drop a course
-            cur.execute('''DELETE FROM UsersAndCourses WHERE Email = (%s) AND CourseCode = (%s)''', (email,course))
+        cur.execute('''SELECT * FROM UsersAndCourses WHERE Email = (%s) AND CourseCode = (%s)''', (email, course))
+        user_info = cur.fetchone()
+
+        # make sure to only add course if it doesn't exist for user already
+        if user_info is None:
+            print "Adding course", course, "to user", email
+            if add == "True": #add a course
+                cur.execute('''INSERT INTO UsersAndCourses (Email, CourseCode) VALUES (%s, %s)''', (email,course))
+            elif add == "False": #drop a course
+                cur.execute('''DELETE FROM UsersAndCourses WHERE Email = (%s) AND CourseCode = (%s)''', (email,course))
 
     mysql.connection.commit()
     return "Done"
