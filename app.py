@@ -43,7 +43,9 @@ def courses():
         # iterate through the returned courses and make a final array
         course_tup = ()
         for course in courses:
-            course_tup += (course[0],)
+            cur.execute('''SELECT CourseName FROM Courses WHERE CourseCode = (%s)''', (course[0],))
+            course_name = cur.fetchone()
+            course_tup += (course[0] +  " " + course_name[0],)
 
         # build a return a json representation of all 'email' courses
         course_json = {"courses": course_tup}
