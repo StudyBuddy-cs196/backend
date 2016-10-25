@@ -25,7 +25,7 @@ def register_route():
     """Register user into database"""
     email = request.form['email']
     cursor = mysql.connection.cursor()
-    cursor.execute('''INSERT INTO Users (Email) VALUES (%s)''', (email,))
+    cursor.execute('''INSERT INTO Users (Email, Latitude, Longitude) VALUES (%s, %s, %s)''', (email,"40.1141","-88.2243"))
     mysql.connection.commit()
     return "Done"
 
