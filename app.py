@@ -23,9 +23,11 @@ def register_route():
     # get name and email from request form
     email = request.form['email']
     name = request.form['name']
+    bio = request.form['bio']
+    picture = request.form['picture']
     cursor = connection.cursor()
     # execute an insert into the DB
-    cursor.execute('''INSERT INTO Users (email, name, courses, latitude, longitude, discoverability) VALUES (%s, %s, %s, %s, %s, %s)''', (email,name,'{}',"40.1141","-88.2243", "true"))
+    cursor.execute('''INSERT INTO Users (email, name, bio, picture, courses, latitude, longitude, discoverability) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)''', (email,name,bio,picture,'{}',"40.1141","-88.2243", "true"))
     connection.commit()
     return "Done"
 
