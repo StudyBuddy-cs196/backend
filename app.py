@@ -1,20 +1,17 @@
 from flask import Flask, request
-from flask_mysqldb import MySQL
+import psycopg2
 from geopy.distance import vincenty
 import json
+from datetime import datetime
 import webscraper
+import os
 
 # set up flask app
 app = Flask(__name__)
 
-# configuration
-app.config['MYSQL_USER'] = 'sql3140347'
-app.config['MYSQL_PASSWORD'] = '8Sy9VubZKL'
-app.config['MYSQL_DB'] = 'sql3140347'
-app.config['MYSQL_HOST'] = 'sql3.freemysqlhosting.net'
+# configure postgres database connection
+connection = psycopg2.connect(os.environ['DATABASE_URL'])
 
-# set up mysql database
-mysql = MySQL(app)
 
 @app.route('/')
 def hello_world():
@@ -23,10 +20,13 @@ def hello_world():
 @app.route('/register', methods=['POST'])
 def register_route():
     """Register user into database"""
+    # get name and email from request form
     email = request.form['email']
-    cursor = mysql.connection.cursor()
-    cursor.execute('''INSERT INTO Users (Email, Latitude, Longitude, Discoverable) VALUES (%s, %s, %s, %s)''', (email,"40.1141","-88.2243", "1"))
-    mysql.connection.commit()
+    name = request.form['name']
+    cursor = connection.cursor()
+    # execute an insert into the DB
+    cursor.execute('''INSERT INTO Users (email, name, courses, latitude, longitude, discoverability) VALUES (%s, %s, %s, %s, %s, %s)''', (email,name,'{}',"40.1141","-88.2243", "true"))
+    connection.commit()
     return "Done"
 
 @app.route('/courses', methods=['GET', 'POST'])
@@ -35,19 +35,20 @@ def courses():
         # get email from request args
         email = request.args.get('email')
 
-        # connect to mysql and execute a search based on given user email
-        cur = mysql.connection.cursor()
-        cur.execute('''SELECT CourseCode FROM UsersAndCourses WHERE Email = (%s)''', (email,))
-        courses = cur.fetchall()
+        # connect to mysql and execute a course search based on given user email
+        cur = connection.cursor()
+        cur.execute('''SELECT courses from Users WHERE email = (%s)''', (email,))
+        courses = cur.fetchone()[0]
+        print email + " has these courses: " + str(courses)
 
-        # iterate through the returned courses and make a final array
+        # iterate through returned courses to make full course names
         course_tup = ()
         for course in courses:
-            cur.execute('''SELECT CourseName FROM Courses WHERE CourseCode = (%s)''', (course[0],))
+            cur.execute('''SELECT coursename FROM Courses WHERE coursecode = (%s)''', (course,))
             course_name = cur.fetchone()
-            course_tup += (course[0] +  " " + course_name[0],)
+            course_tup += (course +  " " + course_name[0],)
 
-        # build a return a json representation of all 'email' courses
+        # build a returnable json representation of all of email's courses
         course_json = {"courses": course_tup}
         return json.dumps(course_json)
 
@@ -55,20 +56,22 @@ def courses():
         email = request.form['email']
         add = request.form['status']
         course = request.form['course']
-        cur = mysql.connection.cursor()
+        cur = connection.cursor()
+        cur.execute('''SELECT courses FROM Users WHERE email = (%s)''', (email,))
+        # get the user's courses as an array
+        user_courses = cur.fetchone()[0]
+        # checks if we want to add and the user doesn't already have the course
+        if add == "True" and course not in user_courses:
+            print "ready to add the course"
+            user_courses.append(course)
+            cur.execute('''UPDATE Users SET courses=%s WHERE email=(%s)''', (user_courses, email))
+        # checks if we want to drop and the user has the course already
+        if add == "False" and course in user_courses:
+            print "dropping the course"
+            user_courses.remove(course)
+            cur.execute('''UPDATE Users SET courses=%s WHERE email=(%s)''', (user_courses, email))
 
-        cur.execute('''SELECT * FROM UsersAndCourses WHERE Email = (%s) AND CourseCode = (%s)''', (email, course))
-        user_info = cur.fetchone()
-
-        # make sure to only add course if it doesn't exist for user already
-        if user_info is None:
-            print "Adding course", course, "to user", email
-            if add == "True": #add a course
-                cur.execute('''INSERT INTO UsersAndCourses (Email, CourseCode) VALUES (%s, %s)''', (email,course))
-            elif add == "False": #drop a course
-                cur.execute('''DELETE FROM UsersAndCourses WHERE Email = (%s) AND CourseCode = (%s)''', (email,course))
-
-    mysql.connection.commit()
+        connection.commit()
     return "Done"
 
 @app.route('/matches', methods=['GET'])
@@ -76,40 +79,41 @@ def matches():
     """Return matches for user based on course parameter"""
     course = request.args.get('course')
     email = request.args.get('email')
-    cur = mysql.connection.cursor()
+    cur = connection.cursor()
 
-    cur.execute('''SELECT Latitude, Longitude FROM Users WHERE Email = (%s)''', (email,))
-    userLoc = cur.fetchone()
-    #finds people who are studying same course
+    # get your own location
+    cur.execute('''SELECT latitude, longitude FROM Users WHERE email=(%s)''', (email,))
+    my_location = cur.fetchone()
 
-    cur.execute('''SELECT Email FROM UsersAndCourses WHERE CourseCode = (%s)''', (course,))
-    courseMatches = cur.fetchall()
+    # find users that are discoverable
+    cur.execute('''SELECT courses, email, name, latitude, longitude FROM Users WHERE discoverability=TRUE and email<>(%s)''', (email,))
+    initial_matches = cur.fetchall()
+    print initial_matches
 
-    finalMatches = []
+    course_matches = []
+    # narrow users down by course
+    for match in initial_matches:
+        courses = match[0]
+        if course in courses:
+            course_matches.append(match)
 
-    for match in courseMatches:#finds people in database who are discoverable
-        tempEmail = match[0]
-        print tempEmail
-        if tempEmail != email: #make sure email is not email of user
-            cur.execute('''SELECT Discoverable FROM Users WHERE Email = (%s)''', (tempEmail,))
-            discoverable = cur.fetchone()
-            if discoverable[0] == 1:
-                finalMatches.append(tempEmail)
+    print "these are the matches that match by course"
+    print course_matches
 
-    locationMatches = {'matches':[]}
+    # convert my location from previous query to float values and tupleize it
+    my_loc = (float(my_location[0]), float(my_location[1]))
 
-    for matchedEmail in finalMatches: #fill dictionary with user email and distance
-        print matchedEmail
-        cur.execute('''SELECT Latitude, Longitude FROM Users WHERE Email = (%s)''', (matchedEmail,))
-        tempLoc = cur.fetchone()
-        locationMatches['matches'].append({
-            'email': matchedEmail,
-            'lat': tempLoc[0],
-            'lng': tempLoc[1],
-            'dist': getDistance(tempLoc, userLoc)
+    final_matches = {'matches':[]}
+    for match in course_matches:
+        location = (float(match[3]), float(match[4]))
+        final_matches['matches'].append({
+            'email': match[1],
+            'name': match[2],
+            'lat': location[0],
+            'lng': location[1],
+            'dist': getDistance(my_loc, location)
         })
-
-    return json.dumps(locationMatches) #return array of matches as JSON file
+    return json.dumps(final_matches)
 
 def getDistance(point1, point2):
     """Return the distance between two given points"""
@@ -121,12 +125,13 @@ def location():
     email = request.form['email']
     latitude = request.form['latitude']
     longitude = request.form['longitude']
-    cur = mysql.connection.cursor()
+    cur = connection.cursor()
 
-    cur.execute('''UPDATE Users SET Latitude = %s WHERE Email = (%s)''', (latitude,email,))
-    cur.execute('''UPDATE Users SET Longitude = %s WHERE Email = (%s)''', (longitude,email,))
-
-    mysql.connection.commit()
+    cur.execute('''UPDATE Users SET latitude = %s WHERE email = (%s)''', (latitude,email,))
+    cur.execute('''UPDATE Users SET longitude = %s WHERE email = (%s)''', (longitude,email,))
+    cur.execute('''UPDATE Users SET checkin = %s WHERE email = (%s)''', (datetime.now(), email,))
+    print("This is the time" + str(datetime.now()))
+    connection.commit()
     return "Done"
 
 @app.route('/discoverable', methods=['POST'])
@@ -135,20 +140,20 @@ def discoverable():
     email = request.form['email']
     insert = request.form['status']
 
-    cur = mysql.connection.cursor()
+    cur = connection.cursor()
 
     if insert == 'on':
-        cur.execute('''UPDATE Users SET Discoverable = True WHERE Email = (%s)''', (email,))
+        cur.execute('''UPDATE Users SET discoverability = True WHERE email = (%s)''', (email,))
     elif insert == 'off':
-        cur.execute('''UPDATE Users SET Discoverable = False WHERE Email = (%s)''', (email,))
+        cur.execute('''UPDATE Users SET discoverability = False WHERE email = (%s)''', (email,))
 
-    mysql.connection.commit()
+    connection.commit()
     return "Done"
 
 @app.route('/user')
 def user_route():
     """Fetches all users"""
-    cursor = mysql.connection.cursor()
+    cursor = connection.cursor()
     cursor.execute('''SELECT * FROM Users''')
     rv = cursor.fetchall()
     return str(rv)
@@ -156,25 +161,40 @@ def user_route():
 @app.route('/all_courses')
 def all_courses():
     """Fetches all courses"""
-    cursor = mysql.connection.cursor()
+    cursor = connection.cursor()
     cursor.execute('''SELECT * FROM Courses''')
     rv = cursor.fetchall()
-    # print dict(rv)
     json_course = []
     for course_tup  in rv:
         json_course.append({
             course_tup[0]: course_tup[1]
         })
     return json.dumps(json_course)
-    # return str(rv)
 
-def course_scrape():
-    """Scrapes all courses using the module 'webscraper.py'"""
-    cur = mysql.connection.cursor()
-    course_arr = webscraper.scrape_course()
-    for course in course_arr:
-        cur.execute('''INSERT INTO Courses (CourseCode, CourseName) VALUES (%s,%s)''', (course[0], course[1]))
-    mysql.connection.commit()
+
+def course_load():
+    """
+    Loads all courses using the text file generated from
+    the module 'webscraper.py'
+    """
+    cur = connection.cursor()
+    # open the file with all the courses scraped
+    course_file = open('courses.txt', 'r')
+    for course_descrip in course_file:
+        # course_descrip = course_file.readline()
+        # course_code - "CS 125"
+        course_code = ''
+        # course_name - "Introduction to Computer Science"
+        course_name = ''
+        # an array with each course part separated
+        course_arr = course_descrip.split()
+        # splice for the individual parts we care about
+        course_code = " ".join(course_arr[:2])
+        course_name = " ".join(course_arr[2:])
+        cur.execute('''INSERT INTO Courses (coursecode, coursename) VALUES (%s,%s)''', (course_code, course_name))
+    course_file.close()
+
+    connection.commit()
     return "Scrape Succesful DB Updated"
 
 if __name__ == '__main__':

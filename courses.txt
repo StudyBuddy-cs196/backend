@@ -1,0 +1,4019 @@
+AAS 100 Intro Asian American Studies
+AAS 200 U.S. Race and Empire
+AAS 246 Asian American Youth in Film
+AAS 258 Muslims in America
+AAS 287 Food and Asian Americans
+AAS 297 Asian Families in America
+AAS 300 Theories of Race, Gender, and Sexuality
+AAS 310 Race and Cultural Diversity
+AAS 370 Immigration, Law, and Rights
+AAS 375 Prisons, Race, and Terror
+AAS 390 Intermed Topics Asian Am St
+AAS 402 Asian American Education
+ABE 100 Intro Agric & Biological Engrg
+ABE 199 Undergraduate Open Seminar
+ABE 223 ABE Principles: Machine Syst
+ABE 224 ABE Principles: Soil & Water
+ABE 341 Transport Processes in ABE
+ABE 361 Off-Road Machine Design
+ABE 397 Independent Study
+ABE 430 Project Management
+ABE 440 Applied Statistical Methods I
+ABE 445 Statistical Methods
+ABE 454 Environmental Soil Physics
+ABE 455 Erosion and Sediment Control
+ABE 459 Drainage and Water Management
+ABE 463 Electrohydraulic Systems
+ABE 466 Engineering Off-Road Vehicles
+ABE 482 Package Engineering
+ABE 488 Bioprocessing Biomass for Fuel
+ABE 497 Independent Study
+ABE 498 Special Topics
+ABE 501 Graduate Research I
+ABE 594 Graduate Seminar
+ABE 597 Independent Study
+ABE 599 Thesis Research
+ACCY 199 Undergraduate Open Seminar
+ACCY 200 Fundamentals of Accounting
+ACCY 201 Accounting and Accountancy I
+ACCY 202 Accounting and Accountancy II
+ACCY 290 Prof Internship in Accountancy
+ACCY 301 Atg Measurement & Disclosure
+ACCY 302 Decision Making for Atg
+ACCY 303 Atg Institutions and Reg
+ACCY 304 Accounting Control Systems
+ACCY 312 Principles of Taxation
+ACCY 321 Principles of Public Policy
+ACCY 352 Database Design and Management
+ACCY 353 Info Sys Analysis and Design
+ACCY 398 Practical Problems in Atg
+ACCY 405 Assurance and Attestation
+ACCY 410 Advanced Financial Reporting
+ACCY 415 Auditing Stds and Practice
+ACCY 451 Advanced Income Tax Problems
+ACCY 499 Senior Research
+ACCY 500 Atg Measuremnt, Rpting & Cntrl
+ACCY 502 Accounting Analysis II
+ACCY 503 Managerial Accounting
+ACCY 504 Auditing
+ACCY 505 Federal Taxation
+ACCY 510 Financial Reporting Standards
+ACCY 511 External Risk Measurement and Reporting
+ACCY 512 Internal Risk Measurement and Reporting
+ACCY 515 Auditing & Assurance Standards
+ACCY 517 Financial Statement Analysis
+ACCY 518 Financial Statement Fraud
+ACCY 551 Corporate Income Taxation
+ACCY 552 Partnership Income Taxation
+ACCY 554 International Taxation
+ACCY 556 Tax Research
+ACCY 558 Taxation of Closely-Held Bus.
+ACCY 570 Data Analytics Foundations for Accountancy
+ACCY 571 Statistical Analyses for Accountancy
+ACCY 585 Constructs in Atg Research
+ACCY 592 Intro to ACCY Research
+ACCY 593 Special Research Problems
+ACCY 599 Thesis Research
+ACE 100 Agr Cons and Resource Econ
+ACE 161 Microcomputer Applications
+ACE 199 Undergraduate Open Seminar
+ACE 210 Environmental Economics
+ACE 222 Agricultural Marketing
+ACE 240 Personal Financial Planning
+ACE 251 The World Food Economy
+ACE 255 Econ of US Rural Poverty & Dev
+ACE 261 Applied Statistical Methods
+ACE 293 Off-Campus Internship
+ACE 294 On-Campus Internship
+ACE 295 Independent Study
+ACE 306 Food Law
+ACE 321 Principles of Public Policy
+ACE 341 Issues&Careers in Applied Econ
+ACE 345 Finan Decision Indiv Sm Bus
+ACE 346 Tax Policy and Finan Planning
+ACE 396 Honors Research or Thesis
+ACE 398 Seminar
+ACE 406 Environmental Law
+ACE 411 Environment and Development
+ACE 427 Commodity Price Analysis
+ACE 428 Commodity Futures and Options
+ACE 432 Farm Management
+ACE 435 Global Agribusiness Management
+ACE 444 Finan Serv & Invest Plan
+ACE 452 The Latin American Economies
+ACE 455 Intl Trade in Food and Agr
+ACE 471 Consumer Economic Policy
+ACE 496 Practicum
+ACE 499 Seminar
+ACE 500 Applied Economic Theory
+ACE 501 Risk and Info: Theory and App
+ACE 520 Food Commodity Markets
+ACE 531 Impact Evaluation
+ACE 562 Applied Regression Models I
+ACE 564 Applied Regression Models II
+ACE 569 Career Development for PhDs
+ACE 571 Household Economics
+ACE 591 Independent Study
+ACE 592 Special Topics
+ACE 594 Seminars and Workshops
+ACE 599 Thesis Research
+ACES 101 Contemporary Issues in ACES
+ACES 179 History of Ag in IL Since 1860
+ACES 199 Undergraduate Open Seminar
+ACES 200 ACES Transfer Orientation
+ACES 293 International Internship
+ACES 295 Undergrad Research or Thesis
+ACES 298 International Experience
+ACES 299 ACES Study Abroad
+ACES 409 Bioenergy Systems
+ACES 509 Advanced Bioenergy Systems
+ADV 150 Introduction to Advertising
+ADV 199 Undergraduate Seminar
+ADV 281 Advertising Research Methods
+ADV 283 Advertising and Brand Strategy
+ADV 284 Consumer Insight
+ADV 310 Intro to Public Relations
+ADV 311 Classic Campaigns
+ADV 350 Writing for Public Relations
+ADV 390 Content Creation
+ADV 400 Special Problems
+ADV 409 Media Entrepreneurship
+ADV 410 Public Relations Strategies
+ADV 452 Creative Concepts I
+ADV 460 Innovation in Advertising
+ADV 482 Qualitative Analysis in Advert
+ADV 483 Audience Analysis
+ADV 490 Advanced Special Topics in Advertising
+ADV 495 Internship Seminar
+ADV 496 UG Research Project
+ADV 497 Colloquium in Advertising
+ADV 498 The Sandage Project
+ADV 509 Media Entrepreneurship
+ADV 550 Foundations of Advertising
+ADV 580 Advertising Theory
+ADV 582 Qualitative Rsrch in Advert
+ADV 587 Graduate Seminar I
+ADV 590 Special Topics in Advertising
+ADV 597 Proseminar in Advertising
+ADV 598 Professional Project
+ADV 599 Thesis Research
+AE 100 Intro to Aerospace Engineering
+AE 199 Undergraduate Open Seminar
+AE 202 Aerospace Flight Mechanics
+AE 298 Special Topics
+AE 311 Incompressible Flow
+AE 321 Mechs of Aerospace Structures
+AE 323 Applied Aerospace Structures
+AE 352 Aerospace Dynamical Systems
+AE 353 Aerospace Control Systems
+AE 395 Honors Project
+AE 396 Honors Seminar
+AE 397 Independent Study
+AE 402 Orbital Mechanics
+AE 412 Viscous Flow & Heat Transfer
+AE 416 Applied Aerodynamics
+AE 420 Finite Element Analysis
+AE 428 Mechanics of Composites
+AE 433 Aerospace Propulsion
+AE 442 Aerospace Systems Design I
+AE 451 Aeroelasticity
+AE 454 Systems Dynamics & Control
+AE 456 Global Nav Satellite Systems
+AE 460 Aerodynamics & Propulsion Lab
+AE 468 Optical Remote Sensing
+AE 482 Introduction to Robotics
+AE 483 Unmanned Aerial Vehicle (UAV) Navigation and Control
+AE 497 Independent Study
+AE 498 Special Topics
+AE 504 Optimal Aerospace Systems
+AE 528 Nonlinear Continuous Media
+AE 542 Aerospace Syst Engineering I
+AE 564 Advanced Aero Propulsion Lab
+AE 590 Seminar
+AE 597 Independent Study
+AE 599 Thesis Research
+AFAS 102 Leadership Laboratory
+AFAS 111 Found of the US Air Force I
+AFAS 221 Evolution Air & Space Power I
+AFAS 331 USAF Leadership Studies I
+AFAS 341 Nat Sec Afrs/Prep Actv Duty I
+AFRO 100 Intro to African American St
+AFRO 101 Black America, 1619-Present
+AFRO 132 African American Music
+AFRO 199 Undergraduate Open Seminar
+AFRO 226 Black Women Contemp US Society
+AFRO 227 Studies in Black Television
+AFRO 259 Afro-American Literature I
+AFRO 261 Intro to the African Diaspora
+AFRO 272 Minority Images in Amer Film
+AFRO 310 Race and Cultural Diversity
+AFRO 312 Psychology of Race & Ethnicity
+AFRO 382 African Amer Families in Film
+AFRO 383 Hist of Blk Women's Activism
+AFRO 400 African Diasporic Lit Americas
+AFRO 411 African American Psychology
+AFRO 421 Racial and Ethnic Families
+AFRO 482 Immersion Journalism
+AFRO 498 Spec Topics African Am Studies
+AFRO 500 Core Probs African-Am Studies
+AFRO 502 Res Method on Racial Community
+AFST 199 Undergraduate Open Seminar
+AFST 231 Elementary Swahili I
+AFST 251 Elementary Zulu I
+AFST 266 African Film and Society
+AFST 405 Topics Swahili Lang & Lit I
+AFST 433 Intermediate Swahili I
+AFST 435 Advanced Swahili I
+AFST 550 Special Topics
+AFST 599 Thesis Research
+AGCM 110 Intro to Ag and Env Comm
+AGCM 199 Undergraduate Open Seminar
+AGCM 220 Communicating Agriculture
+AGCM 270 Ag Sales and Persuasive Communication
+AGCM 293 Communications Internship
+AGCM 294 Research Internship
+AGCM 295 Independent Study or Research
+AGCM 396 Honors Research or Thesis
+AGCM 430 Comm in Env Social Movements
+AGED 100 Intro to Ag & Leadership Ed
+AGED 199 Undergraduate Open Seminar
+AGED 220 Prog Del in Ag & Leadership Ed
+AGED 230 Leadership Communications
+AGED 260 Intro to Leadership Studies
+AGED 280 Training Needs Assessment
+AGED 293 Ag Leadership Internship
+AGED 295 Independent Study or Research
+AGED 340 Leadership Ethics & Pluralism
+AGED 350 Early Field Experience
+AGED 380 Leadership in Groups and Teams
+AGED 396 Honors Research or Thesis
+AGED 400 Foundations of Ag & Extn Ed
+AGED 420 Curr Design & Instruction
+AGED 421 Teaching Strategies in AGED
+AGED 430 Youth Development Programs
+AGED 480 Collaborative Leadership
+AGED 499 Seminar
+AGED 510 Education Program Management
+AGED 511 Grad Professional Dev in Ag Ed
+AGED 520 Teaching College-Level ACES
+AGED 549 Independent Study
+AGED 599 Thesis Research
+AHS 125 Freshmen Scholars Seminar
+AHS 199 Undergraduate Open Seminar
+AHS 292 AHS Study Abroad
+AHS 365 Civic Engagement in Wellness
+AHS 375 Comm Partners & Health
+AHS 399 Advanced Open Seminar
+AHS 494 Special Topics
+AIS 101 Intro to Amer Indian Studies
+AIS 285 Indigenous Thinkers
+ANSC 100 Intro to Animal Sciences
+ANSC 103 Working With Farm Animals
+ANSC 110 Life With Animals and Biotech
+ANSC 199 Undergraduate Open Seminar
+ANSC 206 Horse Management
+ANSC 207 Companion Animal Biology &Care
+ANSC 219 Meat Technology
+ANSC 221 Cells, Metabolism and Genetics
+ANSC 222 Anatomy and Physiology
+ANSC 250 Companion Animals in Society
+ANSC 298 Undergraduate Seminar
+ANSC 305 Human Animal Interactions
+ANSC 307 Companion Animal Management
+ANSC 310 Meat Selection and Grading
+ANSC 312 Advanced Livestock Evaluation
+ANSC 313 Horse Appraisal
+ANSC 314 Adv Dairy Cattle Evaluation
+ANSC 350 Cellular Metabolism in Animals
+ANSC 370 Companion Animal Policy
+ANSC 398 UG Experiential Learning
+ANSC 400 Dairy Herd Management
+ANSC 401 Beef Production
+ANSC 420 Ruminant Nutrition
+ANSC 431 Advanced Reproductive Biology
+ANSC 437 Adv Reproductive Management
+ANSC 440 Applied Statistical Methods I
+ANSC 441 Human Genetics
+ANSC 445 Statistical Methods
+ANSC 449 Biological Modeling
+ANSC 452 Animal Growth and Development
+ANSC 467 Applied Animal Ecology
+ANSC 498 Integrating Animal Sciences
+ANSC 499 Seminar
+ANSC 523 Techniques in Animal Nutrition
+ANSC 525 Topics in Nutrition Research
+ANSC 526 Adv Companion Animal Nutrition
+ANSC 533 Repro Physiology Lab Methods
+ANSC 590 Animal Sciences Seminar
+ANSC 592 Adv Topics in Animal Science
+ANSC 593 Res Studies in Animal Sciences
+ANSC 599 Thesis Research
+ANTH 101 Introduction to Anthropology
+ANTH 103 Anthro in a Changing World
+ANTH 104 Talking Culture
+ANTH 108 Religion & Society in West I
+ANTH 130 History of South Asia
+ANTH 143 Biology of Human Behavior
+ANTH 160 Contemporary Social Issues
+ANTH 180 The Archaeology of Death
+ANTH 182 Latin American Cultures
+ANTH 199 Undergraduate Open Seminar
+ANTH 210 Families in Global Perspective
+ANTH 220 Introduction to Archaeology
+ANTH 230 Sociocultural Anthropology
+ANTH 241 Human Variation and Race
+ANTH 242 History of Human Evolution
+ANTH 246 Forensic Science
+ANTH 261 Intro to the African Diaspora
+ANTH 266 African Film and Society
+ANTH 277 Ancient Cities, Sacred Land
+ANTH 360 Evolution and Human Health
+ANTH 390 Individual Study
+ANTH 391 Honors Individual Study
+ANTH 399 Special Topics
+ANTH 408 Human Evolutionary Anatomy
+ANTH 411 Methods of Cultural Anth
+ANTH 423 Economic Anthropology
+ANTH 441 Human Genetics
+ANTH 444 Methods in Bioanthropology
+ANTH 445 Research in Bioanthropology
+ANTH 454 Archaeological Field School
+ANTH 455 Lab Analysis in Archaeology
+ANTH 456 Human Osteology
+ANTH 460 Heritage Management
+ANTH 495 Honors Senior Thesis
+ANTH 496 Individual Field Research
+ANTH 497 Individual Field Data Analysis
+ANTH 499 Topics in Anthropology
+ANTH 511 Research Proposal Seminar
+ANTH 512 Language in Culture I
+ANTH 514 Seminar in Cognitive Science
+ANTH 515 Seminar in Anthropology
+ANTH 561 Archaeological Theory
+ANTH 589 Readings in Anthropology
+ANTH 590 Dissertation Readings
+ANTH 599 Thesis Research
+ARAB 150 Lang&Culture of Arab World
+ARAB 199 Undergraduate Open Seminar
+ARAB 201 Elementary Standard Arabic I
+ARAB 210 Colloquial Arabic I
+ARAB 403 Intermediate Stand Arabic I
+ARAB 405 Advanced Standard Arabic I
+ARAB 407 Topics Stand Arabic Lang&Lit I
+ARAB 409 Adv Top Stand Arabic LangLit I
+ARAB 413 Arabic-English Translation
+ARCH 101 Introduction to Architecture
+ARCH 199 Undergraduate Open Seminar
+ARCH 231 Anatomy of Buildings
+ARCH 271 Graphics for Architects
+ARCH 341 Environment Tech HVAC
+ARCH 342 Environment Tech Ltg & Acoust
+ARCH 351 Statics & Dynamics
+ARCH 373 Arch Design and the Landscape
+ARCH 400 Senior Honors in Architecture
+ARCH 401 Independent Study
+ARCH 403 Spec Topics in Arch History
+ARCH 409 Special Topics in Spanish Arch
+ARCH 412 Medieval Architecture
+ARCH 417 Twentieth-Century Architecture
+ARCH 423 Soc/Beh Factors for Design
+ARCH 424 Gender & Race in Contemp Arch
+ARCH 451 Theory & Design Steel & Timber
+ARCH 468 Overseas Architectural Studies
+ARCH 471 Fundamentals of Arch Design
+ARCH 475 Arch Design & Development
+ARCH 476 Arch Design & Exploration
+ARCH 490 Special Topics in Contemporary Architecture
+ARCH 491 Arch Professional Internship
+ARCH 498 Directed Research in Arch
+ARCH 499 Off-Campus Study
+ARCH 502 Structural Planning
+ARCH 518 Recording Historic Buildings
+ARCH 519 Conserv of Building Materials
+ARCH 544 Bldg Sys & Design Integration
+ARCH 551 Structural Analysis
+ARCH 554 Adv Steel Design
+ARCH 560 Advanced Structural Analysis
+ARCH 571 Design:Detail & Architectonics
+ARCH 572 Design: Behavior & Environment
+ARCH 573 Design:Technology &Performance
+ARCH 574 Design:Arch/Urban&Preservation
+ARCH 576 Architectural Design Seminar
+ARCH 577 Theory of Architecture
+ARCH 589 PhD Colloquium
+ARCH 590 Directed Research
+ARCH 591 Spec Prob Arch Hist & Pres
+ARCH 593 Spec Prob Arch Practice & Mgt
+ARCH 594 Spec Prob Building Sci & Tech
+ARCH 595 Spec Prob Struct Theory & Des
+ARCH 597 Spec Prob Arch Design
+ARCH 598 Specialized Architectural Practice
+ARCH 599 Thesis Research
+ART 100 Understanding Visual Culture
+ART 102 Drawing for Non-Majors
+ART 103 Painting for Non-Majors
+ART 104 Sculpture for Non-Majors
+ART 105 Visual Design for Non-Majors
+ART 140 Introduction to Art
+ART 150 Introduction to Drawing
+ART 151 Black & White Film Photography
+ART 153 Digital Photography Seminar
+ART 154 Digital Video
+ART 191 Unit One Studio/Seminar
+ART 199 Undergraduate Open Seminar
+ART 201 Art in Early Childhood
+ART 280 Exploring Visual Culture
+ART 310 Design Thinking
+ARTD 201 Industrial Design I
+ARTD 209 Chado (The Way of Tea)
+ARTD 218 Intro to Web Technologies
+ARTD 222 Typographic Practice
+ARTD 225 Design Drawing
+ARTD 230 User-oriented Collab Design
+ARTD 260 Basic Photography
+ARTD 262 View Camera
+ARTD 270 Design Methods
+ARTD 299 Spec Topics in Design Courses
+ARTD 301 Industrial Design III
+ARTD 328 Human-Centered Product Design
+ARTD 351 Graphic Design Inquiry
+ARTD 360 Photography III
+ARTD 363 RAW Photography
+ARTD 371 Graphic Design Practicum
+ARTD 391 Special Problems in Design
+ARTD 399 Internship in Design
+ARTD 401 Industrial Design V
+ARTD 415 Ninth Letter
+ARTD 418 Digital Interaction Sandbox
+ARTD 426 Product Innovation
+ARTD 445 Seminar in Design
+ARTD 460 Advanced Photography
+ARTD 490 Senior Honors
+ARTD 501 Industrial Design I
+ARTD 503 Industrial Design III
+ARTD 505 Industrial Design V
+ARTD 591 Special Problems in Design
+ARTD 595 Design Laboratory
+ARTD 599 Industrial Design Thesis
+ARTE 202 Methods of Teaching Art
+ARTE 203 Everyday Arts Lab
+ARTE 204 Practicum Teaching Experience
+ARTE 302 Public School Art Programs
+ARTE 350 Creative Dance for Children
+ARTE 391 Independent Study
+ARTE 401 Teaching Seminar
+ARTE 475 Art Exhibition Practices
+ARTE 490 Senior Honors
+ARTE 501 Issues in Art Education
+ARTE 503 Professional Teaching Seminar
+ARTE 591 Independent Graduate Studies
+ARTE 599 Thesis Research
+ARTF 101 Contemporary Issues in Art
+ARTF 102 Drawing I
+ARTF 103 Design I
+ARTF 199 Undergraduate Open Seminar
+ARTH 112 Renaissance to Modern Art
+ARTH 211 Design History Survey
+ARTH 217 Development of Ancient Cities
+ARTH 222 Medieval Art
+ARTH 241 Modern Art, 1880-1940
+ARTH 342 Arts of Colonial Latin America
+ARTH 391 Individual Art History Topics
+ARTH 395 Junior Seminar in Art History
+ARTH 416 The Archaeology of Italy
+ARTH 489 Senior Art-History Honors-BA
+ARTH 490 Senior Art-History Honors-BFA
+ARTH 491 Topics in Art History
+ARTH 495 Senior Seminar in Art History
+ARTH 535 Seminar in Baroque Art
+ARTH 546 Seminar in Contemporary Art
+ARTH 588 Pedagogy: Theory and Practice
+ARTH 591 Individual Readings
+ARTH 593 Theory and Methodology
+ARTH 599 Thesis Research
+ARTS 210 Ceramics Sculpture I
+ARTS 230 Jewelry/Metals I
+ARTS 250 Life Drawing
+ARTS 251 Painting I
+ARTS 252 Making and Meaning
+ARTS 280 Sculpture I
+ARTS 299 Spec Topics in Studio Art
+ARTS 330 Jewelry Metals III
+ARTS 331 Jewelry Metals IV
+ARTS 332 Metal Technology
+ARTS 334 Metalsmithing
+ARTS 341 Image Practice
+ARTS 343 Time Arts I
+ARTS 344 Interaction I
+ARTS 350 Intermediate Studio I
+ARTS 391 Independent Study
+ARTS 410 Advanced Ceramics Sculpture
+ARTS 430 Jewelry Metals V
+ARTS 445 Special Topics in New Media
+ARTS 450 Advanced Studio I
+ARTS 454 Advanced Drawing
+ARTS 490 Senior Honors
+ARTS 499 Special Topics in Studio Art
+ARTS 591 Graduate Studio
+ARTS 593 Seminar: Methods Criticism
+ARTS 595 Graduate Laboratory
+ASST 104 Asian Mythology
+ASST 199 Undergraduate Open Seminar
+ASST 218 S Asian Cultural Landscapes
+ASST 390 Individual Study
+ASST 590 Individual Study and Research
+ASTR 100 Introduction to Astronomy
+ASTR 121 The Solar System
+ASTR 122 Stars and Galaxies
+ASTR 150 Killer Skies: Astro-Disasters
+ASTR 199 Undergraduate Open Seminar
+ASTR 210 Introduction to Astrophysics
+ASTR 330 Extraterrestrial Life
+ASTR 350 Introduction to Cosmology
+ASTR 390 Individual Study
+ASTR 401 Scientific Writing for Astronomy
+ASTR 404 Stellar Astrophysics
+ASTR 406 Galaxies and the Universe
+ASTR 490 Senior Thesis
+ASTR 496 Seminar in Astronomy
+ASTR 499 Astronomy Laboratory
+ASTR 503 Observational Astronomy
+ASTR 506 Galaxies
+ASTR 540 Astrophysics
+ASTR 590 Individual Study
+ASTR 599 Thesis Research
+ATMS 100 Introduction to Meteorology
+ATMS 120 Severe and Hazardous Weather
+ATMS 140 Climate and Global Change
+ATMS 201 General Physical Meteorology
+ATMS 301 Atmospheric Thermodynamics
+ATMS 302 Atmospheric Dynamics I
+ATMS 303 Synoptic-Dynamic Wea Analysis
+ATMS 391 Topics in Atmospheric Sciences
+ATMS 405 Boundary Layer Processes
+ATMS 406 Tropical Meteorology
+ATMS 420 Atmospheric Chemistry
+ATMS 425 Air Quality Modeling
+ATMS 447 Climate Change Assessment
+ATMS 490 Individual Study
+ATMS 491 Adv Topics in Atmospheric Sci
+ATMS 492 Capstone Undergrad Research
+ATMS 500 Dynamic Meteorology
+ATMS 504 Physical Meteorology
+ATMS 571 Professional Development
+ATMS 590 Individual Study
+ATMS 591 Atmospheric Sciences Seminar
+ATMS 596 Non-Thesis Research
+ATMS 599 Thesis Research
+BADM 199 Undergraduate Open Seminar
+BADM 205 Business Location Decisions
+BADM 261 Technology & Mgmt Seminar
+BADM 300 The Legal Environment of Bus
+BADM 303 Principles of Public Policy
+BADM 310 Mgmt and Organizational Beh
+BADM 311 Individual Behavior in Orgs
+BADM 312 Org Design and Environment
+BADM 313 Human Resource Management
+BADM 314 Leading Negotiations
+BADM 320 Principles of Marketing
+BADM 321 Principles of Retailing
+BADM 322 Marketing Research
+BADM 325 Consumer Behavior
+BADM 327 Marketing to Business and Govt
+BADM 329 New Product Development
+BADM 332 Prod Dvlpmnt for Sub Mktplaces
+BADM 335 Supply Chain Management Basics
+BADM 336 Modeling the Supply Chain
+BADM 340 Ethical Dilemmas of Business
+BADM 350 IT for Networked Organizations
+BADM 351 E-Business Management
+BADM 352 Database Design and Management
+BADM 353 Info Sys Analysis and Design
+BADM 365 New Product Marketing
+BADM 367 Mgmt of Innov and Technology
+BADM 374 Management Decision Models
+BADM 375 Business Process Management
+BADM 377 Project Management
+BADM 378 Logistics Management
+BADM 380 International Business
+BADM 381 Multinational Management
+BADM 382 International Marketing
+BADM 394 Senior Research I
+BADM 395 Senior Research II
+BADM 420 Advanced Marketing Management
+BADM 445 Small Business Consulting
+BADM 446 Entrepreneurship Sm Bus Form
+BADM 449 Business Policy and Strategy
+BADM 453 Decision Support Systems
+BADM 458 IT Governance
+BADM 460 Business Process Modeling
+BADM 503 Classics in Business Admin
+BADM 504 Phil of Science and Bus Admin
+BADM 508 Leadership and Teams
+BADM 509 Managing Organizations
+BADM 512 HR Management and Strategy
+BADM 514 Managing Innovation
+BADM 520 Marketing Management
+BADM 525 New Product Development
+BADM 532 Sust Products for Subsistence
+BADM 538 Res Sem in Consumer Behavior
+BADM 544 Strategic Management
+BADM 549 Current Strategy Research
+BADM 555 Info Sys Development and Mgt
+BADM 559 Enterprise IT Governance
+BADM 566 Supply Chain Management
+BADM 567 Process Management
+BADM 572 Stat for Mgt Decision Making
+BADM 582 Multinational Management
+BADM 583 Current Topics in Intl Bus
+BADM 586 Intl Comparative Management
+BADM 590 Seminar in Business Admin
+BADM 591 Proseminar in Business Admin
+BADM 594 Independent Study and Research
+BADM 595 Business Fundamentals
+BADM 599 Dissertation Research
+BCS 101 First Year Bosnian-Croatian-Serbian I
+BCS 115 South Slavic Cultures
+BCS 201 Second Year Bosnian-Croatian-Serbian I
+BIOC 190 Biochemistry Orientation
+BIOC 199 Undergraduate Open Seminar
+BIOC 290 Individual Topics
+BIOC 440 Physical Chemistry Principles
+BIOC 460 Biochemistry Senior Seminar
+BIOC 492 Senior Thesis
+BIOC 555 Anlys Biochemical Literature
+BIOC 590 Individual Topics
+BIOC 595 Biochemistry Seminar
+BIOC 599 Thesis Research
+BIOE 120 Introduction to Bioengineering
+BIOE 199 Undergraduate Open Seminar
+BIOE 201 Conservation Principles Bioeng
+BIOE 202 Cell & Tissue Engineering Lab
+BIOE 206 Cellular Bioengineering
+BIOE 220 Bioenergetics
+BIOE 297 Individual Study
+BIOE 298 Special Topics
+BIOE 302 Modeling Human Physiology
+BIOE 303 Quantitative Physiology Lab
+BIOE 306 Biofabrication Lab
+BIOE 380 Biomedical Imaging
+BIOE 397 Individual Study
+BIOE 414 Biomedical Instrumentation
+BIOE 415 Biomedical Instrumentation Lab
+BIOE 430 Intro Synthetic Biology
+BIOE 435 Senior Design I
+BIOE 461 Cellular Biomechanics
+BIOE 476 Tissue Engineering
+BIOE 482 Musculoskel Tissue Mechanics
+BIOE 497 Individual Study
+BIOE 498 Special Topics
+BIOE 500 Graduate Seminar
+BIOE 501 Seminar Discussion
+BIOE 502 Bioengineering Professionalism
+BIOE 504 Analytical Methods in Bioeng
+BIOE 505 Computational Bioengineering
+BIOE 570 Bioinstrumentation Seminar
+BIOE 571 Biological Measurement I
+BIOE 573 Biomedical Systems Engineering
+BIOE 597 Individual Study
+BIOE 598 Special Topics
+BIOL 599 Thesis Research
+BIOP 401 Introduction to Biophysics
+BIOP 581 Lab Rotation I
+BIOP 582 Lab Rotation II
+BIOP 583 Lab Rotation III
+BIOP 586 Special Topics in Biophysics
+BIOP 590 Individual Topics
+BIOP 595 Biophysics Seminars
+BIOP 599 Thesis Research
+BTW 250 Principles Bus Comm
+BTW 261 Principles Tech Comm
+BTW 263 Writing in the Disciplines
+BTW 271 Persuasive Writing
+BTW 290 Individual Study
+BTW 402 Descriptive English Grammar
+BTW 490 Special Topics Prof Writing
+BUS 101 Business Prof Responsibility
+BUS 120 Business Honors Seminar
+BUS 199 Undergraduate Open Seminar
+BUS 299 BUS Internship
+BUS 399 Business Study Abroad
+CATL 401 Intensive Catalan Language
+CB 290 Independent Research
+CB 449 Basic Toxicology
+CB 533 Repro Physiology Lab Methods
+CB 551 Ecotoxicology North Hemisphere
+CB 552 Ethics in Toxicology
+CB 590 Seminar
+CB 592 Special Problems
+CB 596 Interdisciplinary Tox Sem
+CB 599 Thesis Research
+CB 692 Special Problems
+CDB 590 Individual Topics
+CDB 595 Graduate Sem Cell Devel Biol
+CDB 599 Thesis Research
+CEE 195 About Civil Engineering
+CEE 201 Systems Engrg & Economics
+CEE 202 Engineering Risk & Uncertainty
+CEE 300 Behavior of Materials
+CEE 310 Transportation Engineering
+CEE 320 Construction Engineering
+CEE 330 Environmental Engineering
+CEE 340 Energy and Global Environment
+CEE 350 Water Resources Engineering
+CEE 360 Structural Engineering
+CEE 380 Geotechnical Engineering
+CEE 398 Special Topics
+CEE 401 Concrete Materials
+CEE 405 Asphalt Materials I
+CEE 406 Pavement Design I
+CEE 408 Railroad Transportation Engrg
+CEE 409 Railroad Track Engineering
+CEE 416 Traffic Capacity Analysis
+CEE 417 Urban Transportation Planning
+CEE 421 Construction Planning
+CEE 422 Construction Cost Analysis
+CEE 432 Stream Ecology
+CEE 434 Environmental Systems I
+CEE 437 Water Quality Engineering
+CEE 442 Environmental Engineering Principles, Physical
+CEE 443 Env Eng Principles, Chemical
+CEE 445 Air Quality Modeling
+CEE 446 Air Quality Engineering
+CEE 447 Atmospheric Chemistry
+CEE 450 Surface Hydrology
+CEE 451 Environmental Fluid Mechanics
+CEE 457 Groundwater
+CEE 460 Steel Structures I
+CEE 461 Reinforced Concrete I
+CEE 463 Reinforced Concrete II
+CEE 465 Design of Structural Systems
+CEE 467 Masonry Structures
+CEE 470 Structural Analysis
+CEE 471 Structural Mechanics
+CEE 472 Structural Dynamics I
+CEE 483 Soil Mechanics and Behavior
+CEE 491 Decision and Risk Analysis
+CEE 493 Sustainable Design Eng Tech
+CEE 495 Professional Practice
+CEE 497 Independent Study
+CEE 498 Special Topics
+CEE 512 Logistics Systems Analysis
+CEE 524 Construction Law
+CEE 525 Construction Case Studies
+CEE 526 Construction Optimization
+CEE 537 Water Quality Control Proc I
+CEE 551 Open-Channel Hydraulics
+CEE 554 Hydrologic Variability
+CEE 576 Nonlinear Finite Elements
+CEE 581 Dams, Embankments, and Slopes
+CEE 582 Consolidation of Clays
+CEE 585 Deep Foundations
+CEE 586 Rock Mechanics and Behavior
+CEE 595 Seminar
+CEE 597 Independent Study
+CEE 598 Special Topics
+CEE 599 Thesis Research
+CHBE 199 Undergraduate Open Seminar
+CHBE 202 Cooperative Education Practice
+CHBE 210 CHBE Internship
+CHBE 221 Principles of CHE
+CHBE 297 Individual Study Sophomores
+CHBE 321 Thermodynamics
+CHBE 397 Individual Study for Juniors
+CHBE 421 Momentum and Heat Transfer
+CHBE 422 Mass Transfer Operations
+CHBE 424 Chemical Reaction Engineering
+CHBE 430 Unit Operations Laboratory
+CHBE 431 Process Design
+CHBE 440 Process Control and Dynamics
+CHBE 457 Microelectronics Processing
+CHBE 475 Tissue Engineering
+CHBE 494 Special Topics
+CHBE 497 Individual Study for Seniors
+CHBE 499 Senior Thesis
+CHBE 521 Applied Mathematics in CHBE
+CHBE 565 CHBE Seminar
+CHBE 593 Individual Study
+CHBE 594 Special Topics
+CHBE 597 Special Problems
+CHBE 598 Research Seminar
+CHBE 599 Thesis Research
+CHEM 101 Introductory Chemistry
+CHEM 102 General Chemistry I
+CHEM 103 General Chemistry Lab I
+CHEM 104 General Chemistry II
+CHEM 105 General Chemistry Lab II
+CHEM 197 Individual Study Freshman
+CHEM 199 Undergraduate Open Seminar
+CHEM 202 Accelerated Chemistry I
+CHEM 203 Accelerated Chemistry Lab I
+CHEM 222 Quantitative Analysis Lecture
+CHEM 223 Quantitative Analysis Lab
+CHEM 232 Elementary Organic Chemistry I
+CHEM 233 Elementary Organic Chem Lab I
+CHEM 236 Fundamental Organic Chem I
+CHEM 237 Structure and Synthesis
+CHEM 293 Cooperative Education Practice
+CHEM 295 Chemistry Internship
+CHEM 297 Individual Study Sophomore
+CHEM 312 Inorganic Chemistry
+CHEM 315 Instrumental Chem Systems Lab
+CHEM 317 Inorganic Chemistry Lab
+CHEM 332 Elementary Organic Chem II
+CHEM 397 Individual Study Junior
+CHEM 420 Instrumental Characterization
+CHEM 436 Fundamental Organic Chem II
+CHEM 440 Physical Chemistry Principles
+CHEM 442 Physical Chemistry I
+CHEM 444 Physical Chemistry II
+CHEM 445 Physical Principles Lab I
+CHEM 447 Physical Principles Lab II
+CHEM 480 Polymer Chemistry
+CHEM 492 Special Topics in Chemistry
+CHEM 494 Lab Safety Fundamentals
+CHEM 495 Teaching Secondary Chemistry
+CHEM 497 Individual Study Senior
+CHEM 499 Senior Thesis
+CHEM 512 Advanced Inorganic Chemistry
+CHEM 515 Inorganic Chemistry Seminar
+CHEM 517 Advanced Inorganic Chem Lab
+CHEM 525 Analytical Chemistry Seminar
+CHEM 532 Physical Organic Chemistry
+CHEM 534 Advanced Organic Synthesis
+CHEM 535 Organic Chemistry Seminar
+CHEM 540 Quantum Mechanics
+CHEM 544 Statistical Thermodynamics
+CHEM 545 Physical Chemistry Seminar
+CHEM 570 Concepts in Chemical Biology
+CHEM 575 Chemical Biology Seminar
+CHEM 584 Introduction to Materials Chem
+CHEM 585 Materials Chemistry Seminar
+CHEM 590 Special Topics in Chemistry
+CHEM 592 Preparing Graduate Fellowships
+CHEM 599 Thesis Research
+CHIN 201 Elementary Chinese I
+CHIN 203 Intermediate Chinese I
+CHIN 221 Elementary Spoken Mandarin I
+CHIN 241 Chinese Reading and Writing
+CHIN 305 Advanced Chinese I
+CHIN 407 Intro to Classical Chinese
+CHIN 440 Fourth-Year Chinese I
+CHIN 490 Readings in Chinese Lit
+CHLH 100 Contemporary Health
+CHLH 101 Introduction to Public Health
+CHLH 110 Intro to the Health Sciences
+CHLH 125 Orientation KIN & Comm Health
+CHLH 199 Undergraduate Open Seminar
+CHLH 200 Mental Health
+CHLH 206 Human Sexuality
+CHLH 210 Community Health Organizations
+CHLH 243 Drug Use and Abuse
+CHLH 244 Health Statistics
+CHLH 250 Health Care Systems
+CHLH 260 Introduction to Medical Ethics
+CHLH 274 Introduction to Epidemiology
+CHLH 304 Foundations of Health Behavior
+CHLH 330 Disability in American Society
+CHLH 365 Civic Engagement in Wellness
+CHLH 380 Orientation to Internship
+CHLH 390 Honors
+CHLH 393 Special Projects
+CHLH 404 Gerontology
+CHLH 410 Public Health Practice
+CHLH 415 International Health
+CHLH 421 Health Data Analysis
+CHLH 429 Research Techniques
+CHLH 448 Exercise & Health Psychology
+CHLH 455 Health Services Financing
+CHLH 456 Organization of Health Care
+CHLH 457 Health Planning
+CHLH 458 Health Administration
+CHLH 474 Principles of Epidemiology
+CHLH 485 Community Health Internship
+CHLH 494 Special Topics
+CHLH 501 Issues in Health Education
+CHLH 517 Principle/Method Epidemiology
+CHLH 540 Health Behavior: Theory
+CHLH 565 Teaching in the Professoriate
+CHLH 573 Biostatistics in Public Health
+CHLH 575 Chronic Disease Prevention
+CHLH 587 MPH Practicum
+CHLH 589 Public Health Capstone Expnce
+CHLH 591 Seminar
+CHLH 593 Special Projects
+CHLH 594 Special Topics
+CHLH 599 Thesis Research
+CHP 199 Special Topics
+CHP 395 Interdisciplinary Seminar
+CI 199 Undergraduate Open Seminar
+CI 210 Introduction to Digital Learning Environments
+CI 395 Independent Study
+CI 403 Tchg Diverse High School Stu
+CI 405 Intro Tchg Elem Age Children
+CI 406 Thry Prac in Elem Schl Tch I
+CI 410 Middle School Instruction, Philosophy and Structures
+CI 415 Lang Varieties,Cult,& Learning
+CI 421 Prin & Prac in Early Childhood
+CI 422 Families, Communities, Schools
+CI 430 Teaching Children Mathematics
+CI 433 Found of Bilingual Educ
+CI 446 Culture in the Classroom
+CI 447 Iss Prac in Address Diversity
+CI 450 Tchg Elem Science I
+CI 466 Lang Literacy in EC Educ II
+CI 467 Princ Tchg Lit to Child Youth
+CI 468 Children's Lit for EC Edu
+CI 471 Princ Prac Foster Indep Rdg
+CI 476 Teach Elem & Mid Lang Arts
+CI 477 Biling ESL Methods & Material
+CI 484 Learning Technologies
+CI 485 Assessing Student Performance
+CI 499 Issues and Development in Educ
+CI 507 Prob Trends in Spec Fields
+CI 509 Curriculum Research
+CI 518 Evaluation of Edu Programs
+CI 519 Methods of Child Study
+CI 522 Arts in EC: Curr in Context
+CI 533 Problem Solving in Math Ed
+CI 546 MST Proseminar II
+CI 548 Capstone Project
+CI 550 Methods of Educational Inquiry
+CI 563 Writing Studies
+CI 569 Topics Discourse and Writing
+CI 575 Assessment in Reading
+CI 587 Multicultural Literature K-12
+CI 590 Sem for Adv Stu of Education
+CI 591 Field Study & Thesis Seminar
+CI 595 Independent Study
+CI 599 Thesis Research
+CIC 500 CIC Traveling Scholar
+CLCV 100 Vocab Building-GRK & LAT Roots
+CLCV 102 Medical Terms-GRK & LAT Roots
+CLCV 111 Mythology of Greece and Rome
+CLCV 114 Introduction to Greek Culture
+CLCV 115 Mythology of Greece and Rome
+CLCV 131 Classical Archaeology, Greece
+CLCV 160 Ancient Greek & Roman Religion
+CLCV 199 Undergraduate Open Seminar
+CLCV 203 Ancient Philosophy
+CLCV 206 Classical Allusions in Cinema
+CLCV 220 Origins of Western Literature
+CLCV 225 Greco-Roman Demo, Econ, Cult
+CLCV 231 Development of Ancient Cities
+CLCV 240 Sex & Gender in Antiquity
+CLCV 291 Freshman Honors Tutorial
+CLCV 323 The Comic Imagination
+CLCV 430 History of Translation
+CLCV 444 The Archaeology of Italy
+CLCV 491 Topics Classic Arch & Civ
+CLCV 492 Senior Thesis
+CLCV 493 Independent Reading
+CLCV 498 Senior Survey
+CMN 101 Public Speaking
+CMN 102 Intro to Comm Theory & Res
+CMN 111 Oral & Written Comm I
+CMN 113 Small Group Communication
+CMN 191 Freshman Honors Tutorial
+CMN 199 Undergraduate Open Seminar
+CMN 204 Internship in Teaching Comm
+CMN 211 Business Communication
+CMN 212 Intro to Organizational Comm
+CMN 220 Communicating Public Policy
+CMN 230 Intro to Interpersonal Comm
+CMN 232 Intro to Intercultural Comm
+CMN 260 Intro to Health Communication
+CMN 275 Media, Money and Power
+CMN 277 Intro to Mediated Comm
+CMN 280 Comm Technology & Society
+CMN 304 Communication Internship
+CMN 321 Strategies of Persuasion
+CMN 323 Argumentation
+CMN 325 Politics and the Media
+CMN 336 Family Communication
+CMN 340 Visual Politics
+CMN 345 Visual Media Effects
+CMN 368 Sexual Communication
+CMN 370 Political Economy of Communication
+CMN 377 Propaganda and Modern Society
+CMN 390 Individual Study
+CMN 396 Special Topics in Comm
+CMN 410 Workplace Comm Technology
+CMN 421 Persuasion Theory & Research
+CMN 423 Rhetorical Criticism
+CMN 429 Race and the Mass Media
+CMN 435 Adv Interpersonal Comm
+CMN 464 Health Communication Campaigns
+CMN 467 Communication & Health Equity
+CMN 476 Commercialism and the Public
+CMN 491 Honors Individual Study
+CMN 493 Honors Senior Thesis
+CMN 496 Adv Topics in Communication
+CMN 501 Intro to Health Communication
+CMN 503 Health Comm Research MethodsII
+CMN 507 Hlth Comm Orgs Profs & Policy
+CMN 529 Seminar Communication Theory
+CMN 538 Seminar Rhetorical Theory
+CMN 550 Intro to Comm Grad Study
+CMN 574 Communication Research Methods
+CMN 575 Capstone Individual Study
+CMN 595 Special Problems
+CMN 599 Thesis Research
+CPSC 112 Introduction to Crop Sciences
+CPSC 113 Environment, Agric, & Society
+CPSC 199 Undergraduate Open Seminar
+CPSC 213 Evolution in Action
+CPSC 215 The Prairie and Bioenergy
+CPSC 226 Introduction to Weed Science
+CPSC 270 Applied Entomology
+CPSC 293 Off-Campus Crop Sci Internship
+CPSC 294 On-Campus Crop Sci Internship
+CPSC 295 Undergrad Research or Thesis
+CPSC 382 Organic Chem of Biol Processes
+CPSC 396 Undergrad Honors Res or Thesis
+CPSC 407 Diseases of Field Crops
+CPSC 415 Bioenergy Crops
+CPSC 419 Midwest Agricultural Practices
+CPSC 426 Weed Mgt in Agronomic Crops
+CPSC 433 Basic Toxicology
+CPSC 437 Principles of Agroecology
+CPSC 440 Applied Statistical Methods I
+CPSC 448 Biological Modeling
+CPSC 452 Advanced Plant Genetics
+CPSC 462 Plant Molecular Biology
+CPSC 466 Genomics for Plant Improvement
+CPSC 467 Plant Genomics
+CPSC 498 Crop Sci Professional Develpmt
+CPSC 499 Seminar
+CPSC 501 Programming for Genomics
+CPSC 538 Environmental Plant Physiology
+CPSC 564 Molecular Marker Data Analyses
+CPSC 588 Plant Biochemistry
+CPSC 593 Adv Studies in Crop Sciences
+CPSC 594 Professional Orientation CPSC
+CPSC 598 Seminar
+CPSC 599 Thesis Research
+CS 100 Freshman Orientation
+CS 101 Intro Computing: Engrg & Sci
+CS 105 Intro Computing: Non-Tech
+CS 125 Intro to Computer Science
+CS 126 Software Design Studio
+CS 173 Discrete Structures
+CS 196 Freshman Honors
+CS 199 Undergraduate Open Seminar
+CS 210 Ethical & Professional Issues
+CS 225 Data Structures
+CS 233 Computer Architecture
+CS 241 System Programming
+CS 242 Programming Studio
+CS 296 Honors Course
+CS 357 Numerical Methods I
+CS 361 Probability & Statistics for Computer Science
+CS 374 Introduction to Algorithms & Models of Computation
+CS 397 Individual Study
+CS 410 Text Information Systems
+CS 411 Database Systems
+CS 412 Introduction to Data Mining
+CS 413 Intro to Combinatorics
+CS 418 Interactive Computer Graphics
+CS 420 Parallel Progrmg: Sci & Engrg
+CS 421 Progrmg Languages & Compilers
+CS 424 Real-Time Systems
+CS 425 Distributed Systems
+CS 426 Compiler Construction
+CS 427 Software Engineering I
+CS 431 Embedded Systems
+CS 433 Computer System Organization
+CS 438 Communication Networks
+CS 439 Wireless Networks
+CS 440 Artificial Intelligence
+CS 446 Machine Learning
+CS 450 Numerical Analysis
+CS 461 Computer Security I
+CS 465 User Interface Design
+CS 466 Introduction to Bioinformatics
+CS 476 Program Verification
+CS 477 Formal Software Devel Methods
+CS 481 Stochastic Processes & Applic
+CS 483 Applied Parallel Programming
+CS 491 Seminar
+CS 492 Senior Project I
+CS 498 Special Topics
+CS 499 Senior Thesis
+CS 519 Scientific Visualization
+CS 523 Advanced Operating Systems
+CS 527 Topics in Software Engineering
+CS 541 Computer Systems Analysis
+CS 548 Models of Cognitive Processes
+CS 549 Seminar in Cognitive Science
+CS 556 Iterative & Multigrid Methods
+CS 563 Advanced Computer Security
+CS 571 Combinatorial Mathematics
+CS 591 Advanced Seminar
+CS 597 Individual Study
+CS 598 Special Topics
+CS 599 Thesis Research
+CSE 401 Numerical Analysis
+CSE 402 Parallel Progrmg: Sci & Engrg
+CSE 408 Applied Parallel Programming
+CSE 422 Computer System Organization
+CSE 426 Software Engineering I
+CSE 427 Interactive Computer Graphics
+CSE 428 Statistical Computing
+CSE 440 Statistical Data Management
+CSE 448 Advanced Data Analysis
+CSE 450 Computational Mechanics
+CSE 451 Finite Element Analysis
+CSE 485 Atomic Scale Simulations
+CSE 511 Iterative & Multigrid Methods
+CSE 521 Computer Architecture
+CSE 527 Scientific Visualization
+CSE 542 Statistical Learning
+CSE 552 Nonlinear Finite Elements
+CW 100 Intro to Creative Writing
+CW 104 Introductory Narrative Writing
+CW 106 Introductory Poetry Writing
+CW 200 Reading for Writers
+CW 202 Topics in Creative Writing
+CW 204 Intermediate Narrative Writing
+CW 206 Intermediate Poetry Writing
+CW 208 Creative Nonfiction Writing
+CW 243 Inter Expository Writing
+CW 404 Advanced Narrative Writing
+CW 455 Creative Writing Tutorial
+CW 460 Intro to Literary Editing
+CW 463 Adv Topics in Creative Writing
+CW 500 The Craft of Fiction
+CW 502 Problems in Poetry Writing
+CW 504 Writing Workshop in Fiction
+CW 506 Writing Workshop in Poetry
+CW 591 Independent Study
+CW 595 Final Project
+CWL 111 Bible as Literature
+CWL 114 Global Consciousness and Lit
+CWL 117 Russ & E Euro Science Fiction
+CWL 119 Literature of Fantasy
+CWL 151 Cross-Cultural Thematics
+CWL 191 Freshman Honors Tutorial
+CWL 199 Undergraduate Open Seminar
+CWL 201 Comparative Lit Studies
+CWL 206 Classical Allusions in Cinema
+CWL 220 Origins of Western Literature
+CWL 221 Jewish Storytelling
+CWL 227 Golden Age of Russian Lit
+CWL 240 Italy Middle Ages & Renaiss
+CWL 241 Lit Europe & the Americas I
+CWL 250 Grimms' Fairy Tales - ACP
+CWL 251 Viking Mythology
+CWL 253 Medieval Lit and Culture
+CWL 255 Renaissance Lit and Culture
+CWL 259 Afro-American Literature I
+CWL 262 Sex & Gender in Antiquity
+CWL 267 The Short Story
+CWL 271 The Holocaust in Context - ACP
+CWL 272 Sexuality and Literature
+CWL 275 Masterpieces of East Asian Lit
+CWL 311 Japan Lit in Translation I
+CWL 320 Lit Responses to the Holocaust
+CWL 322 The Comic Imagination
+CWL 323 Tolstoy
+CWL 376 Children and Youth Literature
+CWL 395 Special Topics Comp Lit I
+CWL 400 African Diasporic Lit Americas
+CWL 430 History of Translation
+CWL 461 Lit Genres and Forms
+CWL 493 Senior Thesis and Honors
+CWL 496 Special Topics in Comp Lit II
+CWL 501 Theory of Literature
+CWL 562 Sem Spanish-American Lit
+CWL 571 Seminar in Literary Relations
+CWL 581 Seminar Lit Themes
+CWL 593 Special Studies
+CWL 599 Thesis Research
+CZCH 199 Undergraduate Open Seminar
+DANC 100 Intro to Contemporary Dance
+DANC 101 Modern Dance I
+DANC 102 Modern Dance II
+DANC 104 Making Dances
+DANC 105 Jazz Dance I
+DANC 107 Ballet I
+DANC 108 Ballet II
+DANC 109 Ballet III
+DANC 111 Cultural Dance Forms
+DANC 112 Hip Hop
+DANC 120 Tap Dance I
+DANC 131 Production Practicum I
+DANC 150 Orientation to Dance
+DANC 160 Beg Contemp Modern Tech Core
+DANC 166 Beginning Ballet Tech Core
+DANC 167 Beginning Ballet Tech Elect
+DANC 199 Undergraduate Open Seminar
+DANC 211 Int Hip Hop Technique
+DANC 215 Int Tap Dance Technique
+DANC 220 Perf Pract Student Works I
+DANC 221 Performance in Grad Thesis I
+DANC 222 Perf Pract November I
+DANC 223 Perf Pract February I
+DANC 231 Production Practicum II
+DANC 232 Repertory Company
+DANC 240 Dance History
+DANC 259 Contact Improv for Act/Mus/Dan
+DANC 260 Int Contemp Modern Tech Core
+DANC 262 Choreographic Process I
+DANC 266 Intermediate Ballet Tech Core
+DANC 267 Intermediate Ballet Tech Elect
+DANC 301 Yoga Practicum for Dancers
+DANC 310 World Dance Forms
+DANC 330 Dance Documentation
+DANC 331 Production Practicum III
+DANC 345 Dance Anatomy and Kinesiology
+DANC 350 Creative Dance for Children
+DANC 360 Int/Adv Contemp Mod Tech Core
+DANC 362 Choreographic Process II
+DANC 363 Advanced Improvisation
+DANC 366 Int/Adv Ballet Tech Core
+DANC 367 Int/Adv Ballet Tech Elect
+DANC 400 Viewing Dance
+DANC 401 Alexander Tech for Dancers
+DANC 402 Alexander Technique Practicum
+DANC 411 Adv Hip Hop Technique
+DANC 420 Perf Pract Student Works II
+DANC 421 Performance in Grad Thesis II
+DANC 422 Perf Pract November II
+DANC 423 Perf Pract February II
+DANC 425 Dance Internship
+DANC 431 Production Practicum IV
+DANC 455 Supervised Teaching
+DANC 459 Contact Improv Act/Mus/Dan II
+DANC 460 Adv Contemp Modern Tech Core
+DANC 467 Advanced Ballet Tech Elect
+DANC 495 Senior Career Seminar
+DANC 498 Senior Thesis Production
+DANC 499 Senior Thesis Project
+DANC 520 Synthesis Laboratory
+DANC 541 Contemporary Directions I
+DANC 550 Advanced Research in Dance
+DANC 598 Creative Thesis Project
+EALC 120 East Asian Civilizations
+EALC 132 Zen
+EALC 199 Undergraduate Open Seminar
+EALC 220 Traditional China
+EALC 250 Intro to Japanese Culture
+EALC 275 Masterpieces of East Asian Lit
+EALC 305 Japan Lit in Translation I
+EALC 390 Individual Study
+EALC 391 Honors Tutorial
+EALC 398 Colloquium in EALC
+EALC 421 Soc-Econ Hist Modern China
+EALC 490 Individual Study
+EALC 522 Seminar in Chinese History
+EALC 550 Seminar in EALC
+EALC 560 East Asian Language Pedagogy
+EALC 590 Individual Study and Research
+EALC 599 Thesis Research
+ECE 110 Introduction to Electronics
+ECE 120 Introduction to Computing
+ECE 199 Undergraduate Open Seminar
+ECE 200 Seminar
+ECE 205 Elec & Electronic Circuits
+ECE 206 Elec & Electronic Circuits Lab
+ECE 210 Analog Signal Processing
+ECE 211 Analog Circuits & Systems
+ECE 220 Computer Systems & Programming
+ECE 297 Individual Study
+ECE 298 Special Topics
+ECE 304 Photonic Devices
+ECE 310 Digital Signal Processing
+ECE 311 Digital Signal Processing Lab
+ECE 313 Probability with Engrg Applic
+ECE 314 Probability in Engineering Lab
+ECE 316 Ethics and Engineering
+ECE 329 Fields and Waves I
+ECE 330 Power Ckts & Electromechanics
+ECE 333 Green Electric Energy
+ECE 340 Semiconductor Electronics
+ECE 342 Electronic Circuits
+ECE 343 Electronic Circuits Laboratory
+ECE 350 Fields and Waves II
+ECE 374 Introduction to Algorithms & Models of Computation
+ECE 380 Biomedical Imaging
+ECE 385 Digital Systems Laboratory
+ECE 391 Computer Systems Engineering
+ECE 395 Advanced Digital Projects Lab
+ECE 396 Honors Project
+ECE 397 Individual Study in ECE
+ECE 398 Special Topics in ECE
+ECE 402 Electronic Music Synthesis
+ECE 408 Applied Parallel Programming
+ECE 411 Computer Organization & Design
+ECE 414 Biomedical Instrumentation
+ECE 415 Biomedical Instrumentation Lab
+ECE 420 Embedded DSP Laboratory
+ECE 422 Computer Security I
+ECE 425 Intro to VLSI System Design
+ECE 428 Distributed Systems
+ECE 438 Communication Networks
+ECE 439 Wireless Networks
+ECE 444 IC Device Theory & Fabrication
+ECE 445 Senior Design Project Lab
+ECE 446 Principles of Experimental Research in Electrical Engineering
+ECE 447 Active Microwave Ckt Design
+ECE 448 Artificial Intelligence
+ECE 452 Electromagnetic Fields
+ECE 453 Wireless Communication Systems
+ECE 455 Optical Electronics
+ECE 456 Global Nav Satellite Systems
+ECE 459 Communications Systems
+ECE 460 Optical Imaging
+ECE 462 Logic Synthesis
+ECE 464 Power Electronics
+ECE 468 Optical Remote Sensing
+ECE 469 Power Electronics Laboratory
+ECE 470 Introduction to Robotics
+ECE 473 Fund of Engrg Acoustics
+ECE 476 Power System Analysis
+ECE 478 Formal Software Devel Methods
+ECE 482 Digital IC Design
+ECE 485 MEMS Devices & Systems
+ECE 486 Control Systems
+ECE 487 Intro Quantum Electr for EEs
+ECE 488 Compound Semicond & Devices
+ECE 491 Numerical Analysis
+ECE 492 Parallel Progrmg: Sci & Engrg
+ECE 496 Senior Research Project
+ECE 498 Special Topics in ECE
+ECE 499 Senior Thesis
+ECE 500 ECE Colloquium
+ECE 511 Computer Architecture
+ECE 515 Control System Theory & Design
+ECE 517 Nonlinear & Adaptive Control
+ECE 520 EM Waves & Radiating Systems
+ECE 524 Advanced Computer Security
+ECE 526 Distributed Algorithms
+ECE 530 Large-Scale System Analysis
+ECE 534 Random Processes
+ECE 535 Theory of Semicond & Devices
+ECE 541 Computer Systems Analysis
+ECE 544 Topics in Signal Processing
+ECE 548 Models of Cognitive Processes
+ECE 551 Digital Signal Processing II
+ECE 553 Optimum Control Systems
+ECE 556 Coding Theory
+ECE 562 Advanced Digital Communication
+ECE 563 Information Theory
+ECE 577 Advanced Antenna Theory
+ECE 580 Optimiz by Vector Space Methds
+ECE 588 Electricity Resource Planning
+ECE 590 Grad Sem in Special Topics
+ECE 596 Master's Project
+ECE 597 Individual Study in ECE
+ECE 598 Special Topics in ECE
+ECE 599 Thesis Research
+ECON 102 Microeconomic Principles
+ECON 103 Macroeconomic Principles
+ECON 198 Economics at Illinois
+ECON 199 Undergraduate Open Seminar
+ECON 202 Economic Statistics I
+ECON 203 Economic Statistics II
+ECON 210 Environmental Economics
+ECON 302 Inter Microeconomic Theory
+ECON 303 Inter Macroeconomic Theory
+ECON 399 Undergraduate Open Seminar
+ECON 411 Public Sector Economics
+ECON 414 Urban Economics
+ECON 420 International Economics
+ECON 440 Economics of Labor Markets
+ECON 450 Development Economics
+ECON 452 The Latin American Economies
+ECON 471 Intro to Applied Econometrics
+ECON 480 Industrial Comp and Monopoly
+ECON 481 Govt Reg of Economic Activity
+ECON 482 Health Economics
+ECON 484 Law and Economics
+ECON 490 Topics in Economics
+ECON 500 Microeconomics
+ECON 501 Macroeconomics
+ECON 502 Economic Statistics
+ECON 505 Introduction to Game Theory
+ECON 510 Economics of Taxation
+ECON 513 International Trade
+ECON 517 Monetary Policy
+ECON 528 Microeconomics for Business
+ECON 530 Microeconomic Theory I
+ECON 531 Macroeconomic Theory I
+ECON 532 Econometric Analysis I
+ECON 536 Applied Econometrics
+ECON 543 Workplace Dispute Resolution
+ECON 546 Gen Equ Env Tax Policy
+ECON 551 Topics in Development Econ
+ECON 555 Topics in Microeconomics I
+ECON 556 Topics in Microeconomics II
+ECON 575 Econometrics II
+ECON 580 Industrial Organization
+ECON 590 Individual Study and Research
+ECON 598 Workshop and Research Seminar
+ECON 599 Thesis Research
+EDPR 199 Undergraduate Open Seminar
+EDPR 250 School & Community Experiences
+EDPR 420 Ed Prac Students with Sp Needs
+EDPR 432 Ed Prac in EC & ELED
+EDPR 438 Educational Practice in Special Fields
+EDPR 442 Educational Practice in Secondary Education
+EDUC 101 Education Orientation Seminar
+EDUC 102 Freshman Honors Seminar
+EDUC 201 Identity and Difference in Edu
+EIL 199 Undergraduate Open Seminar
+EIL 214 TESL in the Elementary School
+EIL 215 TESL in the Secondary School
+EIL 411 Intro to TESL Methodology
+EIL 422 Engl Grammar for ESL Teachers
+EIL 456 Lang and Social Interaction I
+EIL 460 Principles of Language Testing
+EIL 511 Task Based Language Teaching
+EIL 512 Practicum in Teaching ESL
+EIL 580 Classroom Lang Acquisition
+EIL 587 Seminar in Second Lang Studies
+EIL 591 Research in Special Topics
+ENG 100 Engineering Orientation
+ENG 101 Engineering at Illinois
+ENG 198 Special Topics
+ENG 199 Undergraduate Open Seminar
+ENG 200 Introduction to Innovation
+ENG 250 From Idea to Enterprise
+ENG 261 Technology & Mgmt Seminar
+ENG 298 Special Topics
+ENG 299 Engineering Study Abroad
+ENG 300 Engrg Transfer Orientation
+ENG 310 Engineering Internship
+ENG 333 Creativity, Innovation, Vision
+ENG 360 Lectures in Engineering Entrepreneurship
+ENG 398 Special Topics
+ENG 401 Developing Breakthrough Projects
+ENG 450 Startups: Inc, Fund, Contracts, IP
+ENG 460 Entrepreneurship for Engineers
+ENG 461 Technology Entrepreneurship
+ENG 466 High-Tech Venture Marketing
+ENG 471 Seminar Energy & Sustain Engrg
+ENG 491 Interdisciplinary Design Proj
+ENG 498 Special Topics
+ENG 510 Engineering Practice
+ENG 565 Technol Innovation & Strategy
+ENG 566 Finance for Engineering Mgmt
+ENG 567 Venture Funded Startups
+ENG 571 Theory Energy & Sustain Engrg
+ENG 572 Energy Systems Practicum
+ENG 573 Energy Systems Project
+ENG 598 Special Topics
+ENGH 397 Honors Independent Study
+ENGL 101 Intro to Poetry
+ENGL 103 Intro to Fiction
+ENGL 104 Intro to Film
+ENGL 109 Intro to Fiction-ACP
+ENGL 114 Bible as Literature
+ENGL 115 Intro to British Literature
+ENGL 116 Intro to American Literature
+ENGL 119 Literature of Fantasy
+ENGL 120 Science Fiction
+ENGL 121 Comics and Graphic Narratives
+ENGL 191 Freshman Honors Tutorial
+ENGL 199 Undergraduate Open Seminar
+ENGL 200 Intro to the Study of Lit
+ENGL 202 Medieval Lit and Culture
+ENGL 204 Renaissance Lit and Culture
+ENGL 207 Romantic Lit and Culture
+ENGL 209 British Lit to 1800
+ENGL 210 British Lit 1800 to Present
+ENGL 213 Modernist Lit and Culture
+ENGL 218 Introduction to Shakespeare
+ENGL 223 Jewish Storytelling
+ENGL 224 Latina/o Popular Culture
+ENGL 225 Intro to Latina/o Literature
+ENGL 245 The Short Story
+ENGL 247 The British Novel
+ENGL 250 The American Novel to 1914
+ENGL 251 The American Novel Since 1914
+ENGL 253 Topics in Lit and New Media
+ENGL 255 Survey of American Lit I
+ENGL 259 Afro-American Literature I
+ENGL 261 Topics in Lit and Culture
+ENGL 267 Grimms' Fairy Tales - ACP
+ENGL 268 The Holocaust in Context - ACP
+ENGL 272 Minority Images in Amer Film
+ENGL 273 American Cinema Since 1950
+ENGL 281 Women in the Lit Imagination
+ENGL 285 Postcolonial Lit in English
+ENGL 290 Individual Study
+ENGL 300 Writing About Lit Text&Culture
+ENGL 301 CriticalApproaches to Lit&Text
+ENGL 310 Introduction to the Study of the English Language
+ENGL 325 Topics in LGBT Lit & Film
+ENGL 330 Slavery and Identity
+ENGL 359 Lit Responses to the Holocaust
+ENGL 373 Special Topics in Film Studies
+ENGL 374 World Cinema in English
+ENGL 380 Topics in Writing Studies
+ENGL 390 Advanced Individual Study
+ENGL 391 Honors Individual Study
+ENGL 396 Honors Seminar I
+ENGL 402 Descriptive English Grammar
+ENGL 404 Engl Grammar for ESL Teachers
+ENGL 407 Introduction to Old English
+ENGL 416 Topics in Brit Drama to 1660
+ENGL 418 Shakespeare
+ENGL 429 18th Century Fiction
+ENGL 431 Topics in British Romantic Lit
+ENGL 450 American Lit 1865-1914
+ENGL 455 Major Authors
+ENGL 461 Topics in Literature
+ENGL 476 Topics in Lit & Environment
+ENGL 481 Comp Theory and Practice
+ENGL 486 History of Translation
+ENGL 500 Intro to Criticism & Research
+ENGL 505 Writing Studies
+ENGL 514 Seminar in Medieval Literature
+ENGL 543 Seminar Mod British Lit
+ENGL 547 Seminar Earlier American Lit
+ENGL 553 Seminar Later American Lit
+ENGL 563 Seminar Themes and Movements
+ENGL 584 Topics Discourse and Writing
+ENGL 591 Research in Special Topics
+ENGL 592 Masters Exam Tutorial
+ENGL 593 Prof Seminar College Tchg
+ENGL 599 Thesis Research
+ENSU 300 Environmental Sustainability
+ENSU 310 Renewable & Alternative Energy
+ENT 599 Thesis Research
+ENVS 210 Environmental Economics
+ENVS 220 Communicating Agriculture
+ENVS 299 Ind Studies of Env. Topics
+ENVS 430 Comm in Env Social Movements
+ENVS 474 Principles of Epidemiology
+ENVS 480 Basic Toxicology
+ENVS 491 Sustainability Experience
+ENVS 596 Interdisciplinary Tox Sem
+EOL 199 Undergraduate Open Seminar
+EOL 540 Intro to Educational Leadershp
+EOL 541 Supervision of Learning Envir
+EOL 542 Leading Learning-Centrd Schls
+EOL 543 Leading School Improvement
+EOL 547 Education Law
+EOL 549 Administration Theory
+EOL 560 Clinical Experience Admin
+EOL 561 Ed Politics and Policies
+EOL 564 Democracy/Politics
+EOL 566 Financial Administration
+EOL 570 Organization of Higher Ed
+EOL 572 The College Student
+EOL 573 The Community College
+EOL 576 Higher Education Finance
+EOL 579 Access to Higher Education
+EOL 584 Administration in Higher Ed
+EOL 590 Advanced Seminar
+EOL 595 Independent Study
+EOL 598 Thesis Seminar
+EOL 599 Thesis Research
+EPS 199 Undergraduate Open Seminar
+EPS 201 Foundations of Education
+EPS 202 Foundations of Education-ACP
+EPS 310 Race and Cultural Diversity
+EPS 400 History of American Education
+EPS 402 Asian American Education
+EPS 412 Critical Thinking for Teachers
+EPS 420 Sociology of Education
+EPS 421 Racial and Ethnic Families
+EPS 431 New Learning
+EPS 500 Topics in Educational Policy
+EPS 508 Uses/Abuses of Educ Research
+EPS 517 Ethics and Education
+EPS 529 Education and Human Rights
+EPS 531 Critical Race Theory & Educ
+EPS 533 Global Youth & Citizenship
+EPS 536 Race, Gender & Sexuality Issu
+EPS 538 Globalization of Higher Ed
+EPS 579 Access to Higher Education
+EPS 590 Advanced Graduate Seminar
+EPS 591 Field Study and Thesis Seminar
+EPS 595 Independent Study
+EPS 599 Thesis Research
+EPSY 200 Honors Symposium in Education
+EPSY 201 Educational Psychology
+EPSY 202 Exploring Cultural Diversity
+EPSY 203 Social Issues Group Dialogues
+EPSY 220 Career Theory and Practice
+EPSY 222 Lang&Culture Deaf Communities
+EPSY 395 Independent Study
+EPSY 400 Psyc of Learning in Education
+EPSY 401 Child Language and Education
+EPSY 403 Res Methods in Learning Scienc
+EPSY 404 Adjustment in School Settings
+EPSY 405 Personality and Soc Dev
+EPSY 407 Adult Learning and Development
+EPSY 420 Theories of Psychotherapy
+EPSY 430 Early Adolescent Development
+EPSY 456 Human Performance and Cognition in Context
+EPSY 480 Educational Statistics
+EPSY 485 Assessing Student Performance
+EPSY 487 Principles of Language Testing
+EPSY 490 Developments in Educ Psyc
+EPSY 491 Educ Psyc Field Instruction
+EPSY 492 History and Systems of Psych
+EPSY 520 Counseling Psych Practicum
+EPSY 521 Group Counseling
+EPSY 530 Social Development
+EPSY 551 Seminar in Cognitive Science
+EPSY 572 Evaluation of Edu Programs
+EPSY 573 Methods of Educational Inquiry
+EPSY 580 Statistical Inference in Educ
+EPSY 582 Advanced Statistical Methods
+EPSY 583 Single Case Experimntl Design
+EPSY 587 Hierarchical Linear Models
+EPSY 590 Advanced Seminar in Educ Psyc
+EPSY 591 Field Study and Thesis Seminar
+EPSY 595 Independent Study
+EPSY 599 Thesis Research
+ESE 103 Earth's Physical Systems
+ESE 106 Geographies of Globalization
+ESE 117 The Oceans
+ESE 118 Natural Disasters
+ESE 120 Severe and Hazardous Weather
+ESE 140 Climate and Global Change
+ESE 143 History of Life
+ESE 200 Earth Systems
+ESE 208 History of the Earth System
+ESE 289 Environment & Sustainability Field Study
+ESE 360 Environmental Writing
+ESE 379 Intro to GIS Systems
+ESE 401 ESE Capstone
+ESE 470 Introduction to Hydrogeology
+ESE 497 Special Topics in ESE
+ESL 110 Engl Pronun for Acad Purposes
+ESL 111 Intro to Academic Writing I
+ESL 112 Intro to Academic Writing II
+ESL 115 Principles of Academic Writing
+ESL 500 Oral and Written Communication
+ESL 501 Intro to Academic Writing
+ESL 502 Advanced Academic Writing I
+ESL 503 Advanced Academic Writing II
+ESL 504 English Pronunciation for ITAs
+ESL 505 Intl Business Communication
+ESL 506 Oral Communication for ITAs
+ESL 507 Adv Academic writing MATSEL
+ESL 508 Seminar for Intl TAs
+ESL 510 Engl Pronun for Acad Purposes
+EURO 199 Undergraduate Open Seminar
+EURO 376 Children and Youth Literature
+EURO 415 Europe and the Mediterranean
+EURO 500 Dialogue on Europe
+EURO 501 EU Institutions and Governance
+EURO 590 Directed Ind Study
+EURO 599 Thesis Research
+FAA 101 Arts at Illinois
+FAA 110 Exploring Arts and Creativity
+FAA 199 Undergraduate Open Seminar
+FAA 220 Introduction to Fashion
+FAA 299 FAA Study Abroad
+FAA 391 Action Research Seminar
+FAA 499 Special Topics
+FIN 199 Undergraduate Open Seminar
+FIN 221 Corporate Finance
+FIN 230 Introduction to Insurance
+FIN 241 Fundamentals of Real Estate
+FIN 300 Financial Markets
+FIN 321 Advanced Corporate Finance
+FIN 390 Finance Academy
+FIN 391 Investment Banking Academy
+FIN 392 Investment Management Academy
+FIN 411 Investment & Portfolio Mngt
+FIN 412 Options and Futures Markets
+FIN 414 Urban Economics
+FIN 418 Financial Modeling
+FIN 419 Real Client Managed Portfolios
+FIN 423 Financing Emerging Businesses
+FIN 424 Mergers and Acquisition
+FIN 434 Employee Benefit Plans
+FIN 435 Personal Wealth Management
+FIN 444 Urban Real Estate Valuation
+FIN 445 Real Estate Investment
+FIN 447 Real Estate Development
+FIN 463 Investment Banking
+FIN 490 Special Topics in Finance
+FIN 494 Senior Research
+FIN 495 Senior Research
+FIN 500 Introduction to Finance
+FIN 501 Financial Economics
+FIN 511 Investments
+FIN 512 Financial Derivatives
+FIN 514 Financial Engineering II
+FIN 516 Term Structure Models
+FIN 518 Financial Modeling
+FIN 519 Gen Equ Env Tax Policy
+FIN 520 Financial Management
+FIN 521 Advanced Corporate Finance
+FIN 530 Foundations in Risk Management
+FIN 541 Real Estate Fundamentals
+FIN 544 Urban Real Estate Valuation
+FIN 545 Real Estate Investment
+FIN 563 Investment Banking
+FIN 566 Market Microstructure and Trading
+FIN 568 Behavioral Finance
+FIN 571 Retirement Policy
+FIN 572 Health Care Policy
+FIN 575 Business Tax Policy
+FIN 578 Govt Market Economy
+FIN 579 Applied Portfolio Management
+FIN 580 Special Topics in Finance
+FIN 590 Individual Study and Research
+FIN 592 Empirial Analysis in Finance
+FIN 594 Seminar in Corporate Finance
+FIN 599 Thesis Research
+FLTE 475 Learning to Teach World Language
+FLTE 478 Secondary World Language Teaching
+FR 101 Elementary French I
+FR 102 Elementary French II
+FR 103 Intermediate French I
+FR 104 Intermediate French II
+FR 133 Accel Intermediate French I
+FR 134 Accel Intermed French II
+FR 191 Freshman Honors Tutorial
+FR 199 Undergraduate Open Seminar
+FR 205 Oral French
+FR 207 Writing and Grammar Workshop
+FR 208 Critical Writing and Reading
+FR 209 Intro to French Lit I
+FR 210 Intro to French Lit II
+FR 211 Introduction to Literary Studies
+FR 212 Introduction to Cultural Analysis: French Identities
+FR 213 French Phonetics
+FR 299 Study Abroad
+FR 311 Narrative Literature
+FR 323 Major Literary Figures
+FR 385 Politics of the European Union
+FR 390 Indiv Study Major Tutorial
+FR 414 Advanced Grammar and Style
+FR 417 History of the French Language
+FR 419 Techniques in Translation I
+FR 435 French Civilization I
+FR 460 Principles of Language Testing
+FR 481 Theoretical Foundations of SLA
+FR 492 Senior Thesis
+FR 500 Beginning French Grads
+FR 505 Teaching College and Secondary Foreign Language
+FR 530 Introduction to Research and Text Criticism
+FR 574 Seminar 19thC French Lit
+FR 580 Classroom Lang Acquisition
+FR 591 Individual Topics
+FR 599 Thesis Research
+FSHN 101 Intro Food Science & Nutrition
+FSHN 120 Contemporary Nutrition
+FSHN 125 Intro to Human Nutrition
+FSHN 130 Introduction to Food Science
+FSHN 140 Introduction to Hospitality
+FSHN 150 Introduction to Dietetics
+FSHN 199 Undergraduate Open Seminar
+FSHN 220 Principles of Nutrition
+FSHN 230 Food Sci Professional Issues
+FSHN 232 Science of Food Preparation
+FSHN 293 Off Campus Internship
+FSHN 294 On Campus Internship
+FSHN 295 UG Research or Thesis
+FSHN 302 Sensory Evaluation of Foods
+FSHN 332 Science of Food Systems
+FSHN 340 Food Production and Service
+FSHN 345 Hospitality Purchasing
+FSHN 349 Food Service Sanitation
+FSHN 396 UG Honors Research or Thesis
+FSHN 398 Undergraduate Seminar
+FSHN 414 Food Chemistry
+FSHN 416 Food Chemistry Laboratory
+FSHN 417 Neuroscience of Eating & Drinking
+FSHN 420 Nutritional Aspects of Disease
+FSHN 423 Advances in Foods & Nutrition
+FSHN 426 Biochemical Nutrition I
+FSHN 428 Community Nutrition
+FSHN 429 Nutrition Assessment & Therapy
+FSHN 440 Applied Statistical Methods I
+FSHN 450 Dietetics: Professional Issues
+FSHN 461 Food Processing I
+FSHN 465 Principles of Food Technology
+FSHN 466 Food Product Development
+FSHN 469 Package Engineering
+FSHN 471 Food & Industrial Microbiology
+FSHN 480 Basic Toxicology
+FSHN 499 Cur Topics in FS & Human Nutr
+FSHN 510 Topics in Nutrition Research
+FSHN 514 Advanced Food Chemistry
+FSHN 518 Chemistry of Lipids in Foods
+FSHN 519 Flavor Chemistry and Analysis
+FSHN 520 Advanced Clinical Nutrition
+FSHN 563 Food Materials Science
+FSHN 590 Dietetic Internship I
+FSHN 592 Graduate Internship Experience
+FSHN 595 Food Science Advanced Topics
+FSHN 597 Graduate Seminar
+FSHN 598 Advanced Special Problems
+FSHN 599 Thesis Research
+GC 498 Graduate Domestic Study Away
+GC 499 Graduate College Study Abroad
+GC 599 Thesis Research
+GCL 126 Sustainability and Social Science
+GCL 129 Sustainable Design
+GCL 143 Mapping Inequalities
+GCL 145 Social Justice and the Arts
+GCL 200 Frameworks for Inequality & Cultural Understanding
+GCL 201 Frameworks for Inequality & Cultural Understanding - ACP
+GCL 210 Frameworks for Sustainability, Energy, & the Environment
+GCL 220 Frameworks for Health & Wellness: Building Healthy Communities
+GE 100 Introduction to ISE
+GE 101 Engineering Graphics & Design
+GE 199 Undergraduate Open Seminar
+GE 261 Business Side of Engineering
+GE 297 Independent Study
+GE 310 General Engineering Design
+GE 320 Control Systems
+GE 361 Emotional Intelligence Skills
+GE 390 General Engineering Seminar
+GE 397 Independent Study
+GE 400 Engineering Law
+GE 402 Comp-Aided Product Realization
+GE 410 Component Design
+GE 412 Nondestructive Evaluation
+GE 420 Digital Control Systems
+GE 450 Decision Analysis I
+GE 494 Senior Engineering Project I
+GE 495 Senior Engineering Project II
+GE 497 Independent Study
+GE 530 Multiattribute Decision Making
+GE 590 Seminar
+GE 594 Project Design
+GE 597 Independent Study
+GE 598 Special Topics
+GE 599 Thesis Research
+GEOG 100 Introduction to Meteorology
+GEOG 101 Global Development&Environment
+GEOG 103 Earth's Physical Systems
+GEOG 104 Social and Cultural Geography
+GEOG 106 Geographies of Globalization
+GEOG 198 Freshman Honors Seminar
+GEOG 199 Undergraduate Open Seminar
+GEOG 204 Cities of the World
+GEOG 205 Business Location Decisions
+GEOG 221 Geographies of Global Conflict
+GEOG 280 Intro to Social Statistics
+GEOG 379 Intro to GIS Systems
+GEOG 390 Individual Study
+GEOG 391 Honors Individual Study
+GEOG 392 Geography & GIS Internship
+GEOG 406 Fluvial Geomorphology
+GEOG 438 Geography of Health Care
+GEOG 468 Biological Modeling
+GEOG 471 Recent Trends in Geog Thought
+GEOG 473 Digital Cartography & Map Design
+GEOG 477 Introduction to Remote Sensing
+GEOG 480 Principles of GIS
+GEOG 484 Cities, Crime, and Space
+GEOG 520 Political Ecology
+GEOG 595 Advanced Studies in Geography
+GEOG 599 Thesis Research
+GEOL 100 Planet Earth
+GEOL 107 Physical Geology
+GEOL 110 Exploring Geology in the Field
+GEOL 117 The Oceans
+GEOL 118 Natural Disasters
+GEOL 143 History of Life
+GEOL 199 Undergraduate Open Seminar
+GEOL 201 History of Geology
+GEOL 208 History of the Earth System
+GEOL 390 Individual Study
+GEOL 391 Individual Honors Study
+GEOL 406 Fluvial Geomorphology
+GEOL 411 Structural Geol and Tectonics
+GEOL 415 Field Geology
+GEOL 432 Mineralogy and Mineral Optics
+GEOL 470 Introduction to Hydrogeology
+GEOL 484 Paleoclimatology
+GEOL 490 Undergraduate Research
+GEOL 491 Honors Undergraduate Research
+GEOL 492 Senior Thesis
+GEOL 493 Honors Senior Thesis
+GEOL 497 Special Topics in Geology
+GEOL 515 Advanced Field Geology
+GEOL 562 Isotope Geology
+GEOL 571 Contaminant Fate and Transport
+GEOL 591 Current Research in Geoscience
+GEOL 593 Advanced Studies in Geology
+GEOL 599 Thesis Research
+GER 101 Beginning German I
+GER 102 Beginning German II
+GER 103 Intermediate German I
+GER 104 Intermediate German II
+GER 191 Freshman Honors Tutorial
+GER 199 Undergraduate Open Seminar
+GER 211 Conversation and Writing I
+GER 212 Conversation and Writing II
+GER 250 Grimms' Fairy Tales - ACP
+GER 260 The Holocaust in Context - ACP
+GER 270 Sexuality and Literature
+GER 299 Study Abroad
+GER 320 German for Business
+GER 331 Intro to German Literature
+GER 385 Politics of the European Union
+GER 401 Global Issues in German
+GER 403 Translation, Theory & Practice
+GER 405 History of Translation
+GER 460 Principles of Language Testing
+GER 471 Enlightenment to Romanticism
+GER 473 1920s to Today
+GER 489 Theoretical Foundations of SLA
+GER 491 Honors Senior Thesis
+GER 496 Special Topics German Studies
+GER 500 Readings in German Grads I
+GER 573 18thC German Studies
+GER 580 Classroom Lang Acquisition
+GER 582 Theories of German Lang Tchg
+GER 593 Research in Special Topics
+GER 599 Thesis Research
+GLBL 100 Intro to Global Studies
+GLBL 118 Natural Disasters
+GLBL 199 Undergraduate Open Seminar
+GLBL 201 Energy Systems
+GLBL 220 Governance
+GLBL 221 Geographies of Global Conflict
+GLBL 225 Career Development:Internships
+GLBL 240 Global Health
+GLBL 296 Global St Foundation Seminar
+GLBL 298 Global Studies Seminar Abroad
+GLBL 350 Poverty in a Global Context
+GLBL 440 Global Health: Interventions & Evaluations
+GLBL 481 Writing on Technol & Security
+GLBL 483 Seminar on Security
+GLBL 494 Research Methods I
+GMC 199 Undergraduate Open Seminar
+GRK 101 Elementary Greek I
+GRK 199 Undergraduate Open Seminar
+GRK 201 Classical & Koine Greek I
+GRK 251 Elementary Modern Greek I
+GRK 403 Intermediate Modern Greek I
+GRK 491 Readings in Greek Literature
+GRK 492 Senior Thesis
+GRK 493 Independent Reading
+GRK 498 Senior Survey
+GRK 531 Special Disciplines
+GRK 599 Thesis Research
+GRKM 199 Undergraduate Open Seminar
+GRKM 201 Elementary Modern Greek I
+GRKM 403 Intermediate Modern Greek I
+GRKM 453 Advanced Modern Greek I
+GS 101 Exploring General Studies
+GS 299 DGS Study Abroad
+GWS 100 Intro Gender & Women's Studies
+GWS 150 Contemp Women's Issues
+GWS 199 Undergraduate Open Seminar
+GWS 201 Race, Gender & Power
+GWS 218 Intro to Social Issues Theatre
+GWS 226 Black Women Contemp US Society
+GWS 230 Latina/o Genders & Sexualities
+GWS 240 Sex & Gender in Antiquity
+GWS 250 Gender and Representation
+GWS 255 Queer Lives, Queer Politics
+GWS 263 US History of Medicine
+GWS 270 Sexuality and Literature
+GWS 281 Women in the Lit Imagination
+GWS 286 US Gender History Since 1877
+GWS 305 Theories of Race, Gender, and Sexuality
+GWS 320 Gender & Latina/o Migration
+GWS 340 Gender, Relationshps & Society
+GWS 356 Sex & Gender in Popular Media
+GWS 366 Feminist Disability Studies
+GWS 370 Queer Theory
+GWS 376 Children and Youth Literature
+GWS 383 Hist of Blk Women's Activism
+GWS 385 Transnational Sexualities
+GWS 390 Individual Study
+GWS 392 Chicanas&Latinas: Self&Society
+GWS 395 Intermediate Topics GWS
+GWS 417 Leading Post-Perform Dialog
+GWS 418 Devising Social Issues Theatre
+GWS 490 Individual Study
+GWS 495 Advanced Topics GWS
+GWS 550 Feminist Theories & Methods
+GWS 590 Topics in GWS
+HDFS 101 Issues & Careers in HDFS
+HDFS 105 Intro to Human Development
+HDFS 120 Intro to Family Studies
+HDFS 140 Intro Gender & Women's Studies
+HDFS 143 Biology of Human Behavior
+HDFS 199 Undergraduate Open Seminar
+HDFS 206 Early Childhood Curriculum Dev
+HDFS 208 Child Fam with Special Needs
+HDFS 220 Families in Global Perspective
+HDFS 221 Asian Families in America
+HDFS 225 Close Relationships
+HDFS 261 Self-Help Group Dev & Process
+HDFS 262 Motor Develop, Growth & Form
+HDFS 263 Diversity in Recreation, Sport, and Tourism
+HDFS 290 Intro to Research Methods
+HDFS 293 Off-Campus Internship
+HDFS 294 Research Internship
+HDFS 295 Independent Study or Research
+HDFS 301 Infancy & Early Childhood
+HDFS 324 African Amer Families in Film
+HDFS 340 Gender, Relationshps & Society
+HDFS 361 Creative Dance for Children
+HDFS 379 HDFS Study Abroad Experience
+HDFS 396 Honors Research or Thesis
+HDFS 401 Socialization and Development
+HDFS 404 Gerontology
+HDFS 405 Adolescent Development
+HDFS 424 Racial and Ethnic Families
+HDFS 425 Critical Family Transitions
+HDFS 450 Practicum in HDFS
+HDFS 461 Family Life Education
+HDFS 494 Applied Research Methods
+HDFS 499 Seminar
+HDFS 500 Professional Development
+HDFS 501 Human Development Theories
+HDFS 503 Social-Emotional Development
+HDFS 523 Ethnic Families
+HDFS 529 Youth and Family Acculturation
+HDFS 533 Community In American Society
+HDFS 561 Child and Family Program Dev
+HDFS 590 Advanced Research Methods
+HDFS 592 Advanced Statistical Analysis
+HDFS 595 Seminar
+HDFS 596 Advanced Studies in HDFS
+HDFS 598 Special Problems in HDFS
+HDFS 599 Thesis Research
+HEBR 201 Elementary Modern Hebrew I
+HEBR 205 Intensive Biblical Hebrew
+HEBR 403 Intermediate Modern Hebrew I
+HEBR 405 Advanced Modern Hebrew I
+HIST 100 Global History
+HIST 102 Reacting to the Past
+HIST 105 Latin America to Independence
+HIST 120 East Asian Civilizations
+HIST 130 History of South Asia
+HIST 140 Western Civ to 1660-ACP
+HIST 141 Western Civ to 1660
+HIST 142 Western Civ Since 1660
+HIST 143 Western Civ Since 1660-ACP
+HIST 170 US Hist to 1877-ACP
+HIST 171 US Hist to 1877
+HIST 172 US Hist Since 1877
+HIST 174 Black America, 1619-Present
+HIST 199 Undergraduate Open Seminar
+HIST 200 Intro Hist Interpretation
+HIST 205 LatAm Hist: Primary Accounts
+HIST 220 Traditional China
+HIST 247 Medieval Europe
+HIST 252 The Holocaust
+HIST 254 Vikings to Volvos: Scandinavia
+HIST 258 20thC World to Midcentury
+HIST 259 20thC World from Midcentury
+HIST 260 History of Russia
+HIST 263 US History of Medicine
+HIST 264 Technology in Western Society
+HIST 271 Nineteenth Century America
+HIST 282 Nature and American Culture
+HIST 286 US Gender History Since 1877
+HIST 290 Religion, Violence & America
+HIST 295 Honors Colloquium
+HIST 300 Topics in Film and History
+HIST 335 Middle East 1566-1914
+HIST 376 Soc History Indus Am from 1918
+HIST 380 US in an Age of Empire
+HIST 381 Urban History
+HIST 383 Hist of Blk Women's Activism
+HIST 385 Transnational Sexualities
+HIST 390 Sport and Society
+HIST 396 Special Topics
+HIST 398 Internship in Public History
+HIST 400 War, Soc, Politics, & Culture
+HIST 422 Soc-Econ Hist Modern China
+HIST 432 History of Early Judaism
+HIST 439 The Ottoman Empire
+HIST 450 European Working Class History
+HIST 466 The Balkans
+HIST 472 Immigrant America
+HIST 493 Honors Senior Thesis
+HIST 495 Honors Research & Writing Sem
+HIST 498 Research and Writing Seminar
+HIST 499 Thesis Seminar
+HIST 502 Prob in Comparative History
+HIST 507 Prob in Latin American Hist
+HIST 521 Seminar in Chinese History
+HIST 550 Prob Early Mod European Hist
+HIST 560 Problems in Russian History
+HIST 593 Approaches to History
+HIST 596 Individual Research Project
+HIST 597 Reading Course
+HIST 598 Teaching of College History
+HIST 599 Thesis Research
+HNDI 115 Language and Culture in India
+HNDI 199 Undergraduate Open Seminar
+HNDI 201 Elementary Hindi-Urdu I
+HNDI 403 Intermediate Hindi I
+HNDI 405 Advanced Hindi I
+HNDI 412 Business Hindi
+HORT 100 Introduction to Horticulture
+HORT 105 Vegetable Gardening
+HORT 106 The Sustainable Home Garden
+HORT 107 Introduction to Floral Design
+HORT 226 Introduction to Weed Science
+HORT 240 Plant Propagation
+HORT 293 Professional Internship
+HORT 294 Resident Internship
+HORT 295 Undergrad Research or Thesis
+HORT 298 Undergraduate Seminar
+HORT 301 Woody Landscape Plants I
+HORT 360 Vegetable Crop Production
+HORT 362 Tree Fruit Production
+HORT 363 Postharvest Handling Hort Crop
+HORT 396 Ug Honors Research or Thesis
+HORT 447 Horticultural Plant Breeding
+HORT 475 Permaculture & Agroforestry
+HORT 588 Plant Biochemistry
+HRD 400 Principles of HRE
+HRD 401 Training in Business/Industry
+HRD 472 Learning Technologies
+HRD 475 Project Management for HRE
+HRD 492 Supervised Internship in HRE
+HRD 501 The Community College
+HRD 530 Organization Development
+HRD 532 Strategic HRD
+HRD 534 Economics of Human Resources
+HRD 550 Adult & Professional Education
+HRD 590 Seminar for Advanced Students
+HRD 592 Special Topics in HRE
+HRE 595 Independent Study
+HRE 599 Thesis Research
+HUM 191 Freshman Honors Tutorial
+HUM 199 Undergraduate Open Seminar
+HUM 390 Individual Study
+HUM 397 Special Topics Junior
+HUM 492 Senior Thesis
+HUM 495 Special Advanced Topics
+HUM 498 Special Topics Senior
+IB 100 Biology in Today's World
+IB 104 Animal Biology
+IB 105 Environmental Biology
+IB 150 Organismal & Evolutionary Biol
+IB 151 Organismal & Evol Biol Lab
+IB 199 Undergraduate Open Seminar
+IB 203 Ecology
+IB 204 Genetics
+IB 220 Applied Entomology
+IB 270 Evolution of Molecules & Cells
+IB 299 Undergraduate Special Course
+IB 348 Fish and Wildlife Ecology
+IB 360 Evolution and Human Health
+IB 368 Vertebrate Natural History
+IB 372 Ecology and Evolution
+IB 390 Introductory Research
+IB 401 Introduction to Entomology
+IB 411 Bioinspiration
+IB 426 Env and Evol Physl of Animals
+IB 430 Animal Behavior Lab
+IB 444 Insect Ecology
+IB 450 Stream Ecology
+IB 463 Ichthyology
+IB 471 General Mycology
+IB 472 Plant Molecular Biology
+IB 473 Plant Genomics
+IB 477 Genomics for Plant Improvement
+IB 478 Advanced Plant Genetics
+IB 484 Paleoclimatology
+IB 490 Independent Study
+IB 491 Biological Modeling
+IB 501 Programming for Genomics
+IB 510 Discussions in Plant Biology
+IB 513 Disc in Plant Physiology
+IB 524 Plant Biochemistry
+IB 526 Seminar in Entomology
+IB 534 Evolution and Medicine
+IB 542 Environmental Plant Physiology
+IB 546 Topics in Ecology & Evolution
+IB 590 Individual Topics
+IE 199 Undergraduate Open Seminar
+IE 300 Analysis of Data
+IE 310 Operations Research
+IE 311 Operations Research Lab
+IE 360 Facilities Planning and Design
+IE 397 Independent Study
+IE 400 Design & Anlys of Experiments
+IE 410 Stochastic Processes & Applic
+IE 411 Optimization of Large Systems
+IE 412 OR Models for Mfg Systems
+IE 430 Economic Found of Quality Syst
+IE 445 Human Performance and Cognition in Context
+IE 497 Independent Study
+IE 513 Optimal System Design
+IE 522 Statistical Methods in Finance
+IE 523 Financial Computing
+IE 524 Optimization in Finance
+IE 527 MSFE Professional Development
+IE 529 Stats of Big Data & Clustering
+IE 590 Seminar
+IE 597 Independent Study
+IE 598 Special Topics
+IE 599 Thesis Research
+IHLT 101 Introduction to i-Health
+IHLT 102 Survey of Interdisc Health
+IHLT 230 Leadership in Health
+IHLT 375 Interdis Collab in Health Serv
+IHLT 474 Pre-Field Experience in Health
+IHLT 475 Field Experience in i-Health
+INFO 202 Social Aspects Info Tech
+INFO 303 Writing Across Media
+INFO 326 New Media, Culture & Society
+INFO 390 Special Topics
+INFO 399 Individual Study
+INFO 490 Special Topics
+INFO 500 Orientation Seminar
+INFO 510 Research Practicum
+INFO 590 Advanced Special Topics
+INFO 597 Individual Study
+INFO 599 Thesis Research
+ITAL 101 Elementary Italian I
+ITAL 102 Elementary Italian II
+ITAL 103 Intermediate Italian I
+ITAL 104 Intermediate Italian II
+ITAL 199 Undergraduate Open Seminar
+ITAL 210 Practical Review Italian
+ITAL 220 Comtemp Italian Oral & Written
+ITAL 240 Italy Middle Ages & Renaiss
+ITAL 390 Spec Topics Italian Studies
+ITAL 415 Europe and the Mediterranean
+ITAL 460 Principles of Language Testing
+ITAL 489 Theoretical Foundations of SLA
+ITAL 505 Teaching College and Secondary Foreign Language
+ITAL 510 Seminar in Italian Studies
+ITAL 530 Introduction to Research and Text Criticism
+ITAL 580 Classroom Lang Acquisition
+ITAL 595 Spec Topics in Italian
+ITAL 599 Thesis Research
+JAPN 201 Elementary Japanese I
+JAPN 203 Intermediate Japanese I
+JAPN 305 Advanced Japanese I
+JAPN 440 Fourth Year Japanese I
+JAPN 490 Readings in Japanese Lit
+JAPN 499 Study Abroad
+JOUR 199 Undergraduate Open Seminar
+JOUR 200 Introduction to Journalism
+JOUR 205 History of American Journalism
+JOUR 210 Newsgathering Across Platforms
+JOUR 215 Multimedia Reporting
+JOUR 250 Journalism Ethics & Diversity
+JOUR 311 Media Law
+JOUR 315 Adv Public Affairs Reporting
+JOUR 320 News Editing
+JOUR 335 Audio Journalism
+JOUR 340 Video Reporting & Storytelling
+JOUR 360 The Media and You
+JOUR 425 Multimedia Editing and Design
+JOUR 445 Video Storytelling 2-Producing
+JOUR 452 Great Books of Journalism
+JOUR 460 Special Topics
+JOUR 472 Business Reporting
+JOUR 480 Advanced Reporting Topics
+JOUR 482 Immersion Journalism
+JOUR 483 Investigative Journalism
+JOUR 490 Professional Project
+JOUR 495 Internship Seminar
+JOUR 501 Multimedia Storytelling
+JOUR 505 Journalism Proseminar
+JOUR 510 Master's Readings
+JOUR 515 Master's Project
+JOUR 590 Advanced Topics in Journalism
+KIN 100 Development Activities
+KIN 101 Dance Activities
+KIN 102 Individual and Dual Activities
+KIN 103 Indoor Court Activities
+KIN 104 Skating Activities
+KIN 107 Aquatic Sport Activities
+KIN 109 Team Sport Activities
+KIN 110 Intro to the Health Sciences
+KIN 111 Prescribed Exercise
+KIN 120 Injuries in Sport
+KIN 122 Physical Activity and Health
+KIN 125 Orientation KIN & Comm Health
+KIN 130 Analysis of Basic Movement
+KIN 140 Social Sci of Human Movement
+KIN 142 Contemporary Issues in Sport
+KIN 150 Bioscience of Human Movement
+KIN 160 Introduction to Kinesiology
+KIN 199 Undergraduate Open Seminar
+KIN 230 Diversity in Recreation, Sport, and Tourism
+KIN 247 Intro to Sport Psychology
+KIN 249 Sport & Modern Society
+KIN 257 Coordination, Control & Skill
+KIN 260 Teaching Activities I
+KIN 262 Motor Develop, Growth & Form
+KIN 268 Children's Movement
+KIN 340 Soc & Psych of Phys Activity
+KIN 345 Sport and Society
+KIN 352 Bioenergetics of Movement
+KIN 355 Biomechanics of Human Movement
+KIN 360 Adapted Physical Education
+KIN 361 Curriculum in Grades K-6
+KIN 364 Exper in the Common School
+KIN 365 Civic Engagement in Wellness
+KIN 369 Coaching Strategies
+KIN 375 Comm Partners & Health
+KIN 385 Exper in Kinesiology Research
+KIN 386 Exercise Instruction & Elderly
+KIN 387 Exper in the Agency Setting
+KIN 390 Honors
+KIN 391 Special Project-Problems
+KIN 393 Honors Thesis
+KIN 401 Measure & Eval in Kinesiology
+KIN 448 Exercise & Health Psychology
+KIN 451 Skeletal Muscle Physiology
+KIN 460 Technology & Pedagogical KINES
+KIN 485 Clin Exper in Sports Medicine
+KIN 494 Special Topics
+KIN 540 Health Behavior: Theory
+KIN 565 Teaching in the Professoriate
+KIN 590 Independent Study
+KIN 591 Seminar
+KIN 599 Thesis Research
+KOR 201 Elementary Korean I
+KOR 203 Intermediate Korean I
+KOR 221 Korean Reading and Writing I
+KOR 241 Korean Reading and Writing III
+KOR 305 Advanced Korean I
+KOR 440 Fourth Year Korean I
+LA 101 Introduction to Landscape Arch
+LA 199 Undergraduate Open Seminar
+LA 218 S Asian Cultural Landscapes
+LA 233 Foundation Design Studio
+LA 242 Nature and American Culture
+LA 250 Environmental Site Analysis
+LA 280 Design Communications I
+LA 301 Senior Honors
+LA 315 History of Modern Lndscpe Arch
+LA 335 Community & Open Space Studio
+LA 336 Design Workshop Studio I
+LA 342 Site Engineering
+LA 345 Professional Internship
+LA 346 Professional Practice
+LA 370 Environmental Sustainability
+LA 390 Independent Study
+LA 399 Off-Campus Study
+LA 437 Regional Design Studio
+LA 452 Natural Precedent in Planting
+LA 460 Heritage Management
+LA 470 Social/Cultural Design Issues
+LA 501 Landscape Arch Theory & Prac
+LA 505 Methods in Arch & LA History
+LA 506 Landscape and Vision
+LA 515 Hist & Thry of Modrn Land Arch
+LA 535 Local Policy & Immigration
+LA 537 Landscape Plan & Design Studio
+LA 590 Directed Research
+LA 598 Master's Project
+LA 599 Thesis Research
+LAS 101 Freshman Seminar
+LAS 102 Transfer Advantage
+LAS 122 Leadership and Society
+LAS 199 Undergraduate Open Seminar
+LAS 299 LAS Study Abroad
+LAS 399 Leadership & Prof Development
+LAS 494 Senior Project
+LAST 170 Introduction to Latin America
+LAST 342 Arts of Colonial Latin America
+LAST 395 Special Topics
+LAST 445 Native Latin Amer Languages
+LAST 490 Individual Study
+LAST 599 Thesis Research
+LAT 101 Elementary Latin I
+LAT 102 Elementary Latin II
+LAT 199 Undergraduate Open Seminar
+LAT 201 Intermediate Latin
+LAT 202 Intro to Latin Literature
+LAT 301 Survey of Latin Literature I
+LAT 460 Medieval Latin
+LAT 492 Senior Thesis
+LAT 493 Independent Reading
+LAT 498 Senior Survey
+LAT 520 Proseminar
+LAT 531 Special Disciplines
+LAT 599 Thesis Research
+LAW 199 Undergraduate Open Seminar
+LAW 201 Basic Constitutional Law & Individual Rights
+LAW 301 Introduction to Law
+LAW 499 LAW Study Abroad
+LAW 500 LLM Legal Writing and Research
+LAW 501 Professional Responsibility
+LAW 599 Thesis Research
+LAW 600 Pro Bono Service
+LAW 601 Contracts
+LAW 602 Property
+LAW 603 Torts
+LAW 604 Criminal Law
+LAW 605 Criminal Proc: Investigation
+LAW 607 Civil Procedure
+LAW 609 Legal Writing & Analysis
+LAW 615 Administrative Law
+LAW 620 Health Law Policy
+LAW 627 Legal Research
+LAW 629 Bankruptcy
+LAW 633 Business Associations I
+LAW 635 Securities Litigation
+LAW 643 Trademark & Unfair Competition
+LAW 644 Copyright Law
+LAW 645 Patent Law
+LAW 647 Income Taxation
+LAW 656 International Law
+LAW 662 Labor Law I
+LAW 665 Workplace Dispute Resolution
+LAW 667 Family Law
+LAW 680 Professional Responsibility
+LAW 682 Evidence
+LAW 686 Remedies
+LAW 692 Field Placements
+LAW 693 Clinical Training
+LAW 694 Trial Advocacy
+LAW 695 Fundamentals of Trial Practice
+LAW 696 Legal Problems
+LAW 697 Moot Court
+LAW 699 Independent Study
+LAW 792 Current Legal Problems
+LAW 793 Advanced Litigation Topics
+LAW 794 Adv Topics in Business Law
+LAW 796 Comparative Law Topics
+LAW 797 Intellectual Property Topics
+LAW 798 Seminars
+LER 100 Introduction to Labor Studies
+LER 110 Labor and Social Movements
+LER 120 Contemporary Labor Problems
+LER 199 Undergraduate Open Seminar
+LER 220 The Media, Workers, and Unions
+LER 290 Introduction to Employment Law
+LER 330 Comparative Labor Relations
+LER 440 Economics of Labor Markets
+LER 450 European Working Class History
+LER 522 Government Regulation
+LER 523 Org Fundamentals for HR
+LER 543 Workplace Dispute Resolution
+LER 545 Economics of Human Resources
+LER 547 Labor Law I
+LER 557 Human Resources Theory
+LER 558 Faculty-Student Workshop
+LER 561 Compensation Systems
+LER 562 HR Planning and Staffing
+LER 564 HR Training and Development
+LER 565 HR Management and Strategy
+LER 566 International HR Management
+LER 568 Firm Performance and HR
+LER 569 Power & Influence in HRM
+LER 580 Internship
+LER 590 Individual Topics
+LER 591 Employment Relations Systems
+LER 593 Quantitative Methods in LER
+LER 597 Employee Motivation & Perfmnce
+LER 599 Thesis Seminar
+LING 100 Intro to Language Science
+LING 104 Talking Culture
+LING 111 Language in Globalization
+LING 115 Language and Culture in India
+LING 191 Freshman Honors Tutorial
+LING 199 Undergraduate Open Seminar
+LING 210 Language History
+LING 221 American Sign Language II
+LING 225 Language, Mind, and Brain
+LING 240 Language in Human History
+LING 250 Language Diversity in the USA
+LING 290 Individual Study
+LING 300 Anat & Physiol Spch Mechanism
+LING 301 Elements of Syntax
+LING 302 Elements of Phonology
+LING 307 Elmnts Semantics & Pragmatics
+LING 391 Honors Individual Study
+LING 400 Intro to Linguistic Structure
+LING 401 Intro to General Phonetics
+LING 402 Tools & Tech Spch & Lang Proc
+LING 404 Tutorials in Non-Western Lang
+LING 426 Child & Adult Lang Acquisition
+LING 438 Philosophy of Language
+LING 450 Sociolinguistics I
+LING 489 Theoretical Foundations of SLA
+LING 490 Special Topics in Linguistics
+LING 501 Syntax I
+LING 504 Practicum
+LING 506 Topics in Computational Ling
+LING 507 Formal Semantics I
+LING 512 Language and Culture
+LING 525 Psycholinguistics
+LING 529 Second Lang Acq & Bilingualism
+LING 570 Seminar in Cognitive Science
+LING 588 Sem Second Lang Learn
+LING 590 Special Topics in Linguistics
+LING 591 Seminar in Linguistic Analysis
+LING 599 Thesis Research
+LIS 202 Social Aspects Info Tech
+LIS 351 Design Info Interfaces
+LIS 390 Special Topics Info Studies
+LIS 403 Lit and Resources Children
+LIS 446 Fantasy Lit/Media for Youth
+LIS 451 Intro to Network Systems
+LIS 452 Foundations of Information Processing
+LIS 458 Instruction and Assistance Sys
+LIS 490 Advanced Topics Info Studies
+LIS 501 Info Org and Access
+LIS 502 Libraries Info and Society
+LIS 504 Reference and Info Services
+LIS 505 Adm Mgt of Libs Info Centers
+LIS 506 Youth Services Librarianship
+LIS 507 Intr to Bibliographic Metadata
+LIS 508 Collection Development
+LIS 518 Community Informatics
+LIS 519 Soc Sc Research in LIS
+LIS 530 Info Needs of Part Communities
+LIS 531 Foundations of Data Curation
+LIS 542 Data, Stat, Info
+LIS 543 Sociotechnical Info Sys
+LIS 546 Intellect Freedom and Censorship
+LIS 560 Digital Libraries
+LIS 561 Information Modeling
+LIS 562 Metadata in Theory & Practice
+LIS 567 Academic Librarianship
+LIS 569 Financial Management
+LIS 580 Rare Book and Spec Colls
+LIS 581 Adm and Use Archival Materials
+LIS 582 Preserving Info Resources
+LIS 584 Archival Arrang and Descrip
+LIS 585 International Librarianship
+LIS 586 Digital Preservation
+LIS 587 History and Foundations of LIS
+LIS 590 Advanced Problems in LIS
+LIS 591 Practicum
+LIS 592 Independent Study
+LIS 593 CAS Project
+LIS 594 LIS Practice
+LIS 599 Thesis Research
+LLS 100 Intro Latina/Latino Studies
+LLS 200 U.S. Race and Empire
+LLS 220 Mexican & Latin Am Migration
+LLS 230 Latina/o Genders & Sexualities
+LLS 240 Latina/o Popular Culture
+LLS 242 Intro to Latina/o Literature
+LLS 258 Muslims in America
+LLS 301 19thC US Latina/o Lit-ACP
+LLS 305 Theories of Race, Gender, and Sexuality
+LLS 308 Spanish in the United States
+LLS 310 Race and Cultural Diversity
+LLS 320 Gender & Latina/o Migration
+LLS 372 Immigration, Law, and Rights
+LLS 377 Prisons, Race, and Terror
+LLS 385 Theory and Methods in LLS
+LLS 390 Independent Study
+LLS 392 Chicanas&Latinas: Self&Society
+LLS 396 Adv Topics Latina/o Studies
+LLS 433 Found of Bilingual Educ
+LLS 490 Senior Research Project
+LLS 495 Senior Honors Thesis
+LLS 496 Seminar in Latina/o Studies
+LLS 577 Perspectives in LLS
+LLS 590 Independent Study
+MACS 100 Intro to Popular TV & Movies
+MACS 101 Intro to the Media
+MACS 104 Intro to Film
+MACS 202 Social Aspects Info Tech
+MACS 203 Contemporary Movies
+MACS 205 Introduction to Documentary
+MACS 227 Studies in Black Television
+MACS 261 Survey of World Cinema I
+MACS 264 Creative and Information Economies
+MACS 273 American Cinema Since 1950
+MACS 300 Topics in Film and History
+MACS 317 Media History
+MACS 320 Popular Culture
+MACS 322 Politics and the Media
+MACS 326 New Media, Culture & Society
+MACS 351 Social Aspects of Media
+MACS 356 Sex & Gender in Popular Media
+MACS 361 Film Theory and Criticism
+MACS 373 Special Topics in Film Studies
+MACS 389 International Communications
+MACS 391 Individual Study
+MACS 490 Green Screen: Film and Nature
+MACS 495 Internship Seminar
+MACS 499 Senior Thesis
+MATH 002 Introductory Algebra
+MATH 103 Theory of Arithmetic
+MATH 112 Algebra
+MATH 115 Preparation for Calculus
+MATH 119 Ideas in Geometry
+MATH 124 Finite Mathematics
+MATH 125 Elementary Linear Algebra
+MATH 181 A Mathematical World
+MATH 198 Freshman Seminar
+MATH 199 Undergraduate Open Seminar
+MATH 210 Theory of Interest
+MATH 213 Basic Discrete Mathematics
+MATH 220 Calculus
+MATH 221 Calculus I
+MATH 225 Introductory Matrix Theory
+MATH 231 Calculus II
+MATH 241 Calculus III
+MATH 249 Honors Supplement
+MATH 285 Intro Differential Equations
+MATH 286 Intro to Differential Eq Plus
+MATH 299 Topics in Mathematics
+MATH 347 Fundamental Mathematics
+MATH 357 Numerical Methods I
+MATH 362 Probability with Engrg Applic
+MATH 370 Actuarial Problem Solving
+MATH 390 Individual Study
+MATH 399 Math/Actuarial Internship
+MATH 402 Non Euclidean Geometry
+MATH 403 Euclidean Geometry
+MATH 406 History of Calculus
+MATH 409 Actuarial Statistics II
+MATH 410 Lin Algebra & Financial Apps
+MATH 412 Graph Theory
+MATH 413 Intro to Combinatorics
+MATH 415 Applied Linear Algebra
+MATH 416 Abstract Linear Algebra
+MATH 417 Intro to Abstract Algebra
+MATH 423 Differential Geometry
+MATH 424 Honors Real Analysis
+MATH 427 Honors Abstract Algebra
+MATH 441 Differential Equations
+MATH 442 Intro Partial Diff Equations
+MATH 444 Elementary Real Analysis
+MATH 446 Applied Complex Variables
+MATH 447 Real Variables
+MATH 448 Complex Variables
+MATH 450 Numerical Analysis
+MATH 453 Elementary Theory of Numbers
+MATH 461 Probability Theory
+MATH 463 Statistics and Probability I
+MATH 464 Statistics and Probability II
+MATH 469 Methods of Applied Statistics
+MATH 471 Actuarial Theory I
+MATH 476 Actuarial Risk Theory
+MATH 482 Linear Programming
+MATH 484 Nonlinear Programming
+MATH 488 Math Methods In Engineering
+MATH 489 Dynamics & Differential Eqns
+MATH 492 Undergraduate Research in Math
+MATH 499 Introduction Graduate Research
+MATH 500 Abstract Algebra I
+MATH 502 Commutative Algebra
+MATH 506 Group Representation Theory
+MATH 512 Modern Algebraic Geometry
+MATH 518 Differentiable Manifolds I
+MATH 522 Lie Groups and Lie Algebras I
+MATH 526 Algebraic Topology II
+MATH 531 Analytic Theory of Numbers I
+MATH 535 General Topology
+MATH 540 Real Analysis
+MATH 542 Complex Variables I
+MATH 543 Complex Variables II
+MATH 546 Hilbert Spaces
+MATH 550 Dynamical Systems I
+MATH 553 Partial Differential Equations
+MATH 554 Linear Anal & Part Diff Eq
+MATH 558 Methods of Applied Mathematics
+MATH 562 Theory of Probability II
+MATH 564 Applied Stochastic Processes
+MATH 567 Topics in Actuarial Theory I
+MATH 570 Mathematical Logic
+MATH 571 Model Theory
+MATH 580 Combinatorial Mathematics
+MATH 582 Structure of Graphs
+MATH 593 Mathematical Internship
+MATH 595 Advanced Topics in Math
+MATH 597 Reading Course
+MATH 598 Literature Seminar in Math
+MATH 599 Thesis Research
+MBA 500 Issues in Business
+MBA 501 Foundations of Business I
+MBA 502 Foundations of Business II
+MBA 530 Internship
+MBA 531 Special Projects
+MCB 100 Introductory Microbiology
+MCB 101 Intro Microbiology Laboratory
+MCB 150 Molec & Cellular Basis of Life
+MCB 151 Molec & Cellular Laboratory
+MCB 170 Society and the Brain
+MCB 198 Internship
+MCB 199 Undergraduate Open Seminar
+MCB 244 Human Anatomy & Physiology I
+MCB 245 Human Anat & Physiol Lab I
+MCB 250 Molecular Genetics
+MCB 251 Exp Techniqs in Molecular Biol
+MCB 252 Cells, Tissues & Development
+MCB 253 Exp Techniqs in Cellular Biol
+MCB 290 Undergraduate Research
+MCB 297 MCB Honors Discussion
+MCB 298 MCB Honors Lab Discussion
+MCB 299 MCB Merit Program Discussion
+MCB 300 Microbiology
+MCB 301 Experimental Microbiology
+MCB 314 Introduction to Neurobiology
+MCB 316 Genetics and Disease
+MCB 354 Biochem & Phys Basis of Life
+MCB 395 Special Topics Human Physiol
+MCB 400 Cancer Cell Biology
+MCB 401 Cell & Membrane Physiology
+MCB 413 Endocrinology
+MCB 426 Bacterial Pathogenesis
+MCB 428 Microbial Pathogens Laboratory
+MCB 434 Food & Industrial Microbiology
+MCB 436 Global Biosecurity
+MCB 450 Introductory Biochemistry
+MCB 461 Cell & Molecular Neuroscience
+MCB 471 Advanced Cell Biology
+MCB 492 Senior Thesis
+MCB 493 Special Topics Mol Cell Biol
+MCB 501 Advanced Biochemistry
+MCB 502 Advanced Molecular Genetics
+MCB 526 Adv Bacterial Pathogenesis
+MCB 529 Special Topics Cell Devel Biol
+MCB 530 Reproductive Physiol Seminar
+MCB 533 Repro Physiology Lab Methods
+MCB 540 Scientific Writing
+MCB 555 Anlys Biochemical Literature
+MCB 561 Mechanisms Viral Pathogenesis
+MCB 580 Res Ethics & Responsibilities
+MCB 581 Laboratory Rotation I
+MCB 582 Laboratory Rotation II
+MCB 583 Laboratory Rotation III
+MDIA 100 College of Media Orientation
+MDIA 199 Special Topics
+MDIA 270 Introduction to Media Sales
+MDIA 290 Undergraduate Open Seminar
+MDIA 299 Media Study Abroad
+MDIA 320 Media Sales Management
+MDIA 370 Advanced Media Sales
+MDIA 380 21st Century Documentaries
+MDIA 390 Special Topics in Media
+MDIA 400 Special Topics
+MDIA 525 Psycholinguistics
+MDIA 571 Proseminar I
+MDIA 590 Special Topics
+MDIA 599 Thesis Research
+MDVL 201 Medieval Lit and Culture
+MDVL 222 Medieval Art
+MDVL 240 Italy Middle Ages & Renaiss
+MDVL 247 Medieval Europe
+MDVL 251 Viking Mythology
+MDVL 407 Introduction to Old English
+MDVL 412 Medieval Architecture
+MDVL 417 History of the French Language
+MDVL 460 Medieval Latin
+MDVL 504 Genesis in History
+MDVL 514 Seminar in Medieval Literature
+ME 170 Computer-Aided Design
+ME 199 Undergraduate Open Seminar
+ME 270 Design for Manufacturability
+ME 297 Introductory Independent Study
+ME 300 Thermodynamics
+ME 310 Fundamentals of Fluid Dynamics
+ME 320 Heat Transfer
+ME 330 Engineering Materials
+ME 340 Dynamics of Mechanical Systems
+ME 360 Signal Processing
+ME 370 Mechanical Design I
+ME 371 Mechanical Design II
+ME 390 Seminar
+ME 401 Refrigeration and Cryogenics
+ME 403 Internal Combustion Engines
+ME 411 Viscous Flow & Heat Transfer
+ME 420 Intermediate Heat Transfer
+ME 430 Failure of Engrg Materials
+ME 445 Introduction to Robotics
+ME 450 Modeling Materials Processing
+ME 451 Computer-Aided Mfg Systems
+ME 461 Computer Cntrl of Mech Systems
+ME 470 Senior Design Project
+ME 471 Finite Element Analysis
+ME 482 Musculoskel Tissue Mechanics
+ME 485 MEMS Devices & Systems
+ME 487 MEMS-NEMS Theory & Fabrication
+ME 496 Honors Project
+ME 497 Independent Study
+ME 498 Special Topics
+ME 504 Multiphase Systems & Processes
+ME 522 Thermal Radiation
+ME 530 Fatigue Analysis
+ME 540 Control System Theory & Design
+ME 562 Robust Adaptive Control
+ME 586 Mechanics of MEMS
+ME 590 Seminar
+ME 591 Interest Group Seminar
+ME 597 Independent Study
+ME 598 Special Topics
+ME 599 Thesis Research
+MICR 590 Individual Topics
+MICR 595 Microbiology Graduate Seminar
+MICR 599 Thesis Research
+MILS 101 Introduction to Leadership
+MILS 112 Leadership Laboratory
+MILS 201 Individual Leadership Studies
+MILS 212 Leadership Laboratory
+MILS 301 Leadership and Problem Solving
+MILS 312 Leadership Laboratory
+MILS 322 Leadership Laboratory
+MILS 325 Independent Study
+MILS 341 Leadership and Management
+MIP 590 Individual Topics
+MIP 595 Seminars in Physiology
+MIP 599 Thesis Research
+MSE 101 Materials in Today's World
+MSE 182 Introduction to MatSE
+MSE 199 Undergraduate Open Seminar
+MSE 201 Phases and Phase Relations
+MSE 280 Engineering Materials
+MSE 307 Materials Laboratory I
+MSE 396 Introduction to Research
+MSE 397 Independent Study
+MSE 401 Thermodynamics of Materials
+MSE 403 Synthesis of Materials
+MSE 404 Laboratory Studies in Materials Science and Engineering
+MSE 406 Thermal-Mech Behavior of Matls
+MSE 421 Ceramic Processing
+MSE 440 Mechanical Behavior of Metals
+MSE 443 Design of Engineering Alloys
+MSE 453 Plastics Engineering
+MSE 456 Mechanics of Composites
+MSE 457 Polymer Chemistry
+MSE 470 Design and Use of Biomaterials
+MSE 485 Atomic Scale Simulations
+MSE 489 Matl Select for Sustainability
+MSE 492 Lab Safety Fundamentals
+MSE 497 Independent Study
+MSE 499 Senior Thesis
+MSE 500 Statistical Thermodyn of Matls
+MSE 529 Hard Materials Seminar
+MSE 559 Soft Materials Seminar
+MSE 584 Point and Line Defects
+MSE 590 Research Seminars
+MSE 595 Materials Colloquium
+MSE 597 Independent Study
+MSE 599 Thesis Research
+MUS 090 Seminar in Music Education
+MUS 101 Music Theory and Practice I
+MUS 103 Rudiments of Music Theory I
+MUS 106 Beginning Composition
+MUS 107 Aural Skills I
+MUS 108 Aural Skills II
+MUS 110 Introd Art Mus: Intl Perspect
+MUS 120 English Diction
+MUS 121 Italian Diction
+MUS 123 French Diction
+MUS 130 Introd to the Art of Music
+MUS 133 Introduction to World Music
+MUS 140 String Instrument Class
+MUS 144 Supp WW Inst: Clarinet
+MUS 146 Supp WW Inst: Flute
+MUS 147 Supp WW Inst: Oboe
+MUS 148 Supp WW Inst: Saxophone
+MUS 149 Supp WW Inst: Bassoon
+MUS 151 Supp Brass Inst: Trumpet
+MUS 153 Supp Brass Inst: Horn
+MUS 154 Supp Brass Inst: Trombone
+MUS 155 Supp Brass Inst: Euph/Tuba
+MUS 158 Supp Percussion Instruments
+MUS 163 Jazz Keyboard Studies I
+MUS 165 Applied Jazz Instruction
+MUS 166 Class Jazz Improvisation I
+MUS 169 Unit One Sem Instruct in Music
+MUS 172 Grp Instr Pno for Mus Major I
+MUS 174 Grp Instr Pno for Mus Maj III
+MUS 179 Harpsichord
+MUS 180 Piano
+MUS 181 Voice
+MUS 182 Organ
+MUS 183 Violin
+MUS 184 Viola
+MUS 185 Cello
+MUS 186 Double Bass
+MUS 187 Harp
+MUS 188 Flute
+MUS 189 Clarinet
+MUS 190 Oboe
+MUS 191 Bassoon
+MUS 192 Saxophone
+MUS 193 Trumpet
+MUS 194 Horn
+MUS 195 Trombone
+MUS 196 Euphonium
+MUS 197 Tuba
+MUS 198 Percussion
+MUS 199 Undergraduate Open Seminar
+MUS 201 Music Theory and Practice III
+MUS 206 Intermediate Composition
+MUS 207 Aural Skills III
+MUS 242 Elements of Conducting
+MUS 243 Introductory Music Ed Tech
+MUS 250 University Orchestra
+MUS 252 Ethnomusicology Perf Ensembles
+MUS 255 Woodwind Ensemble
+MUS 256 Brass Ensemble
+MUS 257 Percussion Ensemble
+MUS 258 Piano Ensemble
+MUS 260 Oratorio Society
+MUS 261 Choral Ensemble
+MUS 262 Women's Glee Club
+MUS 263 Men's Glee Club
+MUS 265 Opera
+MUS 266 Jazz Ensemble
+MUS 267 Chamber Music
+MUS 268 Wind Symphony
+MUS 269 Wind Orchestra
+MUS 271 Hindsley Symphonic Band
+MUS 272 Concert Band
+MUS 273 Marching Illini
+MUS 274 Basketball Band
+MUS 299 Thesis/Adv UG Honors in Music
+MUS 313 The History of Music I
+MUS 317 Intro to Piano Literature
+MUS 320 Pre-Student Tchng Experience
+MUS 330 Advanced Choral Conducting I
+MUS 332 Advanced Wind Band Conducting and Rehearsal Strategies
+MUS 333 Cond/Teach Strings-Grp Setting
+MUS 335 Elem and Mid Sch Instrum Music
+MUS 343 Music in Adolescence
+MUS 345 Mus Methods in Early Childhood
+MUS 346 Choral Methods for Secondary Ensembles
+MUS 348 Choral Literature
+MUS 360 Jazz Improv:Theory and Prac I
+MUS 362 Jazz Arranging I
+MUS 364 Jazz Composition I
+MUS 368 Jazz Improvisation Styles I
+MUS 400 Counterpoint and Fugue
+MUS 404 Contemp Compos Techniques
+MUS 406 Advanced Composition
+MUS 407 Elect Music Techniques I
+MUS 408 Analysis of Musical Form
+MUS 414 Music and Society
+MUS 418 Regional Studies in Musicology
+MUS 430 Applied Music Pedagogy
+MUS 431 Piano Pedagogy I
+MUS 435 Jazz Pedagogy I
+MUS 437 Popular Music Pedagogy
+MUS 438 Designing Musical Experiences
+MUS 439 Differentiating Music Instruction
+MUS 443 Orchestral Repertory
+MUS 448 Computer Music
+MUS 449 Music in Early Childhood
+MUS 450 Advanced Ensemble Music
+MUS 451 Basso Continuo
+MUS 452 Special Topics in Harpsichord
+MUS 453 Special Topics in Organ
+MUS 454 Advanced Keyboard Skills I
+MUS 456 Adv Jazz Piano Improvisation
+MUS 459 Professional Internship
+MUS 462 Jazz Listening Seminar I
+MUS 464 Jazz History I
+MUS 466 Applied Jazz Instruction
+MUS 468 Opera Studio
+MUS 474 Vocal Repertoire I
+MUS 477 Principles of Accompanying
+MUS 479 Harpsichord
+MUS 480 Piano
+MUS 481 Voice
+MUS 482 Organ
+MUS 483 Violin
+MUS 484 Viola
+MUS 485 Cello
+MUS 486 Double Bass
+MUS 487 Harp
+MUS 488 Flute
+MUS 489 Clarinet
+MUS 490 Oboe
+MUS 491 Bassoon
+MUS 492 Saxophone
+MUS 493 Trumpet
+MUS 494 Horn
+MUS 495 Trombone
+MUS 496 Euphonium
+MUS 497 Tuba
+MUS 498 Percussion
+MUS 499 Proseminar in Music
+MUS 500 Artist Diploma Recital
+MUS 501 Grad Music History Review
+MUS 502 Graduate Theory Review
+MUS 504 Grad. Jazz Improv. I
+MUS 505 Individ Topics in Music Theory
+MUS 506 Graduate Level Composition
+MUS 507 Sem in Music Comp and Theory
+MUS 511 Fdns/Methods of Musicology I
+MUS 516 Fieldwork and Ethnography
+MUS 523 Seminar in Musicology
+MUS 524 Sem in Wrks of Select Composer
+MUS 525 Rdgs in Musicol and Mus Theory
+MUS 528 Res & Bibliography in Music
+MUS 530 Critical Readings in Mus Ed
+MUS 535 Philosophic Inquiry in Mus Ed
+MUS 540 Graduate Wind Band Conducting
+MUS 544 Doctoral Sem in Music Educ
+MUS 546 Orchestral Literature I
+MUS 548 Advanced Jazz Harmony I
+MUS 553 Graduate Orchestral Conducting
+MUS 557 Piano Literature
+MUS 558 Vocal Literature
+MUS 559 Organ Literature
+MUS 560 String Instrument Literature
+MUS 561 Wind Instrument Literature
+MUS 563 Hist of Voc Ens and Chor Music
+MUS 564 Choral Conducting Project
+MUS 565 Adv Choral Perform Techniques
+MUS 566 Graduate Applied Jazz Instruc
+MUS 569 Music Education Thesis
+MUS 572 Doctoral Orchestral Conducting
+MUS 573 Doctoral Wind Band Conducting
+MUS 574 Jazz Arranging III
+MUS 576 Doctoral Projects
+MUS 577 Advanced Accompanying
+MUS 579 Graduate Level Harpischord
+MUS 580 Graduate Level Piano
+MUS 581 Graduate Level Voice
+MUS 582 Graduate Level Organ
+MUS 583 Graduate Level Violin
+MUS 584 Graduate Level Viola
+MUS 585 Graduate Level Cello
+MUS 586 Graduate Level Double Bass
+MUS 587 Graduate Level Harp
+MUS 588 Graduate Level Flute
+MUS 589 Graduate Level Clarinet
+MUS 590 Graduate Level Oboe
+MUS 591 Graduate Level Bassoon
+MUS 592 Graduate Level Saxophone
+MUS 593 Graduate Level Trumpet
+MUS 594 Graduate Level Horn
+MUS 595 Graduate Level Trombone
+MUS 596 Graduate Level Euphonium
+MUS 597 Graduate Level Tuba
+MUS 598 Graduate Level Percussion
+MUS 599 Thesis Research
+MUSE 200 Introduction to Museums
+MUSE 390 Museum Internship
+MUSE 500 Core Prob Museum Theory & Prac
+NEUR 314 Introduction to Neurobiology
+NEUR 403 Memory and Amnesia
+NEUR 433 Evolutionary Neuroscience
+NEUR 453 Cog Neuroscience of Vision
+NEUR 461 Cell & Molecular Neuroscience
+NEUR 500 Topics in Neuroscience
+NEUR 520 Adv Topics in Neuroscience
+NEUR 590 Indiv Topics Neuroscience
+NEUR 598 Proseminar in Psychology
+NEUR 599 Thesis Research
+NPRE 100 Orientation to NPRE
+NPRE 201 Energy Systems
+NPRE 247 Modeling Nuclear Energy System
+NPRE 397 Independent Study
+NPRE 402 Nuclear Power Engineering
+NPRE 412 Nuclear Power Econ & Fuel Mgmt
+NPRE 423 Plasma Laboratory
+NPRE 429 Plasma Engineering
+NPRE 431 Materials in Nuclear Engrg
+NPRE 432 Nuclear Engrg Materials Lab
+NPRE 435 Radiological Imaging
+NPRE 446 Radiation Interact w/Matter I
+NPRE 448 Nuclear Syst Engrg & Design
+NPRE 457 Safety Anlys Nucl Reactor Syst
+NPRE 481 Writing on Technol & Security
+NPRE 483 Seminar on Security
+NPRE 498 Special Topics
+NPRE 501 Fundamentals of Nuclear Engrg
+NPRE 554 Independent Lab Investigations
+NPRE 555 Reactor Theory I
+NPRE 596 Seminar in Nuclear Sci & Engrg
+NPRE 597 Independent Study
+NPRE 598 Special Topics
+NPRE 599 Thesis Research
+NRES 100 Fundamentals of Env Sci
+NRES 102 Introduction to NRES
+NRES 201 Introductory Soils
+NRES 210 Environmental Economics
+NRES 219 Principles of Ecosystem Mgmt
+NRES 220 Communicating Agriculture
+NRES 242 Nature and American Culture
+NRES 270 Applied Entomology
+NRES 276 Introduction to Field Pedology
+NRES 285 Field Experience
+NRES 293 Professional Internship
+NRES 294 Resident Internship
+NRES 295 Undergrad Research or Thesis
+NRES 340 Environ Social Sci Res Meth
+NRES 348 Fish and Wildlife Ecology
+NRES 368 Vertebrate Natural History
+NRES 370 Environmental Sustainability
+NRES 396 UG Honors Research or Thesis
+NRES 403 Watersheds and Water Quality
+NRES 406 Fluvial Geomorphology
+NRES 409 Fishery Ecol and Conservation
+NRES 415 Native Plant ID and Floristics
+NRES 418 Wetland Ecology & Management
+NRES 419 Env and Plant Ecosystems
+NRES 429 Aquatic Ecosystem Conservation
+NRES 430 Comm in Env Social Movements
+NRES 440 Applied Statistical Methods I
+NRES 445 Statistical Methods
+NRES 454 GIS in Natural Resource Mgmt
+NRES 465 Landscape Ecology
+NRES 477 Introduction to Remote Sensing
+NRES 500 Graduate Seminar
+NRES 501 Special Problems
+NRES 504 Critical Issues Recreation Mgt
+NRES 512 Discussions in NRES
+NRES 593 Statistical Methods in Ecology
+NRES 594 NRES Professional Orientation
+NRES 598 Experimental Graduate Courses
+NRES 599 Thesis Research
+NS 100 Leadership Laboratory
+NS 101 Introduction to Naval Science
+NS 204 Navigation/Naval Operations I
+NS 305 Intro to Naval Engineering
+NS 308 Leadership and Ethics
+NS 323 History of Amphibious Warfare
+NUTR 420 Nutritional Aspects of Disease
+NUTR 426 Biochemical Nutrition I
+NUTR 428 Community Nutrition
+NUTR 500 Nutritional Sciences Seminar
+NUTR 510 Topics in Nutrition Research
+NUTR 561 Advanced Clinical Nutrition
+NUTR 590 Disciplinary Seminar
+NUTR 593 Individual Topics in Nutrition
+NUTR 599 Thesis Research
+PATH 290 Undergraduate Research
+PATH 474 Principles of Epidemiology
+PATH 517 Principle/Method Epidemiology
+PATH 519 Mechanisms Viral Pathogenesis
+PATH 527 Parasitology/Epidemiology Sem
+PATH 542 Ocular Pathology
+PATH 545 Vet Diagnostic Path 1
+PATH 546 Vet Diagnostic Path 2
+PATH 547 Pathology Seminar
+PATH 551 Interpretive Cytopathology
+PATH 552 Diagnostic Cytology
+PATH 556 Exotic/Wild Animal Diag Path 1
+PATH 557 Exotic/Wild Animal Diag Path 2
+PATH 558 Exotic/Wild Animal Path Sem
+PATH 559 Surgical Pathology
+PATH 575 Vet Info Tech/Computer App
+PATH 576 Communication Vet Consultation
+PATH 577 Vet Leadership Organ Behavior
+PATH 579 Adv Concept Swine Health Med 1
+PATH 590 Seminar
+PATH 592 Special Problems
+PATH 596 Interdisciplinary Tox Sem
+PATH 598 Non-Thesis Research
+PATH 599 Thesis Research
+PATH 639 Veterinary Forensic Medicine
+PATH 644 Bioscientific Writing
+PATH 692 Special Problems
+PBIO 599 Thesis Research
+PERS 201 Elementary Persian I
+PERS 403 Intermediate Persian I
+PERS 453 Advanced Persian I
+PHIL 100 Intro to Philosophy-ACP
+PHIL 101 Introduction to Philosophy
+PHIL 102 Logic and Reasoning
+PHIL 103 Logic and Reasoning QR II
+PHIL 104 Intro to Ethics-ACP
+PHIL 105 Introduction to Ethics
+PHIL 107 Intro to Political Philosophy
+PHIL 108 Religion & Society in West I
+PHIL 110 World Religions
+PHIL 191 Freshman Honors Tutorial
+PHIL 199 Undergraduate Open Seminar
+PHIL 202 Symbolic Logic
+PHIL 203 Ancient Philosophy
+PHIL 206 Early Modern Philosophy
+PHIL 230 Philosophy of Religion Intro
+PHIL 231 Religion and Philosophy
+PHIL 250 Conceptions of Human Nature
+PHIL 270 Philosophy of Science
+PHIL 307 Elmnts Semantics & Pragmatics
+PHIL 316 Ethics and Engineering
+PHIL 357 Intro Cognitive Science
+PHIL 390 Individual Study
+PHIL 412 Classical Modern Philosophers
+PHIL 414 Major Recent Philosophers
+PHIL 419 Space, Time, and Matter-ACP
+PHIL 420 Space, Time, and Matter
+PHIL 421 Ethical Theories
+PHIL 426 Metaphysics
+PHIL 433 Evolutionary Neuroscience
+PHIL 435 Social Philosophy
+PHIL 438 Philosophy of Language
+PHIL 441 Existential Philosophy
+PHIL 492 Thesis
+PHIL 501 Seminar History of Philosophy
+PHIL 507 Formal Semantics I
+PHIL 514 Seminar in Cognitive Science
+PHIL 521 Seminar Contemporary Problems
+PHIL 530 Dissertation Seminar
+PHIL 583 Individual Topics
+PHIL 590 Directed Research
+PHIL 599 Thesis Research
+PHYS 100 Thinking About Physics
+PHYS 101 College Physics: Mech & Heat
+PHYS 102 College Physics: E&M & Modern
+PHYS 110 Physics Careers
+PHYS 140 How Things Work
+PHYS 150 Physics of Societal Issues
+PHYS 199 Undergraduate Open Seminar
+PHYS 211 University Physics: Mechanics
+PHYS 212 University Physics: Elec & Mag
+PHYS 213 Univ Physics: Thermal Physics
+PHYS 214 Univ Physics: Quantum Physics
+PHYS 222 Enrichment E & M
+PHYS 225 Relativity & Math Applications
+PHYS 325 Classical Mechanics I
+PHYS 326 Classical Mechanics II
+PHYS 329 Atmospheric Dynamics I
+PHYS 401 Classical Physics Lab
+PHYS 402 Light
+PHYS 403 Modern Experimental Physics
+PHYS 404 Electronic Circuits
+PHYS 419 Space, Time, and Matter-ACP
+PHYS 420 Space, Time, and Matter
+PHYS 427 Thermal & Statistical Physics
+PHYS 435 Electromagnetic Fields I
+PHYS 436 Electromagnetic Fields II
+PHYS 460 Condensed Matter Physics
+PHYS 466 Atomic Scale Simulations
+PHYS 475 Introduction to Biophysics
+PHYS 485 Atomic Phys & Quantum Theory
+PHYS 486 Quantum Physics I
+PHYS 487 Quantum Physics II
+PHYS 496 Intro to Physics Research
+PHYS 497 Individual Study
+PHYS 505 Classical Electromagnetism
+PHYS 508 Mathematical Physics I
+PHYS 510 Nonlinear Dynamics
+PHYS 540 Astrophysics
+PHYS 561 Condensed Matter Physics II
+PHYS 565 Theory of Semicond & Devices
+PHYS 570 Subatomic Physics
+PHYS 580 Quantum Mechanics I
+PHYS 582 General Field Theory
+PHYS 596 Graduate Physics Orientation
+PHYS 597 Individual Study
+PHYS 598 Special Topics in Physics
+PHYS 599 Thesis Research
+PLPA 199 Undergraduate Open Seminar
+PLPA 200 Plants, Pathogens, and People
+PLPA 395 Undergrad Research or Thesis
+PLPA 402 Phytoparasitic Nematodes
+PLPA 407 Diseases of Field Crops
+PLPA 599 Thesis Research
+POL 101 Elementary Polish I
+POL 115 Intro to Polish Culture
+POL 199 Undergraduate Open Seminar
+POL 201 Second Yr Polish I
+PORT 199 Undergraduate Open Seminar
+PORT 201 Intensive Beginning Portuguese
+PORT 202 Intensive Intermediate Portuguese
+PORT 320 Readings in Portuguese
+PORT 404 Luso-Brazilian Culture
+PORT 460 Principles of Language Testing
+PORT 489 Theoretical Foundations of SLA
+PORT 571 Proseminar For Lang Tchg
+PORT 580 Classroom Lang Acquisition
+PORT 595 Special Topics Port & Braz Lit
+PORT 599 Thesis Research
+PS 100 Intro to Political Science
+PS 101 Intro to US Gov & Pol
+PS 199 Undergraduate Open Seminar
+PS 202 Religion & Politics in the US
+PS 220 Intro to Public Policy
+PS 224 Politics of the National Parks
+PS 230 Intro to Pol Research
+PS 240 Intro to Comp Politics
+PS 241 Comp Politics in Dev Nations
+PS 270 Intro to Political Theory
+PS 280 Intro to Intl Relations
+PS 300 Special Topics
+PS 301 The US Constitution I
+PS 302 The US Constitution II
+PS 303 The US Congress
+PS 304 The US Presidency
+PS 312 Politics and the Media
+PS 313 Congress and Foreign Policy
+PS 321 Principles of Public Policy
+PS 329 Immigration & Citizenship
+PS 330 Intro to Political Behavior
+PS 352 Gov & Pol of East Europe
+PS 355 Democratization
+PS 371 Classical Political Theory
+PS 373 Democratic Theory
+PS 377 Topics Contemp Pol Theory
+PS 385 Politics of the European Union
+PS 389 International Communications
+PS 390 American Foreign Policy
+PS 394 Crisis Diplomacy
+PS 397 Authoritarian Regimes
+PS 415 Europe and the Mediterranean
+PS 457 Dem Gov in a Global Setting
+PS 490 Individual Study
+PS 491 Internship
+PS 492 UG Research Assistance
+PS 494 Junior Honors Seminar
+PS 495 Senior Honors Seminar
+PS 496 Senior Honors Thesis
+PS 519 Topics in American Politics
+PS 525 Formal Theory I: Game Theory
+PS 530 Quant Pol Analysis I
+PS 531 Quant Pol Analysis II
+PS 546 Comparative Political Behavior
+PS 549 Topics in Comparative Politics
+PS 582 Intl Political Economy
+PS 589 Topics in Intl Rel
+PS 590 Research in Selected Topics
+PS 596 Evaluating New Research
+PS 597 Preparing Future Faculty
+PS 599 Thesis Research
+PSM 501 PSM Industry Seminar I
+PSM 503 PSM Industry Seminar III
+PSM 520 Special Topics-Sci & Business
+PSM 555 PSM Internship
+PSYC 100 Intro Psych
+PSYC 102 Psych Orientation
+PSYC 103 Intro Experimental Psych
+PSYC 105 Psych Introduction
+PSYC 199 Undergraduate Open Seminar
+PSYC 201 Intro to Social Psych
+PSYC 204 Intro to Brain and Cognition
+PSYC 210 Behavioral Neuroscience
+PSYC 216 Child Psych
+PSYC 224 Cognitive Psych
+PSYC 230 Perception & Sensory Processes
+PSYC 235 Intro to Statistics
+PSYC 238 Abnormal Psych
+PSYC 239 Community Psych
+PSYC 245 Industrial Org Psych
+PSYC 248 Learning and Memory
+PSYC 250 Psych of Personality
+PSYC 290 Research Experience in Psych
+PSYC 311 Behavioral Neuroscience Lab
+PSYC 312 Psychology of Race & Ethnicity
+PSYC 322 Intro Intellectual Disability
+PSYC 333 Social Psych in Society Lab
+PSYC 334 Perception Lab
+PSYC 336 Topics in Clin/Comm Psych
+PSYC 340 Community Projects
+PSYC 350 Personality Lab
+PSYC 353 Social Cognition
+PSYC 357 Intro Cognitive Science
+PSYC 363 Developmental Child Psych Lab
+PSYC 383 Adv Prac in Mental Hlth I
+PSYC 385 Adv Prac in Mental Hlth II
+PSYC 396 Intermediate Current Topics in Psychology
+PSYC 403 Memory and Amnesia
+PSYC 406 Statistical Methods I
+PSYC 416 African American Psychology
+PSYC 417 Neuroscience of Eating & Drinking
+PSYC 420 Theories of Psychotherapy
+PSYC 433 Evolutionary Neuroscience
+PSYC 453 Cog Neuroscience of Vision
+PSYC 456 Human Performance and Cognition in Context
+PSYC 465 Personality and Soc Dev
+PSYC 468 Psych and Law
+PSYC 475 Personnel Psych
+PSYC 492 Capstone Undergrad Research
+PSYC 494 Advanced Research in Psych
+PSYC 495 Internship Capstone Experience
+PSYC 496 Adv Current Topics in Psych
+PSYC 498 Senior Honors Seminar
+PSYC 514 Seminar in Cognitive Science
+PSYC 525 Psycholinguistics
+PSYC 529 Second Lang Acq & Bilingualism
+PSYC 532 Intro to Clin-Comm Psych III
+PSYC 533 Intern in Ind Org Psych
+PSYC 538 Intro to Clin-Comm Psych I
+PSYC 540 Social Development
+PSYC 546 Intervention & Assessment
+PSYC 551 Theory in Social Psychology
+PSYC 552 Soc Psych Theory and Meth II
+PSYC 563 ResearchMethods:Clin/CommPsych
+PSYC 569 Cognitive Development
+PSYC 570 Prin and Meth of Tchg Psych
+PSYC 573 Clin/Comm: History & Systems
+PSYC 574 Microskills & Prof Standards
+PSYC 575 Clinical/Community: Diversity
+PSYC 576 Clinical/Community: Biological
+PSYC 577 Clinical/Community:Cog/Affect
+PSYC 578 Clinical/Community:Development
+PSYC 587 Hierarchical Linear Models
+PSYC 590 Individual Research
+PSYC 593 Seminar
+PSYC 598 Proseminar in Psychology
+PSYC 599 Thesis Research
+REES 115 Intro to Polish Culture
+REES 116 Intro to Russian Culture
+REES 200 Intro to Russia and Eurasia
+REES 390 Individual Study or Research
+REES 493 Honors Senior Thesis
+REES 495 Senior Seminar
+REES 550 Seminar in REEE Studies
+REES 590 Individual Study or Research
+REES 599 Thesis Research
+REHB 199 Undergraduate Open Seminar
+REHB 322 Intro Intellectual Disability
+REHB 330 Disability in American Society
+REHB 401 Introduction to Rehabilitation
+REHB 402 Medical Aspects of Disability
+REHB 536 Assessment in Rehabilitation
+REHB 583 Counseling Internship
+REHB 585 Rehabilitation Practicum
+REHB 593 Special Problems
+REHB 594 Special Topics
+REHB 599 Thesis Research
+RHET 100 Rhetoric Tutorial
+RHET 101 Principles of Writing
+RHET 105 Writing and Research
+RHET 233 Adv Rhetoric & Composition
+RLST 101 Bible as Literature
+RLST 104 Asian Mythology
+RLST 108 Religion & Society in West I
+RLST 110 World Religions
+RLST 111 Elementary Greek I
+RLST 115 Language and Culture in India
+RLST 132 Zen
+RLST 160 Ancient Greek & Roman Religion
+RLST 191 Freshman Honors Tutorial
+RLST 199 Undergraduate Open Seminar
+RLST 200 Classical & Koine Greek I
+RLST 205 Intensive Biblical Hebrew
+RLST 214 Introduction to Islam
+RLST 220 Jewish Storytelling
+RLST 230 Philosophy of Religion Intro
+RLST 231 Religion and Philosophy
+RLST 236 Religion, Violence & America
+RLST 251 Viking Mythology
+RLST 258 Muslims in America
+RLST 320 Lit Responses to the Holocaust
+RLST 341 Native People and Christianity
+RLST 390 Independent Study
+RLST 401 Gender and Hinduism
+RLST 442 History of Early Judaism
+RLST 481 Muslim Ethics in Global Age
+RLST 493 Honors Senior Thesis
+RLST 494 Topics in Religious Thought
+RLST 496 Topics in History of Judaism
+RLST 498 Topics in Biblical Studies
+RLST 504 Genesis in History
+RLST 510 Graduate Intro to Religion
+RLST 590 Independent Study
+RLST 599 Thesis Research
+RSOC 270 Population Issues
+RST 100 RST in Modern Society
+RST 101 Orientation to RST
+RST 130 Foundations of Sport Mgt
+RST 199 Undergraduate Open Seminar
+RST 200 Leadership in RST
+RST 217 Public Recreation
+RST 230 Diversity in Recreation, Sport, and Tourism
+RST 242 Nature and American Culture
+RST 255 Ethical Issues in RST
+RST 300 Leisure Programming
+RST 316 Leisure and Human Development
+RST 320 Leisure Services Marketing
+RST 330 Leisure and Consumer Culture
+RST 340 Facility Management in RST
+RST 354 Legal Aspects of Sport
+RST 365 Civic Engagement in Wellness
+RST 370 Research Methods & Analysis
+RST 390 Honors
+RST 393 Special Problems
+RST 410 Administration of Leisure Serv
+RST 420 HR Management in RST
+RST 429 Contemporary Issues in RST
+RST 457 Tourism Development
+RST 480 Orientation to Practicum
+RST 484 Practicum
+RST 501 Concepts & Applications in Recreation, Sport & Tourism
+RST 502 Critical Issues Recreation Mgt
+RST 503 Adv Leisure Research Methods
+RST 512 Managing Recreation, Sport & Tourism Organizations
+RST 515 Marketing in RST
+RST 516 Finance & Budgeting in RST
+RST 518 Event Management
+RST 520 Critical Issues Sport Mgt
+RST 530 Critical Issues Tourism Mgt
+RST 550 Theory and Methods of Leisure
+RST 560 Teaching in the Professoriate
+RST 584 Management Internship
+RST 590 Doctoral Research Seminar and Colloquium
+RST 593 Special Problems
+RST 594 Special Topics in Leisure
+RST 599 Thesis Research
+RUSS 101 First-Year Russian I
+RUSS 115 Intro to Russian Culture
+RUSS 191 Freshman Honors Tutorial
+RUSS 199 Undergraduate Open Seminar
+RUSS 201 Second-Year Russian I
+RUSS 220 Golden Age of Russian Lit
+RUSS 290 Readings in Russian
+RUSS 301 Third Year Russian I
+RUSS 323 Tolstoy
+RUSS 401 Fourth Year Russian I
+RUSS 418 18th Century Literature
+RUSS 493 Honors Senior Thesis
+RUSS 501 Russian for Grad Students I
+RUSS 523 Tolstoy
+SAME 150 Lang&Culture of Arab World
+SAME 199 Undergraduate Open Seminar
+SAME 214 Introduction to Islam
+SAME 410 Gender and Hinduism
+SAME 481 Muslim Ethics in Global Age
+SAME 590 Independent Study
+SCAN 101 Beginning Scandinavian I
+SCAN 103 Intermediate Scandinavian I
+SCAN 199 Undergraduate Open Seminar
+SCAN 225 Vikings to Volvos: Scandinavia
+SCAN 251 Viking Mythology
+SCAN 376 Children and Youth Literature
+SCAN 490 Green Screen: Film and Nature
+SCAN 493 Honors Senior Thesis
+SCAN 494 Topics in Scan Languages
+SCAN 496 Special Topics in Scan Studies
+SHS 111 Living-Learning ASL Part 1
+SHS 120 Child, Comm, & Lang Ability
+SHS 121 American Sign Language I
+SHS 150 Hearing Processes & Disorders
+SHS 170 Intro Hum Comm Sys & Disorders
+SHS 191 Freshmen Seminar
+SHS 199 Undergraduate Open Seminar
+SHS 221 American Sign Language II
+SHS 222 Lang&Culture Deaf Communities
+SHS 270 Comm Disability in the Media
+SHS 271 Communication and Aging
+SHS 280 Communication Neuroscience
+SHS 291 Research Lab Experience in SHS
+SHS 300 Anat & Physiol Spch Mechanism
+SHS 320 Development of Spoken Language
+SHS 370 Civic Engagement in Wellness
+SHS 375 Comm Partners & Health
+SHS 383 Special Topics
+SHS 390 Individual Study
+SHS 395 Honors Individual Study
+SHS 431 Lang Disorders Preschool Child
+SHS 450 Intro Audiol & Hear Disorders
+SHS 451 Aural Rehab Children to Adults
+SHS 470 Neural Bases Spch Lang
+SHS 475 Prepracticum in SHS
+SHS 477 Beginning Practicum in SHS
+SHS 511 Assessment and Management of Voice Disorders
+SHS 532 Lang Disorders Schl-Age Child
+SHS 533 Advanced Language Diagnostics
+SHS 534 Aphasia and Related Disorders
+SHS 550 Assess Audition & Aud Disorder
+SHS 553 Hearing Aids and Amplification
+SHS 554 Advanced Audiological Assess
+SHS 557 Adv Clin Prac Aud Assess Rehab
+SHS 560 Audiological Assessment Lab
+SHS 563 Amplification Lab
+SHS 565 Teaching in the Professoriate
+SHS 570 Quant Reasoning Spch Hear Sci
+SHS 576 School Intrnshp Spch-Lang Path
+SHS 577 Advanced Practicum in SHS
+SHS 586 Adv Sem Development Com Dis
+SHS 592 Prosem Spch & Hear Sci
+SHS 593 Special Problems
+SHS 594 PhD Early Research Project
+SHS 599 Thesis Research
+SLAV 117 Russ & E Euro Science Fiction
+SLAV 199 Undergraduate Open Seminar
+SLAV 430 History of Translation
+SLAV 591 Individual Topics
+SLAV 599 Thesis Research
+SLCL 200 Topics in Global Culture
+SLS 460 Principles of Language Testing
+SLS 580 Classroom Lang Acquisition
+SOC 100 Introduction to Sociology
+SOC 108 Religion & Society in West I
+SOC 130 Intro Gender & Women's Studies
+SOC 160 Global Ineq and Social Change
+SOC 162 Intro to Intl Health Policy
+SOC 163 Social Problems
+SOC 200 Intro to Sociological Theory
+SOC 201 Race, Gender & Power
+SOC 221 Mexican & Latin Am Migration
+SOC 223 Black Women Contemp US Society
+SOC 225 Race and Ethnicity
+SOC 226 Political Sociology
+SOC 249 Sport & Modern Society
+SOC 255 Queer Lives, Queer Politics
+SOC 270 Population Issues
+SOC 274 Intro to Medical Sociology
+SOC 275 Criminology
+SOC 280 Intro to Social Statistics
+SOC 320 Queer Theory
+SOC 321 Gender & Latina/o Migration
+SOC 322 Gender, Relationshps & Society
+SOC 350 Technology and Society
+SOC 351 Social Aspects of Media
+SOC 373 Social Stratification
+SOC 380 Social Research Methods
+SOC 390 Individual Study
+SOC 392 Chicanas&Latinas: Self&Society
+SOC 396 Special Topics in Sociology
+SOC 400 Internships
+SOC 420 Sociology of Education
+SOC 421 Racial and Ethnic Families
+SOC 422 European Working Class History
+SOC 464 Comm in Env Social Movements
+SOC 476 Organization of Health Care
+SOC 478 Geography of Health Care
+SOC 480 Methods of Field Research
+SOC 485 Intermediate Social Statistics
+SOC 490 Advanced Independent Study
+SOC 501 Contemp Sociological Theory
+SOC 510 Professionalization Seminar
+SOC 572 Community In American Society
+SOC 590 Individual Topics in Sociology
+SOC 596 Recent Developments in Soc
+SOC 597 Readings in Sociology
+SOC 598 Thesis Proposal
+SOC 599 Thesis Research
+SOCW 101 SOCW Orientation Seminar
+SOCW 199 Undergraduate Open Seminar
+SOCW 200 Introduction to Social Work
+SOCW 225 Intro Stat for Social Work
+SOCW 240 Death & Dying
+SOCW 297 Asian Families in America
+SOCW 299 Study Abroad
+SOCW 300 Diversity: Identities & Issues
+SOCW 310 UG Research Assistance
+SOCW 321 Social Entre & Social Change
+SOCW 380 Current Topics in Social Work
+SOCW 400 Generalist SW Practice Methods
+SOCW 401 Practice I
+SOCW 402 Practice II
+SOCW 403 Practice III
+SOCW 410 Social Welfare Pol and Svcs
+SOCW 415 Social Services for the Aged
+SOCW 416 Child Welfare Issues & Trends
+SOCW 418 Independent Study
+SOCW 420 Subst Use in Social Context
+SOCW 427 Social Work Research Methods
+SOCW 451 HBSE I: Human Development
+SOCW 457 Health Planning
+SOCW 461 Professional Practice Seminar I
+SOCW 470 Field Practicum & Professional Seminar II
+SOCW 480 UG Research Project
+SOCW 500 SW Practice with Indiv and Fam
+SOCW 501 SW Practice with Groups
+SOCW 503 Trauma Informed SW Practice
+SOCW 505 Behav and Cogn Methods for SW
+SOCW 506 SW Practice with Child/Adol
+SOCW 509 Adv Clin Assess & Interviewing
+SOCW 520 Social Welfare Planning
+SOCW 522 SW Practice with Communities
+SOCW 531 Practice in Org Settings
+SOCW 532 Practice Evaluation
+SOCW 535 Local Policy & Immigration
+SOCW 541 Clinical Research Seminar
+SOCW 542 Program Evaluation
+SOCW 552 HBSE II: Mental Disorders
+SOCW 561 Special Studies in Soc Work I
+SOCW 562 Special Studies in Soc Work II
+SOCW 568 Field Instruction I
+SOCW 569 Field Instruction II
+SOCW 579 Social Work Practice Theories
+SOCW 585 National Social Welfare Policy
+SOCW 589 Social Work and the Law
+SOCW 593 Applied Qualitative Research
+SOCW 594 Individual Research
+SOCW 599 Dissertation Research
+SPAN 122 Intensive Elementary Spanish
+SPAN 130 Intermediate Spanish
+SPAN 141 Introduction to Spanish Grammar
+SPAN 142 Spanish in the Professions
+SPAN 191 Freshman Honors Tutorial
+SPAN 199 Undergraduate Open Seminar
+SPAN 200 Readings in Hispanic Texts
+SPAN 202 Spanish for Business
+SPAN 204 Advanced Spanish Grammar in Context
+SPAN 208 Oral Spanish
+SPAN 228 Spanish Composition
+SPAN 232 Spanish in the Community
+SPAN 240 Latina/o Popular Culture
+SPAN 242 Intro to Latina/o Literature
+SPAN 250 Introduction to Literary Analysis
+SPAN 252 Introduction to Hispanic Linguistics
+SPAN 254 Introduction to Cultural Analysis
+SPAN 303 The Sounds of Spanish
+SPAN 305 The Structure of Spanish
+SPAN 307 Bilingualism
+SPAN 308 Spanish in the United States
+SPAN 310 Premodern Spanish Literatures & Cultures
+SPAN 316 Latin American Literatures & Cultures from 1800
+SPAN 318 Spanish Cultural Studies I
+SPAN 320 Spanish Cultural Studies II
+SPAN 326 Latin America Cultural Studies II
+SPAN 399 Advanced Study Abroad
+SPAN 410 Spanish/English Translation
+SPAN 431 Spanish Morphology
+SPAN 434 History of the Spanish Language
+SPAN 436 History of Translation
+SPAN 460 Principles of Language Testing
+SPAN 462 Early Modern Spanish Studies
+SPAN 468 20th-21stC Span Am Studies
+SPAN 477 Span Grammar Comm Lang Tchg
+SPAN 489 Theoretical Foundations of SLA
+SPAN 490 Advanced Readings in Spanish
+SPAN 491 Topics for Honors Students
+SPAN 535 Sem Spanish-American Lit
+SPAN 571 Proseminar For Lang Tchg
+SPAN 580 Classroom Lang Acquisition
+SPAN 595 Special Topics in Spanish
+SPAN 599 Thesis Research
+SPED 117 The Culture of Disability
+SPED 199 Undergraduate Open Seminar
+SPED 322 Intro Intellectual Disability
+SPED 391 Thesis
+SPED 395 Independent Study
+SPED 405 Gen Educator's Role in SPED
+SPED 413 New Media &Learner Differences
+SPED 414 Assessment in ECSE
+SPED 431 Assistive Tech & Phys Disab
+SPED 432 Multiple Disabilities
+SPED 440 Instructional Strategies I
+SPED 444 Career Dev & Indiv with Disab
+SPED 446 Curriculum Development I
+SPED 450 Introduction to ECSE
+SPED 461 Augmentative Communication
+SPED 465 Curriculum and Methods in ECSE
+SPED 470 Learning Environments I
+SPED 471 Learning Environments II
+SPED 510 Legal Aspects of Disabilities
+SPED 517 Disability Issues in SPED
+SPED 524 Supervised Prac in SPED
+SPED 550 Methods of Educational Inquiry
+SPED 583 Single Case Experimntl Design
+SPED 590 Seminar for Advanced Students
+SPED 591 Field Study and Thesis Seminar
+SPED 592 Concepts and Issues in SPED I
+SPED 595 Independent Study
+SPED 599 Thesis Research
+STAT 100 Statistics
+STAT 200 Statistical Analysis
+STAT 212 Biostatistics
+STAT 361 Probability & Statistics for Computer Science
+STAT 391 Honors Individual Study
+STAT 400 Statistics and Probability I
+STAT 409 Actuarial Statistics II
+STAT 410 Statistics and Probability II
+STAT 420 Methods of Applied Statistics
+STAT 425 Applied Regression and Design
+STAT 428 Statistical Computing
+STAT 429 Time Series Analysis
+STAT 430 Topics in Applied Statistics
+STAT 440 Statistical Data Management
+STAT 443 Professional Statistics
+STAT 448 Advanced Data Analysis
+STAT 510 Mathematical Statistics I
+STAT 542 Statistical Learning
+STAT 552 Theory of Probability II
+STAT 553 Probability and Measure I
+STAT 555 Applied Stochastic Processes
+STAT 571 Multivariate Analysis
+STAT 578 Topics in Statistics
+STAT 587 Hierarchical Linear Models
+STAT 590 Individual Study and Research
+STAT 593 STAT Internship
+SWAH 201 Elementary Swahili I
+SWAH 403 Intermediate Swahili I
+SWAH 405 Advanced Swahili I
+SWAH 407 Topics Swahili Lang & Lit I
+TAM 195 Mechanics in the Modern World
+TAM 199 Undergraduate Open Seminar
+TAM 201 Mechanics for Technol & Mgmt
+TAM 210 Introduction to Statics
+TAM 211 Statics
+TAM 212 Introductory Dynamics
+TAM 251 Introductory Solid Mechanics
+TAM 324 Behavior of Materials
+TAM 335 Introductory Fluid Mechanics
+TAM 413 Fund of Engrg Acoustics
+TAM 424 Mechanics of Structural Metals
+TAM 428 Mechanics of Composites
+TAM 435 Intermediate Fluid Mechanics
+TAM 451 Intermediate Solid Mechanics
+TAM 461 Cellular Biomechanics
+TAM 470 Computational Mechanics
+TAM 497 Independent Study
+TAM 499 Senior Thesis
+TAM 500 Seminar
+TAM 514 Elastodynamics and Vibrations
+TAM 531 Inviscid Flow
+TAM 537 Experimental Fluid Mechanics
+TAM 539 Fluid Mechanics Seminar
+TAM 541 Mathematical Methods I
+TAM 545 Advanced Continuum Mechanics
+TAM 549 Asymptotic Methods
+TAM 551 Solid Mechanics I
+TAM 555 Fracture Mechanics
+TAM 597 Advanced Independent Study
+TAM 598 Advanced Special Topics
+TAM 599 Thesis Research
+TE 200 Introduction to Innovation
+TE 250 From Idea to Enterprise
+TE 298 Special Topics I
+TE 333 Creativity, Innovation, Vision
+TE 360 Lectures in Engineering Entrepreneurship
+TE 398 Special Topics II
+TE 401 Developing Breakthrough Projects
+TE 450 Startups: Inc, Fund, Contracts, IP
+TE 460 Entrepreneurship for Engineers
+TE 461 Technology Entrepreneurship
+TE 466 High-Tech Venture Marketing
+TE 497 Independent Study
+TE 498 Special Topics III
+TE 565 Technol Innovation & Strategy
+TE 566 Finance for Engineering Mgmt
+TE 567 Venture Funded Startups
+TE 598 Special Topics IV
+THEA 100 Practicum I
+THEA 101 Introduction to Theatre Arts
+THEA 102 Text to Stage
+THEA 110 Broadway Musicals
+THEA 170 Fundamentals of Acting I
+THEA 175 Fundamentals of Acting II
+THEA 199 Undergraduate Open Seminar
+THEA 208 Dramatic Analysis
+THEA 211 Introduction to Playwriting
+THEA 218 Intro to Social Issues Theatre
+THEA 220 Survey of Theatrical Design
+THEA 231 Intro to Lighting Design
+THEA 270 Relationships in Acting I
+THEA 271 Voice and Movement I
+THEA 323 The Comic Imagination
+THEA 360 History of Theatre I
+THEA 371 Acting Studio I: Dynamics
+THEA 372 Acting Studio I: Voice
+THEA 373 Acting Studio I: Movement
+THEA 374 Acting Studio I: Acting
+THEA 391 Individual Topics
+THEA 392 Individual Topics
+THEA 399 Undergraduate Group Seminar
+THEA 400 Practicum II
+THEA 409 Stage Management Workshop
+THEA 412 Directors Workshop
+THEA 415 Scenic Design I
+THEA 417 Leading Post-Perform Dialog
+THEA 418 Devising Social Issues Theatre
+THEA 419 CAD Drafting for the Stage
+THEA 423 Advanced Lighting Design
+THEA 425 Stage Drafting
+THEA 426 History of Decor
+THEA 427 Scene Painting
+THEA 430 Technical Direction
+THEA 431 Convergence Design I
+THEA 432 Convergence Design II
+THEA 435 Professional Lighting Systems
+THEA 437 Software for Lighting Design
+THEA 439 Stage Mechanics II
+THEA 440 Stage Mechanics III
+THEA 446 Costume History and Design II
+THEA 450 Management Seminar
+THEA 451 Principles of Stage Management
+THEA 453 Theatre Sound Technology
+THEA 455 Audio Production
+THEA 458 Rendering for Live Performance
+THEA 459 Sound Systems
+THEA 471 Acting Studio III: Dynamics
+THEA 472 Acting Studio III: Voice
+THEA 473 Acting Studio III: Movement
+THEA 474 Acting Studio III: Acting
+THEA 490 Professional Internship
+THEA 550 Colloquium Design & Theat Tech
+THEA 560 Seminar in Theatre History
+THEA 571 Colloquium in Acting: Dynamics
+THEA 572 Colloquium in Acting: Voice
+THEA 573 Colloquium in Acting: Movement
+THEA 574 Colloquium in Acting: Acting
+THEA 591 Special Problems
+THEA 595 Creative Project
+THEA 599 Thesis Research
+TMGT 367 Mgmt of Innov and Technology
+TMGT 460 Business Process Modeling
+TRST 403 Translation, Theory & Practice
+TRST 406 Translation for Professions
+TRST 407 Terminology and CAT
+TRST 408 Translation Tools & Practice
+TRST 412 Spanish/English Translation
+TRST 413 Arabic-English Translation
+TRST 431 History of Translation
+TRST 500 Translation Methods and Ethics
+TRST 502 Applied LiteraryTranslation II
+TRST 542 Conference Interpreting
+TRST 580 Special Topics in Translation
+TSM 100 Technical Systems in Agr
+TSM 130 Basics of CAD
+TSM 199 Undergraduate Open Seminar
+TSM 232 Materials and Construction Sys
+TSM 233 Metallurgy & Welding Process
+TSM 293 Off-Campus Internship
+TSM 295 Undergrad Research or Thesis
+TSM 311 Humanity in the Food Web
+TSM 372 Environ Control & HVAC Systems
+TSM 396 UG Honors Research or Thesis
+TSM 422 Ag Health-Illnesses Prevention
+TSM 430 Project Management
+TSM 435 Elec Computer Ctrl Sys
+TSM 438 Renewable Energy Applications
+TSM 467 Precision Agric Technology
+TSM 496 Independent Study
+TSM 501 Graduate Research I
+TSM 594 Graduate Seminar
+TSM 596 Independent Study
+TSM 599 Thesis Research
+TURK 201 Elementary Turkish I
+TURK 403 Intermediate Turkish I
+TURK 405 Advanced Turkish I
+UKR 101 Basic Ukrainian I
+UKR 199 Undergraduate Open Seminar
+UKR 201 Second-Year Ukrainan I
+UP 101 Introduction to City Planning
+UP 199 Undergraduate Open Seminar
+UP 201 Planning in Action
+UP 203 Cities: Planning & Urban Life
+UP 210 Environmental Economics
+UP 211 Local Planning, Gov't and Law
+UP 260 Social Inequality and Planning
+UP 312 Communication for Planners
+UP 330 The Modern American City
+UP 345 Economic Development Planning
+UP 390 Planning Internship
+UP 397 Undergraduate Project
+UP 405 Watershed Ecology and Planning
+UP 418 GIS for Planners
+UP 420 Plng for Historic Preservation
+UP 423 Community Development in the Global South
+UP 426 Urban Design and Planning
+UP 430 Urban Transportation Planning
+UP 438 Disasters and Urban Planning
+UP 447 Land Use Planning Workshop
+UP 456 Sustainable Planning Workshop
+UP 473 Housing & Urban Policy
+UP 494 Special Topics in Planning
+UP 501 Planning History and Theory
+UP 503 Physical Planning
+UP 504 Urban History and Theory
+UP 533 Community In American Society
+UP 535 Local Policy & Immigration
+UP 545 Economic Development Policy
+UP 547 Regional Planning and Policy
+UP 590 Professional Internship
+UP 591 Capstone Seminar
+UP 597 Urban Planning Research
+UP 598 Master's Project
+UP 599 Thesis Research
+VCM 501 Zoological Medicine Seminar
+VCM 503 Current Lit in Equine Med Surg
+VCM 506 Topics in Pathophysiology
+VCM 522 Adv Comp Theriogenology
+VCM 536 ECC Journal Topics
+VCM 542 Ocular Pathology
+VCM 553 Advanced Diagnostic Imaging
+VCM 577 Advanced Large Animal Medicine
+VCM 581 Emergency Diagnostic Imaging
+VCM 584 Current Concepts Comp Surgery
+VCM 585 Current Lit Sm Anim Medicine
+VCM 591 Advances in Vet Internal Med
+VCM 592 Special Problems
+VCM 593 Adv Topics Vet Clin Med
+VCM 598 Manuscript Research
+VCM 599 Thesis Research
+VCM 635 Advanced Soft Tissue Surgery
+VCM 643 Equine Emergency Medicine
+VCM 646 Lab Animal Science I
+VCM 648 One Medicine: One Health
+VCM 649 Avian Medicine and Surgery
+VCM 656 Lab Animal Science II
+VCM 657 Shelter Medicine II
+VCM 660 Advanced Equine Anatomy
+VCM 672 Food Supply Disease Prevention
+VCM 677 Study Abroad Germany
+VCM 682 Wildlife Medicine
+VCM 686 ZooMed: What is Your Diagnosis
+VCM 692 Special Problems
+VM 602 Structure and Function I
+VM 605 Pathobiology I
+VM 607 Pathobiology II
+VM 609 Medicine and Surgery I
+VM 610 Medicine and Surgery II
+VM 614 Clinical Practice V
+VM 615 Clinical Practice VI
+VM 620 Canine Feline Behavior
+VM 626 The Basics of Business
+VM 635 Veterinary Medical Spanish
+VM 642 Contemporary Issues in Vet Med
+VM 643 Fundamentals of Management
+WRIT 300 Issues in Tutoring Writing
+WRIT 303 Writing Across Media
+YDSH 103 Intermediate Yiddish I
+YDSH 220 Jewish Storytelling
+YDSH 320 Lit Responses to the Holocaust
+ZULU 201 Elementary Zulu I

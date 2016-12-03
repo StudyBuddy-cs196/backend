@@ -11,7 +11,9 @@ def scrape_course():
     subject_table = soup.find('table')
     links = subject_table.findAll('a')
     # object to hold all courses e.g. {"CS 125": "Intro to Comp. Sci.",...}
-    courses = []
+    # courses = []
+    # file to store all course names
+    course_file = open('courses.txt', 'w')
     # iterate through every link found
     for link in links:
         # for each link, we want to go in and parse all the classes
@@ -21,7 +23,7 @@ def scrape_course():
         course_table = soup.find('table')
         course_names = course_table.findAll('td')
 
-        course_arr = []
+        # course_arr = []
         # Example: course_code = "CS 125" course_name = "Intro to Comp. Sci."
         course_code = ""
         course_name = ""
@@ -30,12 +32,37 @@ def scrape_course():
             course = course.get_text().strip()
             if full_name:
                 course_name = course
-                course_arr.append(course_name)
-                courses.append(course_arr)
+                # course_arr.append(course_name)
+                # courses.append(course_arr)
+                course_file.write(course_code + " " + course_name + "\n")
             else:
-                course_arr = []
+                # course_arr = []
                 course_code = course
-                course_arr.append(course_code)
+                # course_arr.append(course_code)
             full_name = not full_name
         # print "Scraping..."
-    return courses
+        # break
+    course_file.close()
+    return "Done scraping!"
+    # return courses
+
+def load_courses():
+    '''
+    Basic function to read all the courses from the text file and parse
+    them correctly
+    '''
+    course_file = open('courses.txt', 'r')
+    for course_descrip in course_file:
+        # course_descrip = course_file.readline()
+        # course_code - "CS 125"
+        course_code = ''
+        # course_name - "Introduction to Computer Science"
+        course_name = ''
+        # an array with each course part separated
+        course_arr = course_descrip.split()
+
+        course_code = " ".join(course_arr[:2])
+        course_name = " ".join(course_arr[2:])
+        print course_code
+        print course_name
+    course_file.close()
