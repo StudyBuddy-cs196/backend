@@ -39,15 +39,16 @@ def register_route():
     """Register user into database or update their credentials"""
     # get name and email from request form
     email = request.form['email']
-
-    # check if the user is already registered
-    if check_registered(email):
-        return "Already registered"
-
     name = request.form['name']
     bio = request.form['bio']
     picture = request.form['picture']
     cursor = connection.cursor()
+
+    # check if the user is already registered
+    if check_registered(email):
+        cursor.execute('''UPDATE Users SET email=(%s),name=(%s),bio=(%s),picture=(%s) WHERE email=(%s)''', (email,name,bio,picture,email))
+        connection.commit()
+        return "Already registered"
 
     # execute an insert into the DB
     cursor.execute('''INSERT INTO Users (email, name, bio, picture, courses, latitude, longitude, discoverability) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)''', (email,name,bio,picture,'{}',"40.1141","-88.2243", "true"))
