@@ -5,6 +5,7 @@ import json
 from datetime import datetime
 import webscraper
 import os
+from random import random
 
 # set up flask app
 app = Flask(__name__)
@@ -50,8 +51,11 @@ def register_route():
         connection.commit()
         return "Already registered"
 
+    # get random location around siebel
+    latitude = 40.1141 + random()/10000
+    longitude = -88.2243 + random()/10000
     # execute an insert into the DB
-    cursor.execute('''INSERT INTO Users (email, name, bio, picture, courses, latitude, longitude, discoverability) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)''', (email,name,bio,picture,'{}',"40.1141","-88.2243", "true"))
+    cursor.execute('''INSERT INTO Users (email, name, bio, picture, courses, latitude, longitude, discoverability) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)''', (email,name,bio,picture,'{}',str(latitude),str(longitude), "true"))
     connection.commit()
     return "Done"
 
