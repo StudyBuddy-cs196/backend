@@ -48,7 +48,7 @@ def register_route():
     bio = request.form['bio']
     picture = request.form['picture']
     cursor = connection.cursor()
-    
+
     # execute an insert into the DB
     cursor.execute('''INSERT INTO Users (email, name, bio, picture, courses, latitude, longitude, discoverability) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)''', (email,name,bio,picture,'{}',"40.1141","-88.2243", "true"))
     connection.commit()
@@ -111,7 +111,7 @@ def matches():
     my_location = cur.fetchone()
 
     # find users that are discoverable
-    cur.execute('''SELECT courses, email, name, latitude, longitude FROM Users WHERE discoverability=TRUE and email<>(%s)''', (email,))
+    cur.execute('''SELECT courses, email, name, latitude, longitude, bio, picture FROM Users WHERE discoverability=TRUE and email<>(%s)''', (email,))
     initial_matches = cur.fetchall()
     print initial_matches
 
@@ -136,6 +136,8 @@ def matches():
             'name': match[2],
             'lat': location[0],
             'lng': location[1],
+            'bio': match[5],
+            'picture': match[6],
             'dist': getDistance(my_loc, location)
         })
     return json.dumps(final_matches)
