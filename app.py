@@ -55,6 +55,27 @@ def register_route():
     connection.commit()
     return "Done"
 
+@app.route('/get_user', methods=['GET'])
+def get_user():
+    email = request.args.get('email')
+    cursor = connection.cursor()
+    cursor.execute('''SELECT email, name, bio, picture, courses, latitude, longitude, discoverability FROM Users WHERE email=(%s)''', (email,))
+    userObj = cursor.fetchone()
+
+    user = {
+        'email': userObj[0],
+        'name': userObj[1],
+        'bio': userObj[2],
+        'picture': userObj[3],
+        'courses': userObj[4],
+        'latitude': float(userObj[5]),
+        'longitude': float(userObj[6]),
+        'discoverability': userObj[7]
+    }
+    print user
+    return json.dumps(user)
+
+
 @app.route('/courses', methods=['GET', 'POST'])
 def courses():
     if (request.method == 'GET'):
