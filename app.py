@@ -52,8 +52,8 @@ def register_route():
         return "Already registered"
 
     # get random location around siebel
-    latitude = 40.1141 + random()/10000
-    longitude = -88.2243 + random()/10000
+    latitude = 40.1141 + 5 * (random()/10000)
+    longitude = -88.2243 + 5 * (random()/10000)
     # execute an insert into the DB
     cursor.execute('''INSERT INTO Users (email, name, bio, picture, courses, latitude, longitude, discoverability) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)''', (email,name,bio,picture,'{}',str(latitude),str(longitude), "true"))
     connection.commit()
@@ -74,7 +74,7 @@ def get_user():
         'courses': userObj[4],
         'latitude': float(userObj[5]),
         'longitude': float(userObj[6]),
-        'discoverability': userObj[7]
+        'discoverability': userObj[7],
     }
     print user
     return json.dumps(user)
@@ -224,6 +224,12 @@ def all_courses():
         })
     return json.dumps(json_course)
 
+@app.route('/add_column')
+def add_column():
+    cursor = connection.cursor()
+    cursor.execute('''ALTER TABLE Users ADD "userid" text''')
+    connection.commit()
+    return "idk?"
 
 def course_load():
     """
