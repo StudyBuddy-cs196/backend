@@ -51,9 +51,10 @@ def register_route():
         connection.commit()
         return "Already registered"
 
-    # get random location around siebel
-    latitude = 40.1141 + 5 * (random()/10000)
-    longitude = -88.2243 + 5 * (random()/10000)
+    # set lat/lng to initially be 0 until we grab user location
+    latitude = 0
+    longitude = 0
+
     # execute an insert into the DB
     cursor.execute('''INSERT INTO Users (email, name, bio, picture, courses, latitude, longitude, discoverability) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)''', (email,name,bio,picture,'{}',str(latitude),str(longitude), "true"))
     connection.commit()
@@ -74,7 +75,7 @@ def get_user():
         'courses': userObj[4],
         'latitude': float(userObj[5]),
         'longitude': float(userObj[6]),
-        'discoverability': userObj[7],
+        'discoverability': userObj[7]
     }
     print user
     return json.dumps(user)
